@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "cleanUrls": true,
   "rewrites": [
     {
       "source": "/checkout",
       "destination": "/checkout.html"
     },
     {
-      "source": "/checkout/:path*",
+      "source": "/checkout/(.*)",
       "destination": "/checkout.html"
     },
     {
@@ -15,7 +14,11 @@
       "destination": "/lp.html"
     },
     {
-      "source": "/:path*",
+      "source": "/lp/(.*)",
+      "destination": "/lp.html"
+    },
+    {
+      "source": "/(.*)",
       "destination": "/index.html"
     }
   ],
