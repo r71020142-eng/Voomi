@@ -843,6 +843,7 @@
       }
 
       const total = Math.max(1, basePrice + bumpPrice - discVal);
+      currentCalculatedTotal = total;
 
       document.getElementById("sum-plan-price").innerText = "R$ " + basePrice.toFixed(2).replace(".", ",");
       
@@ -958,7 +959,40 @@
       }, 1400);
     }
 
+    async function saveOrderToSupabase(orderData) {
+      try {
+        await fetch("https://jdeucaxtmgkzeqihayki.supabase.co/rest/v1/orders", {
+          method: "POST",
+          headers: {
+            "apikey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpkZXVjYXh0bWdremVxaWhheWtpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA2MjkzMTksImV4cCI6MjEwNjIwNTMxOX0.XAJHEmZa2rG-UvLvefK_pdVYu85ZhJirnEOsQRlPqnQ",
+            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpkZXVjYXh0bWdremVxaWhheWtpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA2MjkzMTksImV4cCI6MjEwNjIwNTMxOX0.XAJHEmZa2rG-UvLvefK_pdVYu85ZhJirnEOsQRlPqnQ",
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(orderData)
+        });
+      } catch (e) {
+        console.warn("Supabase order sync error:", e);
+      }
+    }
+
     function simulatePaymentSuccess() {
+      const name = document.getElementById("name") ? document.getElementById("name").value.trim() : "";
+      const email = document.getElementById("email") ? document.getElementById("email").value.trim() : "";
+      const phone = document.getElementById("phone") ? document.getElementById("phone").value.trim() : "";
+      const cpf = document.getElementById("cpf") ? document.getElementById("cpf").value.trim() : "";
+
+      saveOrderToSupabase({
+        customer_name: name || "Cliente Voomi",
+        customer_email: email || "cliente@voomi.app",
+        customer_phone: phone,
+        customer_cpf: cpf,
+        plan_name: PLANS[currentPlan]?.title || currentPlan,
+        amount: currentCalculatedTotal || PLANS[currentPlan].price,
+        payment_method: paymentMethod,
+        status: "paid",
+        order_bump: hasOrderBump
+      });
+
       confetti({
         particleCount: 120,
         spread: 70,

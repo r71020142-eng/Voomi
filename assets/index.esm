@@ -34,7 +34,7 @@
          custom domain the client tries FIRST (see src/integrations/supabase/client.ts); the
          *.supabase.co host is only the failover, so it gets dns-prefetch, not a handshake. -->
     <link rel="preconnect" href="https://api.tikshoplab.com.br" crossorigin />
-    <link rel="dns-prefetch" href="https://omlwqrtqivqcgrrlrlzf.supabase.co" />
+    <link rel="dns-prefetch" href="https://jdeucaxtmgkzeqihayki.supabase.co" />
 
     <!-- Icons & PWA -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
