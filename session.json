@@ -1,0 +1,51 @@
+{
+  "access_token": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjVmYWRiZjg4LWZmODItNDI1OS1hOTI3LWIxN2NjNzkwNDhmZSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL29tbHdxcnRxaXZxY2dycmxybHpmLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiI5OWZmMTg2Ny1lOTdiLTQzZDEtOWRhYS0wMzI1OGM2OTk0MzYiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzg5MTI3NDg5LCJpYXQiOjE3ODkxMjM4ODksImVtYWlsIjoibWF0aGV1c21vcmVpcmE3N0BpY2xvdWQuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZGF0YSI6eyJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZnVsbF9uYW1lIjoibWF0aGV1cyBoZW5yaXF1ZSBtb3JlaXJhIHNhbHZhZG9yIiwicGhvbmUiOiIrNTUzMTk5MDczNjcxMiIsInNvdXJjZSI6ImFwcGx5ZnlfcHVyY2hhc2UifSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJwYXNzd29yZCIsInRpbWVzdGFtcCI6MTc4OTEyMzg4OX1dLCJzZXNzaW9uX2lkIjoiY2QyZjU1OTMtMWExZC00Zjc2LTgyNTgtZTFmODJmN2Y2MGEzIiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.vmFaJ12su9mZhCgPOdQ4YthxiRTXT1invG0MyslziKDVXmO-H19iX5gp427gJQOlLE7CujyBVa44N7w-OXvBJw",
+  "token_type": "bearer",
+  "expires_in": 3600,
+  "expires_at": 1789127489,
+  "refresh_token": "qaawrec6o3h2",
+  "user": {
+    "id": "99ff1867-e97b-43d1-9daa-03258c699436",
+    "aud": "authenticated",
+    "role": "authenticated",
+    "email": "matheusmoreira77@icloud.com",
+    "email_confirmed_at": "2026-05-06T22:56:33.16622Z",
+    "phone": "",
+    "confirmed_at": "2026-05-06T22:56:33.16622Z",
+    "last_sign_in_at": "2026-09-11T10:51:29.215162058Z",
+    "app_metadata": {
+      "provider": "email",
+      "providers": [
+        "email"
+      ]
+    },
+    "user_metadata": {
+      "email_verified": true,
+      "full_name": "matheus henrique moreira salvador",
+      "phone": "+5531990736712",
+      "source": "applyfy_purchase"
+    },
+    "identities": [
+      {
+        "identity_id": "556b2edf-37ac-49ed-bdbc-ba87d52cae23",
+        "id": "99ff1867-e97b-43d1-9daa-03258c699436",
+        "user_id": "99ff1867-e97b-43d1-9daa-03258c699436",
+        "identity_data": {
+          "email": "matheusmoreira77@icloud.com",
+          "email_verified": false,
+          "phone_verified": false,
+          "sub": "99ff1867-e97b-43d1-9daa-03258c699436"
+        },
+        "provider": "email",
+        "last_sign_in_at": "2026-05-06T22:56:33.160678Z",
+        "created_at": "2026-05-06T22:56:33.160734Z",
+        "updated_at": "2026-05-06T22:56:33.160734Z",
+        "email": "matheusmoreira77@icloud.com"
+      }
+    ],
+    "created_at": "2026-05-06T22:56:33.153273Z",
+    "updated_at": "2026-09-11T10:51:29.286584Z",
+    "is_anonymous": false
+  },
+  "weak_password": null
+}

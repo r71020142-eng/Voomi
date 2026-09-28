@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-0vZSBttN.js";import{i as t,lt as n,mt as r}from"./index-Wj8Sw0p-.js";var i=e();function a(){let{isAffiliate:e,isOwner:a,canManageAffiliates:o}=n(),s=t({isAffiliate:e,isOwner:a,canManageAffiliates:o});return s?(0,i.jsx)(r,{to:s,replace:!0}):null}export{a as default};

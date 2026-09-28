@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dfb9030d-8a0c-490e-a542-858ff851fddb",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436",
+    "period_start": "2026-07-01",
+    "period_end": "2026-08-01",
+    "total_value": 27890,
+    "total_commission": 2789,
+    "sales_count": 260,
+    "created_at": "2026-07-14T01:29:22.496453+00:00"
+  },
+  {
+    "id": "76ae7aab-81b8-4fc0-842e-e80b1c04fe02",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436",
+    "period_start": "2026-08-01",
+    "period_end": "2026-09-01",
+    "total_value": 100000,
+    "total_commission": 10000,
+    "sales_count": 2000,
+    "created_at": "2026-08-11T17:47:37.106568+00:00"
+  }
+]

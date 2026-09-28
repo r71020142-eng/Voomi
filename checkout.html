@@ -1,0 +1,976 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Voomi — Checkout Seguro</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+
+  <style>
+    :root {
+      --bg: #0b0f0d;
+      --card: #121915;
+      --card-border: #1e2923;
+      --primary: #2ee08d;
+      --primary-hover: #26c77b;
+      --primary-glow: rgba(46, 224, 141, 0.25);
+      --text: #edf3ef;
+      --text-muted: #86988d;
+      --text-faint: #5e6e65;
+      --danger: #e05757;
+      --font-heading: "Bebas Neue", sans-serif;
+      --font-body: "Space Grotesk", sans-serif;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: var(--font-body);
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* Ambient background glow */
+    .ambient-glow {
+      position: fixed;
+      width: 500px;
+      height: 500px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(46, 224, 141, 0.08) 0%, transparent 70%);
+      filter: blur(80px);
+      pointer-events: none;
+      z-index: 0;
+    }
+    .glow-1 { top: -100px; right: -100px; }
+    .glow-2 { bottom: -150px; left: -150px; }
+
+    header {
+      border-bottom: 1px solid var(--card-border);
+      background: rgba(11, 15, 13, 0.85);
+      backdrop-filter: blur(12px);
+      padding: 16px 24px;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+
+    .header-content {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      color: var(--text);
+    }
+
+    .logo img {
+      height: 28px;
+    }
+
+    .badge-secure {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(46, 224, 141, 0.1);
+      border: 1px solid rgba(46, 224, 141, 0.3);
+      color: var(--primary);
+      font-size: 12px;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 9999px;
+    }
+
+    .main-wrap {
+      flex: 1;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 32px 20px 60px;
+      width: 100%;
+      position: relative;
+      z-index: 1;
+    }
+
+    .checkout-grid {
+      display: grid;
+      grid-template-columns: 1.35fr 1fr;
+      gap: 32px;
+      align-items: start;
+    }
+
+    @media (max-width: 900px) {
+      .checkout-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    }
+
+    .card-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .step-num {
+      background: var(--primary);
+      color: var(--bg);
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    /* Forms */
+    .form-group {
+      margin-bottom: 16px;
+    }
+
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    label {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+
+    input, select {
+      width: 100%;
+      background: #0f1512;
+      border: 1px solid #233029;
+      color: var(--text);
+      padding: 12px 14px;
+      border-radius: 10px;
+      font-size: 14px;
+      outline: none;
+      transition: all 0.2s ease;
+    }
+
+    input:focus, select:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px var(--primary-glow);
+    }
+
+    /* Tabs */
+    .payment-tabs {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .tab-btn {
+      background: #0f1512;
+      border: 1px solid #233029;
+      color: var(--text-muted);
+      padding: 14px;
+      border-radius: 12px;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+      font-weight: 600;
+      font-size: 13px;
+      transition: all 0.2s ease;
+    }
+
+    .tab-btn.active {
+      background: rgba(46, 224, 141, 0.08);
+      border-color: var(--primary);
+      color: var(--primary);
+      box-shadow: 0 0 15px var(--primary-glow);
+    }
+
+    .tab-btn span.tag {
+      font-size: 10px;
+      background: rgba(46, 224, 141, 0.2);
+      color: var(--primary);
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+
+    /* Buttons */
+    .btn-submit {
+      width: 100%;
+      background: var(--primary);
+      color: #0b0f0d;
+      border: none;
+      padding: 16px;
+      border-radius: 12px;
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      box-shadow: 0 6px 20px rgba(46, 224, 141, 0.35);
+      transition: all 0.2s ease;
+      margin-top: 10px;
+    }
+
+    .btn-submit:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(46, 224, 141, 0.5);
+    }
+
+    .btn-secondary {
+      background: #1a251f;
+      color: #c5d3cb;
+      border: 1px solid #28372f;
+      padding: 10px 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 600;
+      transition: all 0.15s ease;
+    }
+    .btn-secondary:hover {
+      border-color: var(--primary);
+      color: var(--text);
+    }
+
+    /* Order Bump */
+    .order-bump {
+      background: rgba(46, 224, 141, 0.04);
+      border: 1px dashed rgba(46, 224, 141, 0.4);
+      border-radius: 12px;
+      padding: 14px;
+      display: flex;
+      align-items: start;
+      gap: 12px;
+      cursor: pointer;
+      margin-bottom: 20px;
+    }
+
+    .order-bump input[type="checkbox"] {
+      width: 20px;
+      height: 20px;
+      accent-color: var(--primary);
+      margin-top: 2px;
+    }
+
+    /* Plan Picker & Summary */
+    .plan-selector {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .plan-opt {
+      border: 1px solid var(--card-border);
+      background: #0f1512;
+      border-radius: 10px;
+      padding: 12px 14px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .plan-opt.active {
+      border-color: var(--primary);
+      background: rgba(46, 224, 141, 0.06);
+    }
+
+    .plan-opt .title {
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .plan-opt .price {
+      font-weight: 700;
+      color: var(--primary);
+      font-size: 15px;
+    }
+
+    .benefits-list {
+      list-style: none;
+      margin: 16px 0;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .benefits-list li {
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .benefits-list li span.check {
+      color: var(--primary);
+      font-weight: bold;
+    }
+
+    .price-summary {
+      border-top: 1px solid var(--card-border);
+      padding-top: 14px;
+      margin-top: 14px;
+    }
+
+    .summary-line {
+      display: flex;
+      justify-content: space-between;
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+    }
+
+    .summary-total {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      padding-top: 8px;
+      border-top: 1px dashed var(--card-border);
+    }
+
+    .total-val {
+      font-size: 24px;
+      color: var(--primary);
+      font-family: var(--font-heading);
+      letter-spacing: 0.05em;
+    }
+
+    /* PIX Result Display */
+    #pix-display {
+      display: none;
+      background: #0f1512;
+      border: 1px solid var(--card-border);
+      border-radius: 14px;
+      padding: 20px;
+      text-align: center;
+      margin-top: 16px;
+    }
+
+    .pix-qr {
+      background: white;
+      padding: 12px;
+      border-radius: 12px;
+      display: inline-block;
+      margin: 14px 0;
+    }
+
+    .pix-code-box {
+      background: #080c0a;
+      border: 1px solid #1a251e;
+      padding: 10px 12px;
+      border-radius: 8px;
+      font-family: monospace;
+      font-size: 11px;
+      color: #9cb0a4;
+      word-break: break-all;
+      margin-bottom: 12px;
+      max-height: 70px;
+      overflow-y: auto;
+    }
+
+    .timer-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: #ffc44d;
+      background: rgba(255, 196, 77, 0.1);
+      padding: 4px 10px;
+      border-radius: 6px;
+      margin-bottom: 8px;
+    }
+
+    /* Modal Success */
+    #success-modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.85);
+      backdrop-filter: blur(16px);
+      z-index: 99999;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .modal-box {
+      background: #111814;
+      border: 1px solid var(--primary);
+      border-radius: 20px;
+      max-width: 460px;
+      width: 100%;
+      padding: 36px 28px;
+      text-align: center;
+      box-shadow: 0 0 50px rgba(46, 224, 141, 0.3);
+      animation: popIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    @keyframes popIn {
+      from { transform: scale(0.9); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+
+    .success-icon {
+      width: 68px;
+      height: 68px;
+      background: rgba(46, 224, 141, 0.15);
+      border: 2px solid var(--primary);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 16px;
+      color: var(--primary);
+      font-size: 32px;
+    }
+
+    /* Security Box */
+    .security-info {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 12px 14px;
+      margin-top: 16px;
+    }
+
+    .security-info p {
+      font-size: 11px;
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="ambient-glow glow-1"></div>
+  <div class="ambient-glow glow-2"></div>
+
+  <header>
+    <div class="header-content">
+      <a href="/" class="logo">
+        <img src="/favicon.svg" alt="Voomi">
+        <span style="font-family: var(--font-heading); font-size: 26px; letter-spacing: 0.05em;">VOOMI</span>
+      </a>
+      <div class="badge-secure">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        Ambiente 100% Seguro
+      </div>
+    </div>
+  </header>
+
+  <main class="main-wrap">
+    <div class="checkout-grid">
+      
+      <!-- Left Column: Forms -->
+      <div class="left-col">
+        
+        <!-- Passo 1: Dados Pessoais -->
+        <div class="card">
+          <div class="card-title">
+            <span class="step-num">1</span>
+            Seus Dados de Acesso
+          </div>
+
+          <div class="form-group">
+            <label for="name">Nome Completo</label>
+            <input type="text" id="name" placeholder="Ex: Matheus Moreira" required>
+          </div>
+
+          <div class="form-group">
+            <label for="email">E-mail para Receber o Acesso</label>
+            <input type="email" id="email" placeholder="seu@email.com" required>
+            <small style="color: var(--text-faint); font-size: 11px; margin-top: 4px; display: block;">
+              Seus dados de login serão ativados para este e-mail.
+            </small>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="cpf">CPF (para emissão fiscal)</label>
+              <input type="text" id="cpf" placeholder="000.000.000-00" maxlength="14" oninput="maskCPF(this)">
+            </div>
+            <div class="form-group">
+              <label for="phone">WhatsApp / Celular</label>
+              <input type="text" id="phone" placeholder="(11) 99999-9999" maxlength="15" oninput="maskPhone(this)">
+            </div>
+          </div>
+        </div>
+
+        <!-- Passo 2: Pagamento -->
+        <div class="card">
+          <div class="card-title">
+            <span class="step-num">2</span>
+            Forma de Pagamento
+          </div>
+
+          <div class="payment-tabs">
+            <button type="button" class="tab-btn active" id="tab-pix" onclick="setPaymentMethod(pix)">
+              <span style="font-size: 18px;">⚡</span>
+              <span>PIX Instantâneo</span>
+              <span class="tag">Aprovação Imediata</span>
+            </button>
+            <button type="button" class="tab-btn" id="tab-card" onclick="setPaymentMethod(card)">
+              <span style="font-size: 18px;">💳</span>
+              <span>Cartão de Crédito</span>
+              <span style="font-size: 10px; color: var(--text-muted);">Até 12x</span>
+            </button>
+          </div>
+
+          <!-- Section PIX -->
+          <div id="section-pix">
+            <div style="background: rgba(46, 224, 141, 0.05); border: 1px solid rgba(46, 224, 141, 0.2); padding: 14px; border-radius: 12px; margin-bottom: 16px;">
+              <p style="font-size: 12.5px; color: #b7cbbf; line-height: 1.5;">
+                ✓ <b>Liberação imediata</b> da sua conta<br>
+                ✓ Sem juros de operadora de cartão<br>
+                ✓ QR Code válido por 15 minutos
+              </p>
+            </div>
+
+            <button type="button" class="btn-submit" onclick="generatePix()">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+              <span id="btn-pix-text">Gerar QR Code PIX — R$ 597,00</span>
+            </button>
+
+            <!-- PIX Generated Box -->
+            <div id="pix-display">
+              <div class="timer-badge">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                Tempo restante: <span id="pix-countdown">14:59</span>
+              </div>
+              <p style="font-size: 13px; color: var(--text-muted); margin-bottom: 8px;">
+                Abra o app do seu banco e escaneie o QR Code abaixo:
+              </p>
+
+              <!-- Real QR Code SVG simulated -->
+              <div class="pix-qr">
+                <img id="pix-qr-img" src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=00020126580014br.gov.bcb.pix0136voomi-pagamentos-123455204000053039865802BR5913VOOMI%20APP6009SAO%20PAULO62070503***6304ABCD" alt="QR Code PIX" style="width: 170px; height: 170px; display: block;">
+              </div>
+
+              <p style="font-size: 12px; color: var(--text-muted); margin-bottom: 6px;">Ou copie o código Copia e Cola:</p>
+              <div class="pix-code-box" id="pix-code-text">00020126580014br.gov.bcb.pix0136voomi-pagamentos-123455204000053039865802BR5913VOOMI APP6009SAO PAULO62070503***6304ABCD</div>
+              
+              <div style="display: flex; gap: 8px; justify-content: center;">
+                <button type="button" class="btn-secondary" onclick="copyPixCode()">
+                  📋 Copiar Código PIX
+                </button>
+                <button type="button" class="btn-secondary" style="border-color: var(--primary); color: var(--primary);" onclick="simulatePaymentSuccess()">
+                  ⚡ Simular Pagamento Aprovado
+                </button>
+              </div>
+
+              <div style="margin-top: 14px; font-size: 11px; color: var(--text-faint); display: flex; align-items: center; justify-content: center; gap: 6px;">
+                <div style="width: 8px; height: 8px; border-radius: 50%; background: #ffc44d; animation: pulse 1.5s infinite;"></div>
+                Aguardando confirmação bancária em tempo real...
+              </div>
+            </div>
+          </div>
+
+          <!-- Section Card -->
+          <div id="section-card" style="display: none;">
+            <div class="form-group">
+              <label for="card-num">Número do Cartão</label>
+              <input type="text" id="card-num" placeholder="0000 0000 0000 0000" maxlength="19" oninput="maskCard(this)">
+            </div>
+
+            <div class="form-group">
+              <label for="card-name">Nome Impresso no Cartão</label>
+              <input type="text" id="card-name" placeholder="Como impresso no cartão">
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label for="card-exp">Validade</label>
+                <input type="text" id="card-exp" placeholder="MM/AA" maxlength="5" oninput="maskExp(this)">
+              </div>
+              <div class="form-group">
+                <label for="card-cvv">Código (CVV)</label>
+                <input type="text" id="card-cvv" placeholder="123" maxlength="4">
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="card-installments">Parcelas</label>
+              <select id="card-installments">
+                <option value="1">1x de R$ 597,00 (sem juros)</option>
+                <option value="2">2x de R$ 305,40</option>
+                <option value="3">3x de R$ 205,80</option>
+                <option value="6">6x de R$ 107,46</option>
+                <option value="12" selected>12x de R$ 63,55 (Mais Escolhido)</option>
+              </select>
+            </div>
+
+            <button type="button" class="btn-submit" onclick="simulateCardPayment()">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg>
+              <span id="btn-card-text">Pagar com Cartão — R$ 597,00</span>
+            </button>
+          </div>
+
+        </div>
+
+      </div>
+
+      <!-- Right Column: Order Summary -->
+      <div class="right-col">
+        <div class="card" style="position: sticky; top: 88px;">
+          <div class="card-title">Resumo do Pedido</div>
+
+          <!-- Plan Selection -->
+          <div class="plan-selector">
+            <div class="plan-opt" id="opt-monthly" onclick="selectPlan(monthly)">
+              <div>
+                <div class="title">Plano Mensal</div>
+                <div style="font-size: 11px; color: var(--text-muted);">Renovação a cada 30 dias</div>
+              </div>
+              <div class="price">R$ 297,00</div>
+            </div>
+
+            <div class="plan-opt active" id="opt-annual" onclick="selectPlan(annual)">
+              <div>
+                <div class="title">Plano Anual <span style="font-size: 10px; background: rgba(46,224,141,0.2); color: var(--primary); padding: 2px 6px; border-radius: 4px; font-weight: 700;">RECOMENDADO</span></div>
+                <div style="font-size: 11px; color: var(--text-muted);">12 meses de acesso completo</div>
+              </div>
+              <div class="price">12x R$ 63,55</div>
+            </div>
+
+            <div class="plan-opt" id="opt-lifetime" onclick="selectPlan(lifetime)">
+              <div>
+                <div class="title">Plano Vitalício</div>
+                <div style="font-size: 11px; color: var(--text-muted);">Acesso sem mensalidades</div>
+              </div>
+              <div class="price">R$ 697,00</div>
+            </div>
+          </div>
+
+          <!-- Benefits -->
+          <ul class="benefits-list">
+            <li><span class="check">✓</span> Radar de Produtos 2.0 (FastMoss TikTok Shop)</li>
+            <li><span class="check">✓</span> Creator Lab & Clonagem de Movimentos</li>
+            <li><span class="check">✓</span> Avatares e Cenários Ilimitados</li>
+            <li><span class="check">✓</span> Treinamentos e Aulas no Lab Academy</li>
+            <li><span class="check">✓</span> Comunidade Secreta de Afiliados</li>
+          </ul>
+
+          <!-- Order Bump -->
+          <label class="order-bump">
+            <input type="checkbox" id="bump-check" onchange="toggleOrderBump()">
+            <div style="font-size: 12px; line-height: 1.4;">
+              <b style="color: #ffc44d;">🔥 OFERTA EXCLUSIVA DE CHECKOUT:</b><br>
+              Adicionar o <b>Pack Secreto com 500+ Prompts Virais Validados</b> de <del>R$ 97,00</del> por apenas <b>R$ 29,90</b>.
+            </div>
+          </label>
+
+          <!-- Cupom -->
+          <div style="display: flex; gap: 8px; margin-bottom: 14px;">
+            <input type="text" id="coupon-code" placeholder="Cupom de desconto" style="text-transform: uppercase;">
+            <button type="button" class="btn-secondary" onclick="applyCoupon()">Aplicar</button>
+          </div>
+          <div id="coupon-msg" style="font-size: 11px; margin-top: -8px; margin-bottom: 10px; display: none;"></div>
+
+          <!-- Price Calculation -->
+          <div class="price-summary">
+            <div class="summary-line">
+              <span>Plano Selecionado</span>
+              <span id="sum-plan-price">R$ 597,00</span>
+            </div>
+            <div class="summary-line" id="sum-bump-row" style="display: none;">
+              <span>Pack 500+ Prompts Virais</span>
+              <span style="color: var(--primary);">+ R$ 29,90</span>
+            </div>
+            <div class="summary-line" id="sum-discount-row" style="display: none; color: var(--primary);">
+              <span>Desconto Cupom</span>
+              <span id="sum-discount-val">- R$ 0,00</span>
+            </div>
+            <div class="summary-total">
+              <span>Total:</span>
+              <span class="total-val" id="sum-total">R$ 597,00</span>
+            </div>
+          </div>
+
+          <!-- Security Badge -->
+          <div class="security-info">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#2ee08d" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            <p>
+              <b>Garantia Incondicional de 7 Dias:</b> Se não estiver satisfeito, devolvemos 100% do seu dinheiro.
+            </p>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Success Modal -->
+  <div id="success-modal">
+    <div class="modal-box">
+      <div class="success-icon">✓</div>
+      <h2 style="font-size: 24px; font-weight: 700; margin-bottom: 8px; color: var(--text);">Pagamento Aprovado! 🎉</h2>
+      <p style="color: var(--text-muted); font-size: 14px; margin-bottom: 24px; line-height: 1.5;">
+        Seu acesso à plataforma <b>Voomi</b> foi liberado com sucesso. Enviamos a confirmação para o seu e-mail.
+      </p>
+
+      <div style="background: rgba(46, 224, 141, 0.08); border: 1px solid rgba(46, 224, 141, 0.3); border-radius: 12px; padding: 14px; margin-bottom: 24px; text-align: left; font-size: 13px;">
+        <div style="color: var(--text-muted); margin-bottom: 4px;">Status da Assinatura:</div>
+        <div style="font-weight: 700; color: var(--primary); font-size: 15px;">✓ Ativa & Liberada</div>
+      </div>
+
+      <button type="button" class="btn-submit" onclick="redirectToApp()">
+        Acessar Plataforma Agora ↗
+      </button>
+    </div>
+  </div>
+
+  <script>
+    // State
+    const PLANS = {
+      monthly: { name: "Plano Mensal", price: 297, installment: "12x de R$ 31,64", cash: "R$ 297,00" },
+      annual: { name: "Plano Anual", price: 597, installment: "12x de R$ 63,55", cash: "R$ 597,00" },
+      lifetime: { name: "Plano Vitalício", price: 697, installment: "12x de R$ 74,19", cash: "R$ 697,00" }
+    };
+
+    let currentPlan = "annual";
+    let paymentMethod = "pix";
+    let hasOrderBump = false;
+    let discount = 0;
+    let countdownInterval = null;
+
+    // Read URL params
+    window.addEventListener("DOMContentLoaded", () => {
+      const params = new URLSearchParams(window.location.search);
+      const planParam = params.get("plan");
+      if (planParam && PLANS[planParam]) {
+        selectPlan(planParam);
+      }
+    });
+
+    function selectPlan(key) {
+      currentPlan = key;
+      document.querySelectorAll(".plan-opt").forEach(el => el.classList.remove("active"));
+      document.getElementById("opt-" + key).classList.add("active");
+      updateTotals();
+    }
+
+    function toggleOrderBump() {
+      hasOrderBump = document.getElementById("bump-check").checked;
+      document.getElementById("sum-bump-row").style.display = hasOrderBump ? "flex" : "none";
+      updateTotals();
+    }
+
+    function applyCoupon() {
+      const code = document.getElementById("coupon-code").value.trim().toUpperCase();
+      const msg = document.getElementById("coupon-msg");
+      if (code === "VOOMI10" || code === "CREATOR10") {
+        discount = 0.10; // 10%
+        msg.style.display = "block";
+        msg.style.color = "var(--primary)";
+        msg.innerText = "✓ Cupom de 10% aplicado com sucesso!";
+      } else if (code === "VOOMI20") {
+        discount = 0.20; // 20%
+        msg.style.display = "block";
+        msg.style.color = "var(--primary)";
+        msg.innerText = "✓ Cupom de 20% aplicado com sucesso!";
+      } else if (code === "VIP100") {
+        discount = 100; // R$ 100
+        msg.style.display = "block";
+        msg.style.color = "var(--primary)";
+        msg.innerText = "✓ Desconto de R$ 100,00 aplicado!";
+      } else {
+        discount = 0;
+        msg.style.display = "block";
+        msg.style.color = "var(--danger)";
+        msg.innerText = "✗ Cupom inválido ou expirado.";
+      }
+      updateTotals();
+    }
+
+    function updateTotals() {
+      const basePrice = PLANS[currentPlan].price;
+      const bumpPrice = hasOrderBump ? 29.90 : 0;
+      let discVal = 0;
+      if (discount > 0 && discount < 1) {
+        discVal = (basePrice + bumpPrice) * discount;
+      } else if (discount >= 1) {
+        discVal = discount;
+      }
+
+      const total = Math.max(1, basePrice + bumpPrice - discVal);
+
+      document.getElementById("sum-plan-price").innerText = "R$ " + basePrice.toFixed(2).replace(".", ",");
+      
+      const discRow = document.getElementById("sum-discount-row");
+      if (discVal > 0) {
+        discRow.style.display = "flex";
+        document.getElementById("sum-discount-val").innerText = "- R$ " + discVal.toFixed(2).replace(".", ",");
+      } else {
+        discRow.style.display = "none";
+      }
+
+      const totalStr = "R$ " + total.toFixed(2).replace(".", ",");
+      document.getElementById("sum-total").innerText = totalStr;
+      document.getElementById("btn-pix-text").innerText = "Gerar QR Code PIX — " + totalStr;
+      document.getElementById("btn-card-text").innerText = "Pagar com Cartão — " + totalStr;
+
+      // Update card installments
+      const instSelect = document.getElementById("card-installments");
+      instSelect.innerHTML = `
+        <option value="1">1x de ${totalStr} (à vista)</option>
+        <option value="2">2x de R$ ${(total * 1.04 / 2).toFixed(2).replace(".", ",")}</option>
+        <option value="3">3x de R$ ${(total * 1.06 / 3).toFixed(2).replace(".", ",")}</option>
+        <option value="6">6x de R$ ${(total * 1.10 / 6).toFixed(2).replace(".", ",")}</option>
+        <option value="12" selected>12x de R$ ${(total * 1.28 / 12).toFixed(2).replace(".", ",")} (Mais Escolhido)</option>
+      `;
+    }
+
+    function setPaymentMethod(method) {
+      paymentMethod = method;
+      document.getElementById("tab-pix").classList.toggle("active", method === "pix");
+      document.getElementById("tab-card").classList.toggle("active", method === "card");
+      document.getElementById("section-pix").style.display = method === "pix" ? "block" : "none";
+      document.getElementById("section-card").style.display = method === "card" ? "block" : "none";
+    }
+
+    // Input Masks
+    function maskCPF(i) {
+      let v = i.value.replace(/\D/g, "");
+      v = v.replace(/(\d{3})(\d)/, "$1.$2");
+      v = v.replace(/(\d{3})(\d)/, "$1.$2");
+      v = v.replace(/(\d{3})(\d{1,2})$/, "$1-$2");
+      i.value = v;
+    }
+
+    function maskPhone(i) {
+      let v = i.value.replace(/\D/g, "");
+      v = v.replace(/^(\d{2})(\d)/g, "($1) $2");
+      v = v.replace(/(\d)(\d{4})$/, "$1-$2");
+      i.value = v;
+    }
+
+    function maskCard(i) {
+      let v = i.value.replace(/\D/g, "");
+      v = v.replace(/(\d{4})/g, "$1 ").trim();
+      i.value = v;
+    }
+
+    function maskExp(i) {
+      let v = i.value.replace(/\D/g, "");
+      if (v.length > 2) v = v.substring(0, 2) + "/" + v.substring(2, 4);
+      i.value = v;
+    }
+
+    // PIX Generation simulation
+    function generatePix() {
+      const name = document.getElementById("name").value.trim();
+      const email = document.getElementById("email").value.trim();
+      if (!name || !email) {
+        alert("Por favor, preencha seu Nome e E-mail de acesso antes de gerar o PIX.");
+        document.getElementById("name").focus();
+        return;
+      }
+
+      document.getElementById("pix-display").style.display = "block";
+      document.getElementById("pix-display").scrollIntoView({ behavior: "smooth" });
+
+      // Start countdown timer (15 minutes)
+      let seconds = 15 * 60;
+      clearInterval(countdownInterval);
+      countdownInterval = setInterval(() => {
+        seconds--;
+        if (seconds <= 0) {
+          clearInterval(countdownInterval);
+          document.getElementById("pix-countdown").innerText = "Expirado";
+          return;
+        }
+        const m = Math.floor(seconds / 60).toString().padStart(2, "0");
+        const s = (seconds % 60).toString().padStart(2, "0");
+        document.getElementById("pix-countdown").innerText = `${m}:${s}`;
+      }, 1000);
+    }
+
+    function copyPixCode() {
+      const code = document.getElementById("pix-code-text").innerText;
+      navigator.clipboard.writeText(code).then(() => {
+        alert("Código PIX Copia e Cola copiado para sua área de transferência!");
+      });
+    }
+
+    function simulateCardPayment() {
+      const name = document.getElementById("name").value.trim();
+      const email = document.getElementById("email").value.trim();
+      const cardNum = document.getElementById("card-num").value.trim();
+      if (!name || !email || !cardNum) {
+        alert("Por favor, preencha os dados de acesso e do cartão.");
+        return;
+      }
+
+      const btn = document.getElementById("btn-card-text");
+      btn.innerText = "Processando pagamento...";
+      setTimeout(() => {
+        simulatePaymentSuccess();
+      }, 1400);
+    }
+
+    function simulatePaymentSuccess() {
+      confetti({
+        particleCount: 120,
+        spread: 70,
+        origin: { y: 0.6 }
+      });
+      document.getElementById("success-modal").style.display = "flex";
+    }
+
+    function redirectToApp() {
+      // Directs to dashboard
+      window.location.href = "/dashboard";
+    }
+  </script>
+</body>
+</html>

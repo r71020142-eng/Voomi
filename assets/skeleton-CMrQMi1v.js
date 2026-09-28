@@ -1,0 +1,1 @@
+import{i as e,t}from"./react-SIfiwpqq.js";import{t as n}from"./jsx-runtime-0vZSBttN.js";import{t as r}from"./utils-DojpP95n.js";var i=e(t(),1),a=n(),o=i.forwardRef(({className:e,...t},n)=>(0,a.jsx)(`div`,{ref:n,className:r(`animate-pulse rounded-md bg-muted`,e),...t}));o.displayName=`Skeleton`;export{o as t};

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "05ae536d-d275-4047-bd2e-50b26b886a7a",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436",
+    "name": "meu quarto",
+    "image_url": "https://omlwqrtqivqcgrrlrlzf.supabase.co/storage/v1/object/public/generation-refs/generation-refs/imagerouter-5565d8da-f82c-4184-8f90-503329525980.png",
+    "description": "quarto de casa na zona rural rustico de uma senhora de idade ",
+    "scenario_type": "Quarto",
+    "created_at": "2026-05-28T17:13:30.242847+00:00"
+  }
+]

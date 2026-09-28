@@ -1,0 +1,62 @@
+[
+  {
+    "id": "927347a3-7f2a-495d-9ac7-fe66fafe6a59",
+    "title": "Aula 02 - Como encontrar produtos virais no radar de produtos",
+    "description": null,
+    "video_url": "https://player-vz-4edebd05-2b1.tv.pandavideo.com.br/embed/?v=908b233c-4add-4d19-b32b-1a2f8b1667e4",
+    "thumbnail_url": "https://api.tikshoplab.com.br/storage/v1/object/public/tutorial-thumbnails/lessons/aula-02.jpg",
+    "duration_seconds": 0,
+    "category": "Lab Academy",
+    "display_order": 3,
+    "is_published": true,
+    "created_at": "2026-06-02T22:07:13.234265+00:00",
+    "updated_at": "2026-08-05T16:04:37.743575+00:00",
+    "module_id": "e85b0f8c-2d1f-4b1d-a99d-38740850e99a",
+    "video_path": null
+  },
+  {
+    "id": "5d461186-e85f-4b89-a469-4c4a937ee800",
+    "title": "Aula 04 - Criando avatares e cen\u00e1rios personalizados com o TikShopfy",
+    "description": null,
+    "video_url": "https://player-vz-4edebd05-2b1.tv.pandavideo.com.br/embed/?v=453aa513-7c55-496b-9476-2365a7e0b387",
+    "thumbnail_url": "https://api.tikshoplab.com.br/storage/v1/object/public/tutorial-thumbnails/lessons/aula-04.jpg",
+    "duration_seconds": 0,
+    "category": "Lab Academy",
+    "display_order": 8,
+    "is_published": true,
+    "created_at": "2026-06-03T23:28:26.16548+00:00",
+    "updated_at": "2026-08-05T16:04:37.743575+00:00",
+    "module_id": "e85b0f8c-2d1f-4b1d-a99d-38740850e99a",
+    "video_path": null
+  },
+  {
+    "id": "d3b4cc1b-b481-4268-943d-56e83acbf1ba",
+    "title": "Aula 03 - Criando v\u00eddeos que geram receita $",
+    "description": null,
+    "video_url": "https://player-vz-4edebd05-2b1.tv.pandavideo.com.br/embed/?v=1d3df60d-1b7d-472b-aa70-cb7db99f04a2",
+    "thumbnail_url": "https://api.tikshoplab.com.br/storage/v1/object/public/tutorial-thumbnails/lessons/aula-03.jpg",
+    "duration_seconds": 0,
+    "category": "Lab Academy",
+    "display_order": 6,
+    "is_published": true,
+    "created_at": "2026-06-02T22:07:13.234265+00:00",
+    "updated_at": "2026-08-05T16:04:37.743575+00:00",
+    "module_id": "e85b0f8c-2d1f-4b1d-a99d-38740850e99a",
+    "video_path": null
+  },
+  {
+    "id": "3656dbb2-8185-4ddc-b427-3aca2c66ce8e",
+    "title": "Aula 01 - Introdu\u00e7\u00e3o a TikShopfy",
+    "description": null,
+    "video_url": "https://player-vz-4edebd05-2b1.tv.pandavideo.com.br/embed/?v=b5924c0f-7da1-4d46-abc5-0af1b01049e4",
+    "thumbnail_url": "https://api.tikshoplab.com.br/storage/v1/object/public/tutorial-thumbnails/lessons/aula-01.jpg",
+    "duration_seconds": 0,
+    "category": "Lab Academy",
+    "display_order": 2,
+    "is_published": true,
+    "created_at": "2026-06-02T22:07:13.234265+00:00",
+    "updated_at": "2026-08-10T13:28:59.265784+00:00",
+    "module_id": "e85b0f8c-2d1f-4b1d-a99d-38740850e99a",
+    "video_path": null
+  }
+]

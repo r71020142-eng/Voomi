@@ -1,0 +1,15 @@
+[
+  {
+    "id": "9c08b7e8-39bc-454b-bbcd-1fede343941d",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436",
+    "is_active": false,
+    "product_id": null,
+    "custom_product_name": null,
+    "commission_value": 0,
+    "min_interval_seconds": 90,
+    "max_interval_seconds": 190,
+    "notification_sound": "money",
+    "created_at": "2026-05-22T16:13:05.628145+00:00",
+    "updated_at": "2026-08-28T16:42:30.099745+00:00"
+  }
+]

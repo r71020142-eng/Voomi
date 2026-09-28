@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "10788e36-f499-4545-9823-79361a0696b4",
+    "user_id": "2b958cfc-8249-486f-b2ef-ecae4ba87b20",
+    "role": "user",
+    "created_at": "2026-07-10T22:48:40.022931+00:00"
+  },
+  {
+    "id": "99706479-94bc-455b-81f9-884fc9ec6828",
+    "user_id": "8cee3607-f089-4490-a1cd-43898258cd7f",
+    "role": "user",
+    "created_at": "2026-07-11T19:32:42.4622+00:00"
+  },
+  {
+    "id": "207d5b01-54ee-42ee-9bdd-9ed8bb33af1b",
+    "user_id": "cf1d5ce1-149b-4085-b61c-bb10d5b2b3f1",
+    "role": "user",
+    "created_at": "2026-01-06T02:41:04.783987+00:00"
+  },
+  {
+    "id": "c79c6710-1de5-40db-9e91-284fb23f8ed4",
+    "user_id": "e9ae61ff-c432-4958-b9b3-6fd9d8e431f3",
+    "role": "user",
+    "created_at": "2026-01-06T02:54:06.033867+00:00"
+  },
+  {
+    "id": "631f36b1-6136-4fde-9461-29ce3bed6201",
+    "user_id": "089ec52e-eb22-4c64-b612-ed28e9cd917d",
+    "role": "user",
+    "created_at": "2026-01-08T14:09:24.452697+00:00"
+  },
+  {
+    "id": "aa8d36d0-937f-43a1-978d-553455a4973e",
+    "user_id": "bf43a0f1-6675-469e-a42e-52b6b8dff31c",
+    "role": "user",
+    "created_at": "2026-01-09T03:04:10.17106+00:00"
+  },
+  {
+    "id": "d216c8d9-ad58-4d3b-bdcc-7f444b7e711a",
+    "user_id": "84cf3a42-0dac-4060-88ec-3d3bc6a7c30c",
+    "role": "user",
+    "created_at": "2026-01-09T03:05:54.754559+00:00"
+  },
+  {
+    "id": "046e0119-185e-4dfa-98fb-f17a4a0504a8",
+    "user_id": "44aa83a2-dcff-4024-9f16-e2bb9c66ca46",
+    "role": "user",
+    "created_at": "2026-01-09T03:07:11.709268+00:00"
+  },
+  {
+    "id": "a46bed39-6496-4d9e-97a5-4571d3c03fca",
+    "user_id": "b490d453-097b-4902-b11d-1bb58d271a56",
+    "role": "user",
+    "created_at": "2026-01-09T03:10:26.110348+00:00"
+  },
+  {
+    "id": "da42b5ec-3eab-423a-a6d0-10054f5f8bdc",
+    "user_id": "8c15cc9c-1156-41e4-a241-f4a026f05877",
+    "role": "user",
+    "created_at": "2026-01-09T03:21:53.563929+00:00"
+  },
+  {
+    "id": "12092b31-e1e1-482a-add2-75a6df19b330",
+    "user_id": "f76fa50c-9a40-4aee-853d-d8132e3e2b7c",
+    "role": "user",
+    "created_at": "2026-01-09T03:28:07.417704+00:00"
+  },
+  {
+    "id": "f6b6d36e-3acb-4f56-badc-d0264d3c17c3",
+    "user_id": "ad88da2e-4770-44f0-b224-cb8ad815d3d7",
+    "role": "user",
+    "created_at": "2026-01-09T03:44:16.304986+00:00"
+  },
+  {
+    "id": "39393af6-03e7-4912-8c8d-11d7a3be0168",
+    "user_id": "be34c590-91bb-4c99-968e-9a3600a5d298",
+    "role": "user",
+    "created_at": "2026-01-09T16:27:20.516206+00:00"
+  },
+  {
+    "id": "1aa0d187-570c-4ab9-a394-4df40f9c6116",
+    "user_id": "e380cbdc-87f4-4584-b94e-d78f2cbeef06",
+    "role": "user",
+    "created_at": "2026-01-10T03:33:50.352837+00:00"
+  },
+  {
+    "id": "f8bf7f37-e293-4980-940c-e6f08451facb",
+    "user_id": "136e8f85-268c-4d48-8e7e-7eb747db725c",
+    "role": "user",
+    "created_at": "2026-01-10T03:34:51.240558+00:00"
+  },
+  {
+    "id": "b872a3b1-0e88-4966-95a4-0dd4adedf44b",
+    "user_id": "42e38012-7300-41c7-83a3-a2c54bdfe911",
+    "role": "user",
+    "created_at": "2026-01-10T03:35:24.338789+00:00"
+  },
+  {
+    "id": "4967b07e-f62c-4b16-9267-f366f2691aef",
+    "user_id": "3c3e0213-5913-4997-acd2-5d1d805dc551",
+    "role": "user",
+    "created_at": "2026-01-10T03:35:56.753918+00:00"
+  },
+  {
+    "id": "0849563f-647b-4570-a395-9af644486c11",
+    "user_id": "b10b0528-730c-40eb-a893-4567329ff037",
+    "role": "user",
+    "created_at": "2026-01-10T17:19:43.209712+00:00"
+  },
+  {
+    "id": "bb523bfa-d70b-4e86-88eb-e2813cde42b5",
+    "user_id": "70a20ee9-4852-4ef8-8615-953a412e6d94",
+    "role": "user",
+    "created_at": "2026-01-11T00:12:11.896303+00:00"
+  },
+  {
+    "id": "385cfe03-12a1-484c-bb21-37983597b7e8",
+    "user_id": "aa247d9b-ac0a-441a-8310-b08832262ff3",
+    "role": "user",
+    "created_at": "2026-01-11T00:12:51.036396+00:00"
+  },
+  {
+    "id": "c24cc3f7-a2fd-4d22-b0d7-421970bf2259",
+    "user_id": "217db5f4-5ce6-4114-af91-7405ca5fb107",
+    "role": "user",
+    "created_at": "2026-01-11T00:34:07.292103+00:00"
+  },
+  {
+    "id": "8721e6b9-3ae3-48d5-ab46-57dde4db9e47",
+    "user_id": "c9d565b3-6997-4651-af94-29e8eaff938b",
+    "role": "user",
+    "created_at": "2026-01-12T15:18:19.506787+00:00"
+  },
+  {
+    "id": "7e431b77-e29e-44b9-8862-702ef8c091dd",
+    "user_id": "b499c240-7118-4ef5-b3f0-337c639d9dda",
+    "role": "user",
+    "created_at": "2026-01-12T15:27:20.394827+00:00"
+  },
+  {
+    "id": "97f110f7-12ca-4d22-af7e-0c17e0f0d36c",
+    "user_id": "0bad4694-395e-41db-b2f5-f9221d456341",
+    "role": "user",
+    "created_at": "2026-01-12T15:29:27.903759+00:00"
+  },
+  {
+    "id": "e2ee95c4-b25d-4a85-a441-ee044e8e335d",
+    "user_id": "4090fb69-271f-405b-b729-2f2d03e10841",
+    "role": "user",
+    "created_at": "2026-01-12T15:48:26.622168+00:00"
+  },
+  {
+    "id": "b958a754-5d2b-43cf-9af7-27f2e1acb92b",
+    "user_id": "6b7b1a6f-06c2-4b30-b62c-a72057a0eeaa",
+    "role": "user",
+    "created_at": "2026-01-12T15:58:07.454927+00:00"
+  },
+  {
+    "id": "17b2fd40-7767-4f04-b426-4fde687d50a7",
+    "user_id": "02ac8981-13f5-4acc-b305-39b47f0375f1",
+    "role": "user",
+    "created_at": "2026-01-12T16:03:08.79418+00:00"
+  },
+  {
+    "id": "b7c56e39-39fa-44c1-a3ea-26731f4dad07",
+    "user_id": "fc39d3b7-6d28-47c0-be2a-11fefcf2c83f",
+    "role": "user",
+    "created_at": "2026-01-12T17:07:51.082786+00:00"
+  },
+  {
+    "id": "1c6ffd9c-6aa6-4c84-8c4e-8b0ee90eb9f5",
+    "user_id": "67bc1737-acd9-4cce-98bb-81304cc5307f",
+    "role": "user",
+    "created_at": "2026-01-12T23:34:20.111951+00:00"
+  },
+  {
+    "id": "c165d718-cfd2-482e-a698-54861bcb9bed",
+    "user_id": "f1e166be-0b75-4763-97e7-4c43578cd819",
+    "role": "user",
+    "created_at": "2026-01-12T23:35:37.003571+00:00"
+  },
+  {
+    "id": "bbde795e-6147-4f13-a197-ccbc30a82df9",
+    "user_id": "7653932e-d037-4a84-bda7-7e195d0470a8",
+    "role": "user",
+    "created_at": "2026-01-12T23:40:32.902088+00:00"
+  },
+  {
+    "id": "6a1a4194-61f7-4c06-b762-da587f317e8f",
+    "user_id": "50d23a4d-d469-42fc-b214-a55b9f0feb5f",
+    "role": "user",
+    "created_at": "2026-01-12T23:41:31.769346+00:00"
+  },
+  {
+    "id": "3b36f6c5-8aa0-4858-a7fc-5e6b6090b166",
+    "user_id": "689a73a7-9c7f-432c-8b72-f84e3c8069da",
+    "role": "user",
+    "created_at": "2026-01-12T23:47:23.718365+00:00"
+  },
+  {
+    "id": "a1a25e0a-e0f2-4916-baef-e71f5e2c1d0a",
+    "user_id": "25285f48-7096-4216-828f-eb1f26124bd7",
+    "role": "user",
+    "created_at": "2026-01-13T02:04:20.841995+00:00"
+  },
+  {
+    "id": "3a7f5121-55da-45aa-aa40-11cab86d3e2e",
+    "user_id": "d6ae5b95-14cd-4edf-a4a6-46a39fb5f13c",
+    "role": "user",
+    "created_at": "2026-01-13T02:05:45.833395+00:00"
+  },
+  {
+    "id": "e606c898-78db-4eb1-a1a8-7dd1fa2e816e",
+    "user_id": "baf8300b-f0a4-47f4-9fdd-ef6f74ff55e2",
+    "role": "user",
+    "created_at": "2026-01-13T02:13:32.681438+00:00"
+  },
+  {
+    "id": "b64cc400-7556-46ae-922a-fb059930bc43",
+    "user_id": "2195b5f3-a43a-41d4-971e-54e87d48a247",
+    "role": "user",
+    "created_at": "2026-01-13T02:20:33.16637+00:00"
+  },
+  {
+    "id": "dcc36fe4-f508-4949-940a-6ecb51959d39",
+    "user_id": "5b65cde2-99b8-4782-b027-1048d4eba9bb",
+    "role": "afiliado",
+    "created_at": "2026-01-05T00:44:47.02742+00:00"
+  },
+  {
+    "id": "50f36bfa-3883-4032-8cf0-62b1e5766a4d",
+    "user_id": "ab372134-5824-4c7b-853d-77c38d93f16f",
+    "role": "afiliado",
+    "created_at": "2026-01-08T18:05:13.337482+00:00"
+  },
+  {
+    "id": "1aff0fe8-cad4-43b2-87d8-175c0ce4f706",
+    "user_id": "56fe0d09-fd83-493e-bdfd-2b409116a386",
+    "role": "afiliado",
+    "created_at": "2026-01-12T01:53:41.431887+00:00"
+  },
+  {
+    "id": "29660e4d-df37-4886-bce6-151a5aa2c107",
+    "user_id": "4f39e975-62f8-4c2d-9af5-a5d1b7b1e2c5",
+    "role": "afiliado",
+    "created_at": "2026-01-13T21:47:25.360525+00:00"
+  },
+  {
+    "id": "96669fd2-72ba-4c9e-9848-594243c02a64",
+    "user_id": "b34baa04-66be-42ea-a539-b9f9729ae1ea",
+    "role": "afiliado",
+    "created_at": "2026-01-16T18:47:39.347297+00:00"
+  },
+  {
+    "id": "5cbb2e57-9035-4c0e-87bb-74849d8ea54c",
+    "user_id": "61378828-ebb4-4472-bae4-bc95b5c26314",
+    "role": "afiliado",
+    "created_at": "2026-01-17T04:02:48.419837+00:00"
+  },
+  {
+    "id": "4900c679-da39-4b4f-bd97-5229159cc419",
+    "user_id": "87ed8e73-8455-40db-9e57-ffae4de88cdd",
+    "role": "afiliado",
+    "created_at": "2026-01-17T04:03:21.443694+00:00"
+  },
+  {
+    "id": "0bc332a3-da49-4b38-a871-96e3eeb0e829",
+    "user_id": "edb148c1-9f5a-42af-8fd7-22ee32a73619",
+    "role": "afiliado",
+    "created_at": "2026-01-19T14:41:22.439101+00:00"
+  },
+  {
+    "id": "5dd89ceb-6cfe-4a2c-9476-ad1e52f41952",
+    "user_id": "12ecdd18-a303-47de-bb58-b43676ab1798",
+    "role": "afiliado",
+    "created_at": "2026-01-21T01:41:39.375957+00:00"
+  },
+  {
+    "id": "d901fe4e-d42c-4b1e-b716-6c17f0189957",
+    "user_id": "7d1956ed-d110-4d83-a61b-6ba33286c2ef",
+    "role": "proprietario",
+    "created_at": "2026-01-22T17:12:23.539471+00:00"
+  },
+  {
+    "id": "fe913c64-07d4-4e21-a0d1-bc2351d3ee82",
+    "user_id": "82350882-1e05-458b-a33f-8e11e5021b7f",
+    "role": "afiliado",
+    "created_at": "2026-01-26T14:41:56.42799+00:00"
+  },
+  {
+    "id": "d431b196-2719-43b8-bea2-1379d0d5bfb9",
+    "user_id": "12c29b4b-957e-4dc2-83cd-2bdb47b23f05",
+    "role": "afiliado",
+    "created_at": "2026-01-27T17:36:37.677191+00:00"
+  },
+  {
+    "id": "ec977e82-cc7f-4277-a8a6-30e6fa7dd864",
+    "user_id": "6f3818cd-a122-4a98-a40e-d86aae8e1ddc",
+    "role": "afiliado",
+    "created_at": "2026-01-27T17:44:13.664734+00:00"
+  },
+  {
+    "id": "f3bbbbeb-5ea9-4ea0-b05f-b392a0b1403a",
+    "user_id": "4b197bf4-2159-41f6-9061-a4e0c16866ab",
+    "role": "afiliado",
+    "created_at": "2026-01-27T18:08:21.433803+00:00"
+  },
+  {
+    "id": "cfd3323e-6854-40ef-95b3-043ae1895ea1",
+    "user_id": "1e95ff22-e356-425b-9279-8d5a72e25392",
+    "role": "user",
+    "created_at": "2026-01-27T18:30:54.474219+00:00"
+  },
+  {
+    "id": "c48364b4-2e22-4137-b8e6-6f9680ae5188",
+    "user_id": "45d28fce-a47c-4dd0-9419-40837b9930bd",
+    "role": "user",
+    "created_at": "2026-01-27T18:40:45.222299+00:00"
+  },
+  {
+    "id": "c80e7df5-6ad8-45cd-920d-c47d2e109131",
+    "user_id": "430ca241-95a1-481e-8b30-b80513fc4eda",
+    "role": "user",
+    "created_at": "2026-01-27T18:59:15.168025+00:00"
+  },
+  {
+    "id": "d8bc953f-3d5f-4239-8e0d-54d02d6ae4aa",
+    "user_id": "f2f0cf1b-dcfd-4d62-bec1-86ee306f520d",
+    "role": "user",
+    "created_at": "2026-01-27T18:59:17.043121+00:00"
+  },
+  {
+    "id": "c08209d2-3e0d-4e28-8ea2-848f3ec7b018",
+    "user_id": "793ef611-14af-468a-9811-512d453506b5",
+    "role": "user",
+    "created_at": "2026-01-27T19:04:15.318065+00:00"
+  },
+  {
+    "id": "877fd499-9e79-463a-a0d5-1a6088024280",
+    "user_id": "25447503-1271-4fb6-ba71-7a661c93c2bc",
+    "role": "user",
+    "created_at": "2026-01-28T15:57:44.887987+00:00"
+  },
+  {
+    "id": "ca6ce0df-554d-4de3-ab89-743d4f606e93",
+    "user_id": "b55f3732-d404-4ee6-ab38-3c6cb4f865b0",
+    "role": "user",
+    "created_at": "2026-01-28T16:05:32.786764+00:00"
+  },
+  {
+    "id": "e2eda4e1-9997-46ba-970a-bf217c52c532",
+    "user_id": "080998b1-1dcc-4ba2-8d2e-b3a7a95c34c7",
+    "role": "user",
+    "created_at": "2026-01-29T01:14:28.787561+00:00"
+  },
+  {
+    "id": "1ce73f0a-6e77-43f4-a6c8-61542c38c520",
+    "user_id": "ad3b69e1-75c4-4482-a37a-4278d5c7ac7b",
+    "role": "user",
+    "created_at": "2026-01-29T01:15:52.557519+00:00"
+  },
+  {
+    "id": "725c300e-93ca-4190-828b-b32cdbe1b2fa",
+    "user_id": "78edb64c-bdce-4b93-b559-c8d8cdc7231f",
+    "role": "user",
+    "created_at": "2026-01-29T01:15:57.542189+00:00"
+  },
+  {
+    "id": "f5e06c41-ef5c-468a-8929-c9da1bee7463",
+    "user_id": "e832ebf1-1c3c-43e1-81b5-145810df321c",
+    "role": "user",
+    "created_at": "2026-01-29T01:21:09.810381+00:00"
+  },
+  {
+    "id": "2fa2ace8-0a2b-46c2-b4df-66f6fda3041d",
+    "user_id": "38b61da6-55f6-49ff-8f70-369cfba293c7",
+    "role": "user",
+    "created_at": "2026-01-29T01:32:17.976262+00:00"
+  },
+  {
+    "id": "f91ede65-21a7-4154-883f-a891b9a598fa",
+    "user_id": "13fddd42-d611-4f46-bba2-e48a16b038ab",
+    "role": "user",
+    "created_at": "2026-01-29T01:32:43.016403+00:00"
+  },
+  {
+    "id": "c6ede487-1f33-4ef6-a3e4-db925c84e8fa",
+    "user_id": "f68fadf8-50a1-4221-8f41-24d54b5d5c4d",
+    "role": "user",
+    "created_at": "2026-01-29T11:25:41.03816+00:00"
+  },
+  {
+    "id": "3b7730ce-dd27-4ecf-816d-ff302241837e",
+    "user_id": "af28a0a3-4a4c-451d-875f-4f4e8f31cd5b",
+    "role": "user",
+    "created_at": "2026-01-29T21:50:30.054252+00:00"
+  },
+  {
+    "id": "779dc218-aa56-48aa-94bf-70025ec39c11",
+    "user_id": "81448ed9-1837-40a3-8af9-8e8dab25e328",
+    "role": "user",
+    "created_at": "2026-01-29T21:56:34.655865+00:00"
+  },
+  {
+    "id": "b5ae1790-241c-48df-b961-ba4334ed3560",
+    "user_id": "29e92e8f-5afd-402c-a99f-20238279fd7c",
+    "role": "user",
+    "created_at": "2026-01-29T22:34:45.285377+00:00"
+  },
+  {
+    "id": "e7181727-68c0-46fd-a6c6-3865fc8aee98",
+    "user_id": "6058a6bb-700c-42c5-b9e3-54a4266071d1",
+    "role": "user",
+    "created_at": "2026-01-30T14:36:41.358096+00:00"
+  },
+  {
+    "id": "e4c053a3-33be-4faf-b55b-417d0a5d9274",
+    "user_id": "b175330a-626f-48ec-a2ef-4d08e0e17c80",
+    "role": "user",
+    "created_at": "2026-01-30T14:43:48.383351+00:00"
+  },
+  {
+    "id": "a565e935-3989-4d6d-867b-2c7b1902814b",
+    "user_id": "1be18836-6925-42bb-8116-8f7be64f7e15",
+    "role": "user",
+    "created_at": "2026-01-30T14:52:34.641939+00:00"
+  },
+  {
+    "id": "79283c87-976e-4c51-a7cb-42dd6a6acdd2",
+    "user_id": "050d8433-f94a-45c6-b546-bbf0a243667e",
+    "role": "user",
+    "created_at": "2026-01-30T14:55:57.760835+00:00"
+  },
+  {
+    "id": "43f4d7ad-bf57-40e9-b605-1c3725748473",
+    "user_id": "9ee57b12-4472-45ea-a534-6bfb15aa3f26",
+    "role": "user",
+    "created_at": "2026-01-30T15:13:39.168981+00:00"
+  },
+  {
+    "id": "16aa777a-00bd-4d79-baee-2cf2ee84dde0",
+    "user_id": "3dfad7ef-2059-4dd0-aeff-e7accf0ae1aa",
+    "role": "user",
+    "created_at": "2026-01-30T17:10:10.969605+00:00"
+  },
+  {
+    "id": "79afb23f-1ddb-49d3-9c21-7af1ca66793b",
+    "user_id": "3400333b-3954-46e4-ac54-b5f648d31044",
+    "role": "user",
+    "created_at": "2026-01-30T19:34:18.86843+00:00"
+  },
+  {
+    "id": "ed082fa8-210a-44c7-a3a2-d8368f009772",
+    "user_id": "61d8cd42-f910-4c45-aa81-1a87fcd82f9b",
+    "role": "user",
+    "created_at": "2026-01-30T21:03:38.504323+00:00"
+  },
+  {
+    "id": "2affc11c-7fcd-4dd8-8d70-7f96a71f81da",
+    "user_id": "c7ba5c9b-2cf5-4c02-a149-19e124a276ce",
+    "role": "user",
+    "created_at": "2026-01-30T21:05:15.161593+00:00"
+  },
+  {
+    "id": "9bfc2f10-121a-4bef-99c0-2526904b4cc4",
+    "user_id": "059df398-13c8-41cb-82a1-6ecef1a63460",
+    "role": "user",
+    "created_at": "2026-01-30T21:30:40.800215+00:00"
+  },
+  {
+    "id": "debb3b01-5a94-48fb-a870-9cbe682e9489",
+    "user_id": "208e541e-ef3e-415b-92bf-c4ef6616c14f",
+    "role": "user",
+    "created_at": "2026-01-31T18:23:24.180607+00:00"
+  },
+  {
+    "id": "9eaa364a-431e-4707-a66d-6d2da82fda97",
+    "user_id": "f1e411c6-de0f-4e6e-b437-886d748d0f68",
+    "role": "user",
+    "created_at": "2026-01-31T18:25:16.058212+00:00"
+  },
+  {
+    "id": "b4a61168-92ba-4c83-a2b5-35baccaf3e64",
+    "user_id": "c6a5b70a-8f1e-41ff-bfdc-04aba3d71d6c",
+    "role": "user",
+    "created_at": "2026-01-31T18:26:25.149547+00:00"
+  },
+  {
+    "id": "859283ab-b081-4ea5-9609-333b2478ec24",
+    "user_id": "5eb44266-0608-4ca1-93de-79f979423e1b",
+    "role": "user",
+    "created_at": "2026-01-31T18:27:38.928889+00:00"
+  },
+  {
+    "id": "0c3d1a76-bc6e-4ae6-a110-fae301141514",
+    "user_id": "7f8b546d-73ee-4cce-bd79-835dfb97130b",
+    "role": "user",
+    "created_at": "2026-01-31T18:30:51.248187+00:00"
+  },
+  {
+    "id": "eeaf4fe2-940f-4959-bf25-8914db7ad2cb",
+    "user_id": "bb666fef-4ded-42f6-ba6b-0dd130a76305",
+    "role": "user",
+    "created_at": "2026-01-31T18:41:16.755618+00:00"
+  },
+  {
+    "id": "c5e48247-de65-4fee-b363-8de7a205cd49",
+    "user_id": "06e7eb5f-0677-4cb7-8ef6-e1bd79180e45",
+    "role": "user",
+    "created_at": "2026-02-01T00:05:35.592578+00:00"
+  },
+  {
+    "id": "27ec7500-4013-4a2e-af5d-46a97783ab9c",
+    "user_id": "e914b0ef-5333-4e7d-a608-0745cf615063",
+    "role": "user",
+    "created_at": "2026-02-01T00:16:50.252022+00:00"
+  },
+  {
+    "id": "11dfd900-c401-425c-86dc-42424a1e7e81",
+    "user_id": "43b146a4-f770-49eb-a25f-692184c1fabe",
+    "role": "user",
+    "created_at": "2026-02-01T19:31:17.796892+00:00"
+  },
+  {
+    "id": "9e7cddf1-dd98-42f7-90d5-0185e6986922",
+    "user_id": "70e1f361-e86e-4eab-bde4-d03975133797",
+    "role": "user",
+    "created_at": "2026-02-01T19:40:14.318841+00:00"
+  },
+  {
+    "id": "0111d4ee-77d7-4f91-9e1a-d815d73b7619",
+    "user_id": "a603492f-9819-4d2e-aab3-8348243f30b5",
+    "role": "user",
+    "created_at": "2026-02-01T23:13:30.42072+00:00"
+  },
+  {
+    "id": "c183c8cd-4e4b-4fe2-8eb5-19ce9ddafb2f",
+    "user_id": "5b8f3a08-d73b-4663-a324-fb0d7ee674a7",
+    "role": "user",
+    "created_at": "2026-02-02T14:39:55.214889+00:00"
+  },
+  {
+    "id": "eddd29b3-3b4f-40fd-9427-f9d400fa7836",
+    "user_id": "853c6600-2b1a-4ca7-9789-2f56d33c3892",
+    "role": "user",
+    "created_at": "2026-02-02T14:41:48.91775+00:00"
+  },
+  {
+    "id": "f4b4d195-bd67-49ec-abbd-9e92ae69a575",
+    "user_id": "4ff89f8d-460a-4729-bbc1-ae6bfe016e54",
+    "role": "user",
+    "created_at": "2026-02-02T14:45:13.457745+00:00"
+  },
+  {
+    "id": "999925b3-7a58-4123-8c32-260f39fd0716",
+    "user_id": "47bf883a-264b-4a8e-a188-d244945f279c",
+    "role": "user",
+    "created_at": "2026-02-02T14:50:37.768623+00:00"
+  },
+  {
+    "id": "8872b3ce-d1b0-4ac8-bdb8-6e09d26a9255",
+    "user_id": "2822bc31-a74c-41fc-8f75-c6bb72ae0377",
+    "role": "user",
+    "created_at": "2026-02-02T14:51:38.576212+00:00"
+  },
+  {
+    "id": "e11bc81a-9823-433f-a2f2-f8b39ae28695",
+    "user_id": "98c7b60d-2ddf-4714-b5d0-f998d22ee797",
+    "role": "user",
+    "created_at": "2026-02-02T14:51:46.299096+00:00"
+  },
+  {
+    "id": "0c9e4d43-8ba2-45c2-a630-99e3ca86f547",
+    "user_id": "eba8ca02-87c4-4ee7-963c-92195710d3f1",
+    "role": "user",
+    "created_at": "2026-02-02T14:53:51.491637+00:00"
+  },
+  {
+    "id": "3cef1726-9a48-428e-a5c8-dd3c7fb21a1e",
+    "user_id": "fb32ebdf-3ad3-444f-977f-27364ea5407a",
+    "role": "user",
+    "created_at": "2026-02-02T14:55:06.802895+00:00"
+  },
+  {
+    "id": "cd40a951-d86a-4563-a26c-0d5be3f26fd9",
+    "user_id": "aa3753ea-50e2-441e-8059-545b47be7907",
+    "role": "user",
+    "created_at": "2026-02-02T14:57:34.494267+00:00"
+  },
+  {
+    "id": "543af988-37c9-480b-8a9d-7447db4ca914",
+    "user_id": "1c74285e-0570-46ed-bdac-5fbdd01ac950",
+    "role": "user",
+    "created_at": "2026-02-02T14:59:49.170518+00:00"
+  },
+  {
+    "id": "3ac834f0-1ccc-473e-8005-a27e7e8ae871",
+    "user_id": "19158553-cb66-4ffb-8b65-bea14d745051",
+    "role": "user",
+    "created_at": "2026-02-02T15:00:07.079961+00:00"
+  },
+  {
+    "id": "7d63d157-e3c6-4f9a-aaa8-c7da587b4808",
+    "user_id": "90a00ab3-3ab5-4993-904a-172ba10bacd1",
+    "role": "user",
+    "created_at": "2026-02-02T15:01:30.786991+00:00"
+  },
+  {
+    "id": "6f761c4a-ce35-4e8a-88f5-488c6413101b",
+    "user_id": "f8a384bb-61ae-4495-962e-85373dca5659",
+    "role": "user",
+    "created_at": "2026-02-02T15:14:33.662065+00:00"
+  },
+  {
+    "id": "476a9698-2e05-41cb-b8fa-928833caeb28",
+    "user_id": "a7d3f99c-414f-4ad5-982d-7160329361cb",
+    "role": "user",
+    "created_at": "2026-02-02T15:23:12.009516+00:00"
+  },
+  {
+    "id": "0ec03f66-9bd7-41ea-acf7-63642362f2d3",
+    "user_id": "5e3f268c-e0ff-4a01-8635-cb7ca019ab79",
+    "role": "user",
+    "created_at": "2026-02-02T15:26:28.492767+00:00"
+  },
+  {
+    "id": "d92e2df0-8de6-404a-a328-bfcb3a9eb4da",
+    "user_id": "b275562c-973c-4570-a324-9f8cb32ff9ca",
+    "role": "user",
+    "created_at": "2026-02-02T15:36:25.526945+00:00"
+  },
+  {
+    "id": "50fc3b07-6590-4e07-89c1-958107f16c3d",
+    "user_id": "93b09727-01e0-4d98-a4d2-c156699556b9",
+    "role": "user",
+    "created_at": "2026-02-02T15:41:49.215248+00:00"
+  },
+  {
+    "id": "2cfcb1fd-0bc3-4ce1-91e1-6f267fdb0ae7",
+    "user_id": "af255850-f165-4080-a8b1-40b89b86d483",
+    "role": "user",
+    "created_at": "2026-02-02T16:01:17.415283+00:00"
+  },
+  {
+    "id": "9e5d0567-f65f-410f-b0c7-1951820134d0",
+    "user_id": "9b611e22-75ff-4574-bf4c-963f99f3dac5",
+    "role": "user",
+    "created_at": "2026-02-02T16:04:41.903142+00:00"
+  },
+  {
+    "id": "04d80ccb-40e1-41d3-af90-805fe871108e",
+    "user_id": "1762cdde-5ece-4342-9d66-2769461bac70",
+    "role": "user",
+    "created_at": "2026-02-02T16:34:52.20162+00:00"
+  },
+  {
+    "id": "f06c36b0-da41-4dd0-b15a-10dd77c3550f",
+    "user_id": "aa445394-27e6-4821-91fc-a068730c5656",
+    "role": "user",
+    "created_at": "2026-02-02T16:38:09.385296+00:00"
+  },
+  {
+    "id": "ff576ad2-f961-40e4-ba42-39d5ae798e81",
+    "user_id": "d9bf9914-5c74-4144-8720-fc9dc0c35ee9",
+    "role": "afiliado",
+    "created_at": "2026-02-02T17:37:23.435641+00:00"
+  },
+  {
+    "id": "58f197b4-1623-4f62-aec9-2bec960df8f5",
+    "user_id": "06d25658-e7ea-47c1-af38-9aeea84dbf03",
+    "role": "afiliado",
+    "created_at": "2026-02-02T17:38:37.283732+00:00"
+  },
+  {
+    "id": "be3c945e-66d6-485d-829e-9e8dbd31bb48",
+    "user_id": "fd10bdfe-b41b-4c6d-b3aa-61167de48413",
+    "role": "user",
+    "created_at": "2026-02-02T18:02:41.451522+00:00"
+  },
+  {
+    "id": "cbbdfc9e-f07f-4a40-b52d-d1f6bf28508d",
+    "user_id": "43a33604-3269-4302-8f6c-19de5a1e6645",
+    "role": "user",
+    "created_at": "2026-02-02T18:54:08.365282+00:00"
+  },
+  {
+    "id": "e78ecdc8-252d-4b59-9891-e4f5579aad19",
+    "user_id": "8f8aeae0-19a5-43fe-abff-9234cde07b31",
+    "role": "user",
+    "created_at": "2026-02-02T19:28:05.726586+00:00"
+  },
+  {
+    "id": "93e1fabb-dd63-43a4-b6c0-49011fc16c00",
+    "user_id": "79841574-2b04-4009-a46a-1f48d9fce240",
+    "role": "user",
+    "created_at": "2026-02-02T20:09:17.21397+00:00"
+  },
+  {
+    "id": "470a2fb6-7867-4f14-8aca-57a46477ef53",
+    "user_id": "76f75233-4c29-4ba9-881b-e1a01f31eb8f",
+    "role": "user",
+    "created_at": "2026-02-02T21:29:49.373932+00:00"
+  },
+  {
+    "id": "92a1b059-0180-468e-9cfe-6a95bfbbc7b7",
+    "user_id": "b2ac90e2-410b-481b-a6bc-775199753b10",
+    "role": "user",
+    "created_at": "2026-02-02T22:26:07.846164+00:00"
+  },
+  {
+    "id": "36f6a483-5a3c-43bb-b7ba-79d9dbbf7b24",
+    "user_id": "4d35c9b2-900b-4959-afdf-bbbf167e130b",
+    "role": "user",
+    "created_at": "2026-02-02T23:03:07.445402+00:00"
+  },
+  {
+    "id": "7dfc0d7a-a53f-41f5-bc0c-afa2cbceea5d",
+    "user_id": "903aab85-56a6-4b59-b454-e47b5e03ae57",
+    "role": "user",
+    "created_at": "2026-02-02T23:03:54.007317+00:00"
+  },
+  {
+    "id": "02fe9612-de6b-4271-946d-8340aae3eba0",
+    "user_id": "25a6cfed-a157-4a9a-bfdc-8fd9e05a34ff",
+    "role": "user",
+    "created_at": "2026-02-02T23:05:38.562843+00:00"
+  },
+  {
+    "id": "ba52d9ba-e381-4dd0-a4a2-73f81633ecf2",
+    "user_id": "db9c85cc-8c5b-4aa6-bab4-f2c1bc6a6573",
+    "role": "user",
+    "created_at": "2026-02-02T23:07:45.697449+00:00"
+  },
+  {
+    "id": "aba660c5-4985-480a-a660-4b1829564556",
+    "user_id": "af9a23d8-61b0-4067-a1fe-cee22a3ebd1f",
+    "role": "user",
+    "created_at": "2026-02-02T23:10:22.018678+00:00"
+  },
+  {
+    "id": "9d381f25-5a08-4b65-8836-cdb339e099a0",
+    "user_id": "b0424148-0756-482f-982a-632d045d460c",
+    "role": "user",
+    "created_at": "2026-02-02T23:10:37.497326+00:00"
+  },
+  {
+    "id": "c5e79423-2306-4d48-a988-902d69f817b4",
+    "user_id": "c2d95c3c-57b6-4664-bd42-41fc1d08ff3d",
+    "role": "user",
+    "created_at": "2026-02-02T23:15:32.500909+00:00"
+  },
+  {
+    "id": "80089b7e-ba5e-4269-a543-8afc7fc79937",
+    "user_id": "e68b7abb-9bd9-44d3-b87c-5f966d2db067",
+    "role": "user",
+    "created_at": "2026-02-02T23:37:32.552285+00:00"
+  },
+  {
+    "id": "acc5de35-75e2-40ee-b504-6cc8c0f53457",
+    "user_id": "cc463735-6455-4d0f-9bce-dd946e0d6a7a",
+    "role": "user",
+    "created_at": "2026-02-02T23:45:10.724974+00:00"
+  },
+  {
+    "id": "1e459ab0-f6c4-4fc4-a5d4-bc1e82c358cd",
+    "user_id": "dfd96023-44c5-4728-a4fe-84f38c2d5466",
+    "role": "user",
+    "created_at": "2026-02-02T23:45:40.851155+00:00"
+  },
+  {
+    "id": "58f1ca7a-05dd-486d-ab97-82420e7fdf0a",
+    "user_id": "1c8d73c6-be12-4ba9-83df-012eedd59339",
+    "role": "user",
+    "created_at": "2026-02-03T00:28:38.565883+00:00"
+  },
+  {
+    "id": "f622fd4d-8925-4422-97f2-c7df708ae806",
+    "user_id": "914fe460-7d5c-4698-aa6b-b1721e3a12be",
+    "role": "user",
+    "created_at": "2026-02-03T03:00:11.664671+00:00"
+  },
+  {
+    "id": "5f61aa61-b1eb-4317-a094-4ee4f4a43212",
+    "user_id": "f0cee286-dd76-486f-b47b-9435ecca21e9",
+    "role": "user",
+    "created_at": "2026-02-03T03:45:38.250128+00:00"
+  },
+  {
+    "id": "f8eebd66-7848-494a-9c86-2ea79f93b589",
+    "user_id": "ac0fb399-f449-4bfc-9afc-8c5b88961194",
+    "role": "user",
+    "created_at": "2026-02-03T13:08:38.423715+00:00"
+  },
+  {
+    "id": "4921711d-07b7-48ff-a87f-7646f032ea0d",
+    "user_id": "37f5c05b-2be8-4916-8a9e-4e56ab540a81",
+    "role": "user",
+    "created_at": "2026-02-03T13:47:04.604414+00:00"
+  },
+  {
+    "id": "d50a4af2-56d1-45c7-9eec-4ff9a2f8aa92",
+    "user_id": "2784932e-a2c6-4175-b09e-66233b31825e",
+    "role": "user",
+    "created_at": "2026-02-03T13:58:05.468746+00:00"
+  },
+  {
+    "id": "c5b05d83-7703-48c1-ae78-1c2658a00737",
+    "user_id": "1af00afc-051d-46eb-b14b-9b5b5c15d5e3",
+    "role": "user",
+    "created_at": "2026-02-03T14:05:46.131658+00:00"
+  },
+  {
+    "id": "16751584-664c-4544-8c0d-6ae11885abab",
+    "user_id": "52e7324d-0315-4df8-8a53-fd07bfadfa6e",
+    "role": "user",
+    "created_at": "2026-02-03T14:41:44.526629+00:00"
+  },
+  {
+    "id": "2ac3695a-cbb6-42b9-9c25-cd232a898328",
+    "user_id": "6c98321f-d499-4ccd-95cd-7692eece8c2e",
+    "role": "user",
+    "created_at": "2026-02-03T15:14:35.768767+00:00"
+  },
+  {
+    "id": "7c6f98ad-caf3-4faf-8d73-057fd68faea2",
+    "user_id": "b64e867a-f39e-4074-9430-d6c7fdd1bc3f",
+    "role": "user",
+    "created_at": "2026-02-03T15:17:32.966131+00:00"
+  },
+  {
+    "id": "997dfc4d-bf49-4eb7-9f84-be9b75baee6c",
+    "user_id": "41ad3259-eb3a-4893-88c6-5b272a25cdf3",
+    "role": "user",
+    "created_at": "2026-02-03T15:21:21.054517+00:00"
+  },
+  {
+    "id": "9a22647a-d99c-4932-9356-762e2142f522",
+    "user_id": "8f80e73b-25a7-4869-8020-78ccce629117",
+    "role": "user",
+    "created_at": "2026-02-03T15:37:17.827555+00:00"
+  },
+  {
+    "id": "3f66cbf0-ed85-45ce-8691-b4b703e8476b",
+    "user_id": "329bbdb4-42b7-4555-bab5-ee2013a40c89",
+    "role": "user",
+    "created_at": "2026-02-03T16:08:40.892016+00:00"
+  },
+  {
+    "id": "ca6b8c12-7b3a-419c-a627-6544e71438f7",
+    "user_id": "6fca9e8c-b1b1-49fe-a4c8-42fe502e788b",
+    "role": "user",
+    "created_at": "2026-02-03T16:37:10.786589+00:00"
+  },
+  {
+    "id": "620f4567-4a42-4eb0-b7f6-0af4788e8c70",
+    "user_id": "7a6cd0dd-e413-41f8-b3d3-7ce0a15e128d",
+    "role": "user",
+    "created_at": "2026-02-03T16:41:45.693133+00:00"
+  },
+  {
+    "id": "ccd146b2-081d-4df3-b45a-3c61c33e3e55",
+    "user_id": "83278d5a-0d3c-4618-895e-3b72baeeb93e",
+    "role": "user",
+    "created_at": "2026-02-03T16:50:25.582437+00:00"
+  },
+  {
+    "id": "fe99cdab-0d18-49ca-b978-68f3b2422eb0",
+    "user_id": "8961386d-2e0f-46b1-bd61-e8646280be69",
+    "role": "user",
+    "created_at": "2026-02-03T17:02:40.710744+00:00"
+  },
+  {
+    "id": "1b9e2040-a0bc-453e-b31b-4e1541bebb14",
+    "user_id": "8dedb207-26a0-46c2-bd5a-00e3c90c67c7",
+    "role": "user",
+    "created_at": "2026-02-03T19:40:07.334466+00:00"
+  },
+  {
+    "id": "b4ebe94d-d1ab-4c3b-af4d-d2ac701d90b2",
+    "user_id": "ffb8438a-2c47-422c-8b87-8c2f83e6f5a5",
+    "role": "user",
+    "created_at": "2026-02-03T20:05:06.575165+00:00"
+  },
+  {
+    "id": "cd43a430-8ce5-4698-a63f-6a6022e47e2e",
+    "user_id": "1cda6210-73eb-4c05-9972-5d5f66212a27",
+    "role": "afiliado",
+    "created_at": "2026-02-03T20:06:46.661647+00:00"
+  },
+  {
+    "id": "03aa374c-7e08-4c63-9a84-0229d37b7945",
+    "user_id": "b41ed1b5-982a-4f8e-a6d3-0be1d94be394",
+    "role": "user",
+    "created_at": "2026-02-03T21:47:41.386839+00:00"
+  },
+  {
+    "id": "5ca82ce6-3be3-4b46-b4ba-b0722ff217a1",
+    "user_id": "a0440dab-75e6-43aa-a932-789af250f215",
+    "role": "user",
+    "created_at": "2026-02-03T22:44:40.2658+00:00"
+  },
+  {
+    "id": "a4144b3d-1c20-49b8-be8d-e7b01f0a7f57",
+    "user_id": "aeadf774-5157-4b90-9729-50c36cfee878",
+    "role": "user",
+    "created_at": "2026-02-03T23:00:59.002044+00:00"
+  },
+  {
+    "id": "fcac9ace-8768-46f6-bb2e-61ba45853f50",
+    "user_id": "a1419320-e81f-473b-bfbb-829a6c1c6a76",
+    "role": "user",
+    "created_at": "2026-02-03T23:14:41.781389+00:00"
+  },
+  {
+    "id": "137c80cb-8191-4c3f-a6a0-87fb9ff9e06e",
+    "user_id": "9f05a638-b2c0-4ae6-bb15-c582dfc3c617",
+    "role": "user",
+    "created_at": "2026-02-03T23:16:13.056286+00:00"
+  },
+  {
+    "id": "eff141b6-687f-401d-a54b-d5342d3440a1",
+    "user_id": "8b421e2c-0c1d-4400-8ef4-2e14247239d1",
+    "role": "user",
+    "created_at": "2026-02-03T23:19:23.041219+00:00"
+  },
+  {
+    "id": "34b47dc4-6142-49c5-96e6-bf7f1e986cc9",
+    "user_id": "089e15a8-e8a8-431a-8d9d-a904838967a0",
+    "role": "user",
+    "created_at": "2026-02-03T23:38:09.596774+00:00"
+  },
+  {
+    "id": "d4caca65-a8cc-482e-af6d-df8788b9b2ac",
+    "user_id": "0fa4525b-f5fe-436b-9c71-29ae3943082b",
+    "role": "user",
+    "created_at": "2026-02-03T23:54:49.811967+00:00"
+  },
+  {
+    "id": "2ab2b1a4-4ed3-4ffd-acc5-10b3b010207d",
+    "user_id": "42fa0b1f-bde2-40fa-b4e7-6a61c15f08bf",
+    "role": "user",
+    "created_at": "2026-02-03T23:59:09.975719+00:00"
+  },
+  {
+    "id": "5cb5f9fd-dbd4-43d3-ae32-c9f33fabba51",
+    "user_id": "3978c403-1c7d-4c6a-8324-a31adb9e5193",
+    "role": "user",
+    "created_at": "2026-02-04T02:08:54.921901+00:00"
+  },
+  {
+    "id": "73a88d41-4546-4a0a-9bbf-4c448a6d2cb4",
+    "user_id": "3476076b-e29b-4922-acc5-1bd314db85a2",
+    "role": "user",
+    "created_at": "2026-02-04T02:10:35.322713+00:00"
+  },
+  {
+    "id": "83de7d6f-7a34-456a-bb5b-63af87d77b7f",
+    "user_id": "ccb27223-844d-4558-b347-5ad33044e450",
+    "role": "user",
+    "created_at": "2026-02-04T02:11:47.583361+00:00"
+  },
+  {
+    "id": "d654f21e-1135-48c5-8a06-bb2f0994c9e1",
+    "user_id": "0a43c299-69bc-469b-9f16-9baf4112cd41",
+    "role": "user",
+    "created_at": "2026-02-04T02:13:09.734676+00:00"
+  },
+  {
+    "id": "047a2dee-5c2b-45be-bebe-c47daa5c5010",
+    "user_id": "7699e9f6-d64f-42ea-a8ba-c7b5a29282d1",
+    "role": "user",
+    "created_at": "2026-02-04T02:59:24.650041+00:00"
+  },
+  {
+    "id": "5b76ced7-d0dc-42b2-a1dd-09e3413b46d3",
+    "user_id": "6417baa9-0734-4ac1-97cf-47435d0e38c2",
+    "role": "afiliado",
+    "created_at": "2026-02-04T03:01:41.658872+00:00"
+  },
+  {
+    "id": "f09ea38e-9bd6-4e4c-98cd-c1022fef298a",
+    "user_id": "0e0541ab-6822-420b-9edc-113891635f62",
+    "role": "user",
+    "created_at": "2026-02-04T04:01:03.026704+00:00"
+  },
+  {
+    "id": "81694990-8305-40ac-a1a5-dc0608aafa7d",
+    "user_id": "8a81ebca-5e3a-4c2a-ba0a-935b96c1a3e2",
+    "role": "user",
+    "created_at": "2026-02-04T04:35:04.058178+00:00"
+  },
+  {
+    "id": "39f7b3b3-fd9e-4511-b20b-929278033c73",
+    "user_id": "aef44e52-3cf2-4132-ad3d-6f7ea96f7622",
+    "role": "user",
+    "created_at": "2026-02-04T04:46:23.66131+00:00"
+  },
+  {
+    "id": "f5e7d25b-9607-41e5-becd-036ce4d6d5f5",
+    "user_id": "166424e7-d6d3-4b4a-86c2-3889e1d402c5",
+    "role": "user",
+    "created_at": "2026-02-04T10:46:03.594673+00:00"
+  },
+  {
+    "id": "c287e555-9ea0-4a19-a0c8-3d6e22483354",
+    "user_id": "477882c8-029e-4b33-be46-70a0f4da518f",
+    "role": "user",
+    "created_at": "2026-02-04T10:53:54.906709+00:00"
+  },
+  {
+    "id": "aee2a2dc-7736-4744-8563-e63940cf00b2",
+    "user_id": "febf8f47-f970-4a29-b19e-06438eea8322",
+    "role": "user",
+    "created_at": "2026-02-04T14:07:23.891255+00:00"
+  },
+  {
+    "id": "a95b87f0-b364-44a8-a437-4f9c2b7adf90",
+    "user_id": "9b914584-b6a4-4307-8c93-0afd0313fca4",
+    "role": "user",
+    "created_at": "2026-02-04T14:16:24.077674+00:00"
+  },
+  {
+    "id": "d527d535-a918-47d1-9daa-547b9f24ee12",
+    "user_id": "bdfd9c20-f675-493c-b817-5fbf339e6984",
+    "role": "user",
+    "created_at": "2026-02-04T14:37:02.491886+00:00"
+  },
+  {
+    "id": "ddce0d52-734a-4ee5-b782-d7e0acc3061a",
+    "user_id": "979b03f8-6050-440d-be2e-329759afc175",
+    "role": "user",
+    "created_at": "2026-02-04T14:56:03.444765+00:00"
+  },
+  {
+    "id": "079844f7-72c0-4817-b7b8-77284c52e5f4",
+    "user_id": "0b38d474-19e3-46bb-b7c8-89409526bae5",
+    "role": "user",
+    "created_at": "2026-02-04T16:54:40.686197+00:00"
+  },
+  {
+    "id": "f07d3735-3bb2-446e-bbb1-a2dfe70c1cf9",
+    "user_id": "fbfa288a-9360-442e-9375-7a53060ae71c",
+    "role": "user",
+    "created_at": "2026-02-04T17:04:31.963647+00:00"
+  },
+  {
+    "id": "1c6afba6-f0fa-4c57-ae2a-2486d61f0a1a",
+    "user_id": "db3ce519-e459-4219-902c-ecd209fbdb1d",
+    "role": "user",
+    "created_at": "2026-02-04T19:33:56.944022+00:00"
+  },
+  {
+    "id": "d490f8b7-5bca-48d7-9730-797bf079ac18",
+    "user_id": "447b2725-e4f9-4c87-8de8-112f3dfb7c2f",
+    "role": "user",
+    "created_at": "2026-02-04T19:43:43.632552+00:00"
+  },
+  {
+    "id": "e298d767-66df-4b5a-9c2d-0fe85daab71d",
+    "user_id": "948958eb-37ac-4b25-8836-2ec38d15db0f",
+    "role": "user",
+    "created_at": "2026-02-04T19:57:11.102198+00:00"
+  },
+  {
+    "id": "bddf4398-e78e-434d-95e3-8051b4b58f31",
+    "user_id": "f3fd613e-27b6-4fc2-81cc-d9a8b6a09501",
+    "role": "user",
+    "created_at": "2026-02-04T21:09:00.783741+00:00"
+  },
+  {
+    "id": "dc77a0a7-8591-460d-b11c-1f024db687af",
+    "user_id": "28785322-8408-42f9-bfb7-9255c33d11da",
+    "role": "user",
+    "created_at": "2026-02-04T21:41:50.481843+00:00"
+  },
+  {
+    "id": "ea5d1b20-2446-415a-8a5f-86e6abef083d",
+    "user_id": "c7f49470-8b1a-4f47-981e-c8565fa85fc3",
+    "role": "user",
+    "created_at": "2026-02-04T21:56:02.766937+00:00"
+  },
+  {
+    "id": "e1670dfe-1daf-4ada-bd9c-2ac6d89d2d9a",
+    "user_id": "f1c06ada-481d-465b-9d5f-9c3184fee06b",
+    "role": "user",
+    "created_at": "2026-02-05T02:27:20.09738+00:00"
+  },
+  {
+    "id": "b43f335a-5d33-4687-a46d-04915bd35625",
+    "user_id": "88193d1f-0a98-494f-aeb2-eaf8bdc25d28",
+    "role": "user",
+    "created_at": "2026-02-05T02:30:20.862874+00:00"
+  },
+  {
+    "id": "93b80fec-6178-4ea3-9ca2-e9bba85b752e",
+    "user_id": "2dc31468-cf55-427a-a1c6-3bf063fc1621",
+    "role": "user",
+    "created_at": "2026-02-05T02:30:53.298229+00:00"
+  },
+  {
+    "id": "7d46370a-1676-41f2-8811-f22fd9bc49bf",
+    "user_id": "f624ecf4-4bf3-4879-aa9e-db7262f7e911",
+    "role": "user",
+    "created_at": "2026-02-05T02:34:52.540951+00:00"
+  },
+  {
+    "id": "749b3868-34da-4ea2-a5ff-5dc7180f22c4",
+    "user_id": "035a8307-fa14-4b11-a861-a5f7cf57ea4b",
+    "role": "user",
+    "created_at": "2026-02-05T02:36:00.223383+00:00"
+  },
+  {
+    "id": "84651456-6ad6-449e-9e90-d3da8e392734",
+    "user_id": "3897902e-af23-4cce-b562-9d504b25bb60",
+    "role": "user",
+    "created_at": "2026-02-05T02:50:19.860877+00:00"
+  },
+  {
+    "id": "7ca0f6d2-44ed-47db-b655-9d448e07eae1",
+    "user_id": "d9832e86-7365-4696-8781-eb026f3716ce",
+    "role": "user",
+    "created_at": "2026-02-05T02:50:33.640705+00:00"
+  },
+  {
+    "id": "5f33f86d-7ae7-41a3-ae61-cdc524aa95ae",
+    "user_id": "da566c91-3ae5-4113-9c74-98ad01846ad0",
+    "role": "user",
+    "created_at": "2026-02-05T02:54:37.349619+00:00"
+  },
+  {
+    "id": "633057b8-4bbd-4dd2-b011-5732ade99ab3",
+    "user_id": "12113f57-d43f-4163-83a7-e67cd985c457",
+    "role": "user",
+    "created_at": "2026-02-05T13:28:28.405825+00:00"
+  },
+  {
+    "id": "cb936b38-5391-4916-8998-90dc06b85e21",
+    "user_id": "543a3c85-fe3f-45e7-801e-d379e7c059b8",
+    "role": "user",
+    "created_at": "2026-02-05T13:46:44.863343+00:00"
+  },
+  {
+    "id": "6cb4f4d6-5d9f-4477-bd88-ec2153a9e426",
+    "user_id": "3c8d9b05-084f-4f9e-8d2a-53e9d9884be5",
+    "role": "user",
+    "created_at": "2026-02-05T13:57:40.527306+00:00"
+  },
+  {
+    "id": "13e94f46-14f4-4ec8-9866-351564b9ce11",
+    "user_id": "16c4bc5e-92e9-40e8-badb-8df275283969",
+    "role": "user",
+    "created_at": "2026-02-05T13:58:13.653832+00:00"
+  },
+  {
+    "id": "b94c8b53-3c7c-4f3e-86d4-15e3398888ac",
+    "user_id": "ee08c34d-5410-4a1d-a201-bb012cbee770",
+    "role": "user",
+    "created_at": "2026-02-05T14:07:15.766111+00:00"
+  },
+  {
+    "id": "eef48bf2-a4a6-402a-9366-a92001c34fbd",
+    "user_id": "75d33cf6-0712-49d2-a9fc-39f9e1ebebb8",
+    "role": "user",
+    "created_at": "2026-02-05T14:19:53.281908+00:00"
+  },
+  {
+    "id": "72093250-e1b1-42f7-b766-66cd6800526c",
+    "user_id": "6fef7c0e-d546-4028-8666-0437af91fc3c",
+    "role": "user",
+    "created_at": "2026-02-05T14:59:32.332019+00:00"
+  },
+  {
+    "id": "39628983-b371-4d18-9bd5-687c7668f0a9",
+    "user_id": "307c7225-1eaf-4c8b-a2cf-a140e1423336",
+    "role": "user",
+    "created_at": "2026-02-05T17:32:22.223347+00:00"
+  },
+  {
+    "id": "4d1f28a2-54af-4aa8-92e9-be9ccededb74",
+    "user_id": "59f4815d-a758-42ae-a177-1cb27276b5f4",
+    "role": "user",
+    "created_at": "2026-02-05T17:45:50.723148+00:00"
+  },
+  {
+    "id": "ae714ac5-3087-4723-a320-4f28ef38a046",
+    "user_id": "ef63313d-5ee6-4f76-b452-1e0a683533c7",
+    "role": "user",
+    "created_at": "2026-02-05T18:51:04.777847+00:00"
+  },
+  {
+    "id": "87a0c30e-e6b0-40da-bb27-8ea1959c463f",
+    "user_id": "3716d944-f349-4c5c-a73f-9c4bb1a0c0e1",
+    "role": "user",
+    "created_at": "2026-02-05T18:54:27.536513+00:00"
+  },
+  {
+    "id": "f8a36dc3-6e22-4b99-8c13-408bf8d6872c",
+    "user_id": "d80222d3-0b34-468f-ad18-79508cda61d8",
+    "role": "user",
+    "created_at": "2026-02-05T21:42:54.55312+00:00"
+  },
+  {
+    "id": "5fd9e79d-bde8-45ca-a60f-511cc793a86c",
+    "user_id": "05b9a389-4d76-405a-9a4d-0b49c1d421e5",
+    "role": "afiliado",
+    "created_at": "2026-02-05T22:48:38.284561+00:00"
+  },
+  {
+    "id": "104ff9b5-8788-4596-bae0-a1d8c56f79b7",
+    "user_id": "56ecd1ef-5111-4de9-953c-7190bd107985",
+    "role": "user",
+    "created_at": "2026-02-06T11:31:20.27561+00:00"
+  },
+  {
+    "id": "7b6ce74f-5657-42bd-bb63-ff19ca3bdaea",
+    "user_id": "11c0017b-ca83-42fc-b614-c509b1222a16",
+    "role": "user",
+    "created_at": "2026-02-06T14:37:47.956965+00:00"
+  },
+  {
+    "id": "16a9dae7-4cc7-46c8-8828-06f7b0a21c09",
+    "user_id": "3ec57411-4d43-40f6-87fd-83de51b81d46",
+    "role": "user",
+    "created_at": "2026-02-06T14:38:13.073818+00:00"
+  },
+  {
+    "id": "6d6bb735-53ef-4075-865f-564741370160",
+    "user_id": "d2e2014c-2cce-4488-ace1-e72e1dd49b25",
+    "role": "user",
+    "created_at": "2026-02-06T14:38:21.979948+00:00"
+  },
+  {
+    "id": "4c51a950-e0c4-4b75-a089-511d3c321e64",
+    "user_id": "cddf0962-24c9-47aa-80e9-ee17bbfe222d",
+    "role": "user",
+    "created_at": "2026-02-06T14:50:07.490839+00:00"
+  },
+  {
+    "id": "f9cff7a7-0394-4f9f-902b-dfba26c156da",
+    "user_id": "2de8869c-3e87-406f-89a9-3abf9b73400b",
+    "role": "user",
+    "created_at": "2026-02-06T15:15:38.79828+00:00"
+  },
+  {
+    "id": "f378d41b-62fb-4166-8b82-4a068595aa29",
+    "user_id": "8ae9ac78-9ef4-4e9f-a84d-7c75f2b18205",
+    "role": "user",
+    "created_at": "2026-02-06T15:35:28.949857+00:00"
+  },
+  {
+    "id": "dce7ae85-39f7-4b7b-9041-2feb41ad564c",
+    "user_id": "0bcf5fd8-9d25-442d-ab4a-67dd41ea9f80",
+    "role": "user",
+    "created_at": "2026-02-06T16:26:56.905533+00:00"
+  },
+  {
+    "id": "c570e400-4ed7-4da8-8586-1114ddfe182b",
+    "user_id": "3606b89a-3a2b-49f4-b141-b9d381f8bcd8",
+    "role": "user",
+    "created_at": "2026-02-06T17:16:40.073047+00:00"
+  },
+  {
+    "id": "d0fd4b9d-b847-43db-8fa5-6fd82b010488",
+    "user_id": "9bbfa1c9-2c59-4b33-bc98-bca974ff0cdb",
+    "role": "user",
+    "created_at": "2026-02-06T17:16:46.460875+00:00"
+  },
+  {
+    "id": "2ed67f1c-5c51-43d9-8ac1-9ebad809746b",
+    "user_id": "88d6d256-ac8c-469a-91ef-dce673dde651",
+    "role": "user",
+    "created_at": "2026-02-06T18:03:14.011555+00:00"
+  },
+  {
+    "id": "2d2b00a4-1dae-4ad9-bab1-89291c979f56",
+    "user_id": "5e6e3abb-74ca-4836-906a-91262251f021",
+    "role": "user",
+    "created_at": "2026-02-06T18:53:22.085822+00:00"
+  },
+  {
+    "id": "803fbbba-4f35-4c3f-845f-370954302e75",
+    "user_id": "729f107c-fdaa-4a93-b8c0-e31c71f7fc90",
+    "role": "user",
+    "created_at": "2026-02-07T02:13:36.810747+00:00"
+  },
+  {
+    "id": "620bf3c2-c60f-4842-813a-bea34f2ab30a",
+    "user_id": "57a3c829-17b4-471d-a951-384ec5d23465",
+    "role": "user",
+    "created_at": "2026-02-07T02:53:30.437+00:00"
+  },
+  {
+    "id": "b61608e7-a0cf-4dde-806f-f18c77c4500e",
+    "user_id": "513dac42-8cef-49ee-8153-96df77ce8d85",
+    "role": "afiliado",
+    "created_at": "2026-02-07T13:24:07.797189+00:00"
+  },
+  {
+    "id": "279a8144-4f3e-449b-93fe-97f9fbee1edc",
+    "user_id": "be92ad14-4fed-44ce-9241-f152981b3ccd",
+    "role": "user",
+    "created_at": "2026-02-07T14:58:51.508814+00:00"
+  },
+  {
+    "id": "7b10bace-d04a-45b6-8419-b40a926366d0",
+    "user_id": "d88f76bb-028f-44a4-af12-11a406f437d5",
+    "role": "user",
+    "created_at": "2026-02-07T15:02:18.597055+00:00"
+  },
+  {
+    "id": "b593ea06-036d-489e-b817-994a3e96cb43",
+    "user_id": "4cf21581-5bb5-4eef-af09-e01168cd33bd",
+    "role": "user",
+    "created_at": "2026-02-07T15:13:35.841113+00:00"
+  },
+  {
+    "id": "2d376501-bacb-4098-a425-ec82b3f3cd5f",
+    "user_id": "1091ddc5-974d-4cca-ac80-763f7d86de40",
+    "role": "user",
+    "created_at": "2026-02-07T16:19:46.541126+00:00"
+  },
+  {
+    "id": "f1ef3290-6681-43cf-91e2-0a74fb769aa6",
+    "user_id": "beb8e362-6fb8-4706-85b0-a32d96c49935",
+    "role": "user",
+    "created_at": "2026-02-07T16:30:27.247834+00:00"
+  },
+  {
+    "id": "0deacc43-9bc4-4238-8f4d-8f81b8216f6c",
+    "user_id": "e92b844c-d6eb-4497-ae1d-2e8e7caa84fa",
+    "role": "user",
+    "created_at": "2026-02-07T16:44:53.023428+00:00"
+  },
+  {
+    "id": "50e8f123-defe-4320-a90e-cfc9c5047ac9",
+    "user_id": "8a83c048-24ee-4ac5-aeef-900195e246ed",
+    "role": "user",
+    "created_at": "2026-02-07T17:21:13.189907+00:00"
+  },
+  {
+    "id": "1623be94-b2d8-4691-ae66-d00e07794e8f",
+    "user_id": "dbc17958-703c-4ecd-9d44-1eb7e8811811",
+    "role": "user",
+    "created_at": "2026-02-07T18:34:55.101459+00:00"
+  },
+  {
+    "id": "5bde0e29-f776-44e4-a03d-382e6f1f18b9",
+    "user_id": "f513b038-8109-4e75-bba7-47a5712da451",
+    "role": "user",
+    "created_at": "2026-02-07T19:20:23.584107+00:00"
+  },
+  {
+    "id": "810c535d-b605-4a3b-9fc7-550f9009cb06",
+    "user_id": "b6f32736-d05d-4445-80d1-973f01945be7",
+    "role": "user",
+    "created_at": "2026-02-08T00:27:04.756652+00:00"
+  },
+  {
+    "id": "17fca94b-d68a-4c14-897f-605f0cba01e6",
+    "user_id": "eeca2cca-ff7a-4752-8537-7e9d4767c6d2",
+    "role": "user",
+    "created_at": "2026-02-08T00:52:30.653939+00:00"
+  },
+  {
+    "id": "57acd2a3-116a-419c-87fe-30b8cd516392",
+    "user_id": "9880c2f1-8af5-4b27-bd86-bd445bccd0aa",
+    "role": "user",
+    "created_at": "2026-02-08T01:53:42.353085+00:00"
+  },
+  {
+    "id": "7bdbd575-153e-4d77-9168-c14346a65f7c",
+    "user_id": "a017d1df-509b-467c-86ea-6be516316488",
+    "role": "user",
+    "created_at": "2026-02-08T01:54:55.935611+00:00"
+  },
+  {
+    "id": "9fbc090c-1d94-459c-a8b2-01fe8173070f",
+    "user_id": "161d2ed7-9d08-410b-b379-76a270d15522",
+    "role": "user",
+    "created_at": "2026-02-08T01:54:58.367282+00:00"
+  },
+  {
+    "id": "1b4cb339-b0ed-4f31-991e-bf4099176846",
+    "user_id": "e1db6f60-30f2-4355-a50c-ed2e9b1d8fa4",
+    "role": "user",
+    "created_at": "2026-02-08T01:55:17.462038+00:00"
+  },
+  {
+    "id": "57be1316-359e-4f51-b8f0-29039fb50327",
+    "user_id": "aafac737-8fbc-4749-87ce-03bbe1c20444",
+    "role": "user",
+    "created_at": "2026-02-08T02:00:21.35284+00:00"
+  },
+  {
+    "id": "7cc55dae-6c55-4f27-9fd9-fa59640bae61",
+    "user_id": "a51e2ba1-09d2-4be1-a390-f55e78c19310",
+    "role": "user",
+    "created_at": "2026-02-08T02:01:16.476245+00:00"
+  },
+  {
+    "id": "8537d550-6395-4600-8cc5-ae19be4159de",
+    "user_id": "916e55c0-383d-4829-aac5-1617e2e31141",
+    "role": "user",
+    "created_at": "2026-02-08T02:02:10.790124+00:00"
+  },
+  {
+    "id": "7f202f30-af28-4b07-ac4c-a2d61ce2fbe7",
+    "user_id": "0547abfd-faeb-40e8-8e52-35dd5bc206b5",
+    "role": "user",
+    "created_at": "2026-02-08T02:51:19.704221+00:00"
+  },
+  {
+    "id": "87b2edcf-c95c-4452-9db2-9f2fb8fad790",
+    "user_id": "120e41bc-b84a-4bd7-b307-09a42d0c66f5",
+    "role": "user",
+    "created_at": "2026-02-08T02:53:30.498457+00:00"
+  },
+  {
+    "id": "f6216940-069a-40da-8ba0-4f18aee71ac5",
+    "user_id": "7c0c922f-bbd2-4ff4-8593-9e7afb4b0ded",
+    "role": "user",
+    "created_at": "2026-02-08T02:55:00.858973+00:00"
+  },
+  {
+    "id": "219a1ffe-be5b-4eed-a0b5-da22ab3f0a64",
+    "user_id": "abf05097-3bed-42c6-9a8f-a0cff5562369",
+    "role": "user",
+    "created_at": "2026-02-08T03:11:48.039985+00:00"
+  },
+  {
+    "id": "21b03d27-8810-4a87-8f75-18df54019ab7",
+    "user_id": "45126f6f-27a6-467c-af86-23c09ffa44da",
+    "role": "user",
+    "created_at": "2026-02-08T04:21:23.474922+00:00"
+  },
+  {
+    "id": "80077a67-c9e6-4296-a77b-56266cf7c1f1",
+    "user_id": "7716700f-8e76-4cff-9ab7-ad6dce01c756",
+    "role": "user",
+    "created_at": "2026-02-08T04:49:48.057144+00:00"
+  },
+  {
+    "id": "110028bc-dabd-432d-b820-0989085fc93e",
+    "user_id": "274b6df3-cfc0-450d-a90e-2635c04a2300",
+    "role": "user",
+    "created_at": "2026-02-08T05:03:50.459632+00:00"
+  },
+  {
+    "id": "e82e35b8-eeb1-4764-b707-6e28045e7baf",
+    "user_id": "d5f7f193-c700-42d3-9478-911ca9fc8475",
+    "role": "user",
+    "created_at": "2026-02-08T18:08:56.017777+00:00"
+  },
+  {
+    "id": "21c5a78d-070e-4b40-9214-7e5293ba42e0",
+    "user_id": "8ecb2877-e613-4c76-b711-dfd780652aaa",
+    "role": "user",
+    "created_at": "2026-02-08T18:12:39.871779+00:00"
+  },
+  {
+    "id": "506000e1-33e3-47a2-be16-2433da9fe875",
+    "user_id": "1c9ef5a5-2e15-43c1-86b8-19a2ef374acc",
+    "role": "user",
+    "created_at": "2026-02-09T02:25:06.714446+00:00"
+  },
+  {
+    "id": "92cd88eb-054c-4422-954b-2a6ad14af371",
+    "user_id": "3cf5ff7a-062e-4c67-8a4e-99a21b8ea4a5",
+    "role": "user",
+    "created_at": "2026-02-09T02:42:41.947568+00:00"
+  },
+  {
+    "id": "92961d26-757a-4c28-82e9-6bca3ad73dd8",
+    "user_id": "19457154-20ed-498a-964e-d571738f0c08",
+    "role": "user",
+    "created_at": "2026-02-09T02:45:23.440693+00:00"
+  },
+  {
+    "id": "a550afa4-807f-4bd6-bfa9-83218059ebf8",
+    "user_id": "a0964eb9-48a4-413a-a65f-0145575f0fe5",
+    "role": "user",
+    "created_at": "2026-02-09T13:43:52.400452+00:00"
+  },
+  {
+    "id": "9b7d5158-eb2d-4e22-baff-eb5f147e4473",
+    "user_id": "c7b201bb-6b7c-4d32-8c40-3e0fd1bffc9a",
+    "role": "user",
+    "created_at": "2026-02-09T14:06:55.397607+00:00"
+  },
+  {
+    "id": "09b3490a-3fb1-4122-bbb1-3bc8327b2818",
+    "user_id": "442fb699-db5c-4e68-933c-8b3b9f569b3e",
+    "role": "user",
+    "created_at": "2026-02-09T14:55:34.115621+00:00"
+  },
+  {
+    "id": "315b4cce-00e1-4f21-ab78-995226d36b16",
+    "user_id": "935ba32b-37d2-43a2-a5e0-550e75225cab",
+    "role": "user",
+    "created_at": "2026-02-09T15:45:55.811511+00:00"
+  },
+  {
+    "id": "46ad6bcb-279d-4ca4-87aa-4fe56b5bf479",
+    "user_id": "2ef1009a-8271-4a63-87da-c8caab79a041",
+    "role": "user",
+    "created_at": "2026-02-09T16:30:51.20795+00:00"
+  },
+  {
+    "id": "4faf6691-8772-4908-b1f6-32d8777c5b8d",
+    "user_id": "4d1de681-9ca5-4ed0-935f-270af2c5a46a",
+    "role": "user",
+    "created_at": "2026-02-09T17:14:58.696558+00:00"
+  },
+  {
+    "id": "9647ba6c-43f0-4174-b10c-448fa880dca7",
+    "user_id": "73ba5202-8ac5-4cb5-ab25-81d471249b8a",
+    "role": "user",
+    "created_at": "2026-02-09T17:38:48.828458+00:00"
+  },
+  {
+    "id": "774e1c69-02b2-4115-a5e8-ee29de5f40e4",
+    "user_id": "e2965638-d3ec-4351-8688-6a3ed119c209",
+    "role": "user",
+    "created_at": "2026-02-09T18:44:52.245386+00:00"
+  },
+  {
+    "id": "e5968164-cbd4-47b3-b35c-7aefa728ac94",
+    "user_id": "6ef65879-fc40-45f7-960b-f6623f346860",
+    "role": "user",
+    "created_at": "2026-02-09T18:59:18.51506+00:00"
+  },
+  {
+    "id": "a39b5788-9fd8-4c98-8092-e43b882bcfb1",
+    "user_id": "83e6cd31-c427-4899-8b78-ae6005a6da39",
+    "role": "user",
+    "created_at": "2026-02-09T20:52:51.202872+00:00"
+  },
+  {
+    "id": "fb018906-f4f1-4af2-b9ef-01d543809688",
+    "user_id": "a635717c-7c65-4bd6-8567-4fc3413a4c0e",
+    "role": "user",
+    "created_at": "2026-02-09T21:01:11.329829+00:00"
+  },
+  {
+    "id": "99c7d200-5318-4df6-94ed-e79923c1469e",
+    "user_id": "565769c4-a405-43db-abb3-8b5235893da6",
+    "role": "user",
+    "created_at": "2026-02-09T21:07:57.848779+00:00"
+  },
+  {
+    "id": "9aae7d02-4faa-4d03-9e1c-00576373ef95",
+    "user_id": "126235b8-23b3-47de-8adc-7ac65b28effa",
+    "role": "user",
+    "created_at": "2026-02-09T21:23:28.973901+00:00"
+  },
+  {
+    "id": "6270a2de-3614-46fc-b502-483c053d1727",
+    "user_id": "bbf36552-1cf2-4dd7-8ead-bbbc0b741d25",
+    "role": "user",
+    "created_at": "2026-02-09T21:43:36.922804+00:00"
+  },
+  {
+    "id": "f88a3383-51d4-4c5a-9369-8686ce2b78ea",
+    "user_id": "71d749c7-2461-427b-a9ab-534493265d30",
+    "role": "user",
+    "created_at": "2026-02-09T21:53:53.404576+00:00"
+  },
+  {
+    "id": "2cdf85b2-1429-4aec-8d6e-61124b25b302",
+    "user_id": "f7668eff-6ff9-40a0-ba8e-b737ca24d587",
+    "role": "user",
+    "created_at": "2026-02-09T22:53:54.801076+00:00"
+  },
+  {
+    "id": "c9301336-48c6-497f-9cf4-196e32d24bad",
+    "user_id": "095a560d-728a-47a5-8c76-9eeddf56113d",
+    "role": "user",
+    "created_at": "2026-02-10T00:04:25.933467+00:00"
+  },
+  {
+    "id": "9cfd862f-5e0a-46df-a289-ac123fc2628f",
+    "user_id": "2e3dfd94-1cc0-4e47-9c27-f9ef1c3fb4ef",
+    "role": "user",
+    "created_at": "2026-02-10T00:07:39.963735+00:00"
+  },
+  {
+    "id": "96e6e3dd-d26a-47e5-a1fd-382ff6de71ae",
+    "user_id": "02a321fc-992a-4bd5-a37b-a321daaeba55",
+    "role": "user",
+    "created_at": "2026-02-10T00:18:25.212554+00:00"
+  },
+  {
+    "id": "48ddc58c-1a7e-43b8-a215-24904d2ac838",
+    "user_id": "429d9c97-6978-4e45-8146-af9381ecf330",
+    "role": "user",
+    "created_at": "2026-02-10T00:29:39.596786+00:00"
+  },
+  {
+    "id": "fb06ea6e-bd7e-4eb4-a1e5-95e114ec8e5f",
+    "user_id": "33cb6e6d-3fd2-463c-819f-aa1e635e77f2",
+    "role": "user",
+    "created_at": "2026-02-10T01:24:37.36196+00:00"
+  },
+  {
+    "id": "b88eec9c-ea6a-4852-bde4-2765f5f016d1",
+    "user_id": "6427ff4e-a0b2-4ead-a1f4-28951728e69e",
+    "role": "user",
+    "created_at": "2026-02-10T01:26:03.325973+00:00"
+  },
+  {
+    "id": "d551fac8-6bb1-4e86-944e-29236e6ebe74",
+    "user_id": "a4ec4dd4-ef19-4b39-9d68-dcca2a911533",
+    "role": "user",
+    "created_at": "2026-02-10T01:32:54.83032+00:00"
+  },
+  {
+    "id": "dd283faa-26f3-4129-8223-aca4e42bd643",
+    "user_id": "cfc5d04b-3fd5-4cba-b6bd-1bdbde10539a",
+    "role": "user",
+    "created_at": "2026-02-10T02:10:31.279291+00:00"
+  },
+  {
+    "id": "3c1d9b79-298f-4d02-ab5b-8faac910e371",
+    "user_id": "98f23cc3-ba94-4382-96bc-874a28a79822",
+    "role": "user",
+    "created_at": "2026-02-10T02:14:17.198467+00:00"
+  },
+  {
+    "id": "00016c37-95a5-4401-8ec8-8728cf2be92f",
+    "user_id": "e99c3fc0-1deb-4fd9-b5e9-2a61b60b6f39",
+    "role": "user",
+    "created_at": "2026-02-10T03:46:24.361581+00:00"
+  },
+  {
+    "id": "344703a6-11c6-4202-86ea-62ed7866f3ea",
+    "user_id": "1b7747d0-17b7-4044-ab09-3560def0956e",
+    "role": "user",
+    "created_at": "2026-02-10T05:10:32.617957+00:00"
+  },
+  {
+    "id": "c0daca3b-7ee7-489c-897f-aefb4469019b",
+    "user_id": "506353f6-9bf0-4f54-aa52-8b50582bad47",
+    "role": "user",
+    "created_at": "2026-02-10T05:13:39.317244+00:00"
+  },
+  {
+    "id": "3118b48b-d125-4e54-9b5d-36995174b7bf",
+    "user_id": "d26fff60-82f1-4169-b9d2-04bb7f4e57bd",
+    "role": "user",
+    "created_at": "2026-02-10T11:18:02.239286+00:00"
+  },
+  {
+    "id": "0c79ad12-22b0-4ee7-89ed-cf750de7c3a1",
+    "user_id": "b3c833b8-ae52-495f-917f-e5b5b74799f1",
+    "role": "user",
+    "created_at": "2026-02-10T12:12:11.631056+00:00"
+  },
+  {
+    "id": "ec066293-5d34-4c04-bc2d-8c2845a53386",
+    "user_id": "8c5ff05a-b844-4835-be57-0f18af6e298d",
+    "role": "afiliado",
+    "created_at": "2026-02-10T13:55:37.190298+00:00"
+  },
+  {
+    "id": "d3792372-c830-4403-9e4e-497fc6dbbd1d",
+    "user_id": "1714d425-c478-49e2-9e57-57d2dd54e7a6",
+    "role": "user",
+    "created_at": "2026-02-10T14:13:14.981403+00:00"
+  },
+  {
+    "id": "949b5511-0785-4983-9e87-04234d6dbb28",
+    "user_id": "3e7577e8-f9e9-49e8-a208-3c5aa333cb7f",
+    "role": "user",
+    "created_at": "2026-02-10T14:41:05.55512+00:00"
+  },
+  {
+    "id": "4cb8972b-efd9-49ad-8d54-e09692e22e36",
+    "user_id": "198752a5-eeec-4c02-b535-fa75915afec1",
+    "role": "user",
+    "created_at": "2026-02-10T15:00:20.412119+00:00"
+  },
+  {
+    "id": "a5372549-c779-4638-b589-5faece754a0c",
+    "user_id": "a5eca42c-8301-4783-bd0d-fba3bd380c6b",
+    "role": "user",
+    "created_at": "2026-02-10T15:14:06.396567+00:00"
+  },
+  {
+    "id": "57b37a06-9ccf-4a0a-af76-a00a53a7b6f5",
+    "user_id": "e1bbe330-1606-4ff2-a56c-a431bf2eb2f9",
+    "role": "user",
+    "created_at": "2026-02-10T15:24:22.987206+00:00"
+  },
+  {
+    "id": "cccb4a7c-79fc-46c7-bd56-7db9541431f4",
+    "user_id": "1ad33d76-242d-4e79-bc95-8ffc033ccc7f",
+    "role": "user",
+    "created_at": "2026-02-10T15:27:19.546035+00:00"
+  },
+  {
+    "id": "4c5ccf61-2e29-4760-b0cf-9e5a28375118",
+    "user_id": "bfd1312c-0e64-41c5-9a3f-293368764500",
+    "role": "user",
+    "created_at": "2026-02-10T15:44:22.177267+00:00"
+  },
+  {
+    "id": "9f02b982-42a9-4220-b995-1ed9d4cbca56",
+    "user_id": "c1163ea3-bc1a-4f59-8f89-e7115e8f1fb6",
+    "role": "user",
+    "created_at": "2026-02-10T16:15:35.727422+00:00"
+  },
+  {
+    "id": "62d38c33-d82e-4524-a23c-95cf9cc4efb1",
+    "user_id": "35b5f68b-6ecd-46f8-b264-3ad4908b3aea",
+    "role": "user",
+    "created_at": "2026-02-10T16:36:06.505768+00:00"
+  },
+  {
+    "id": "5ba1e5f8-4d9e-4af0-aa36-ef06a762dea0",
+    "user_id": "3da24158-56f1-4676-86c4-e8612f22aac3",
+    "role": "user",
+    "created_at": "2026-02-10T17:31:56.969207+00:00"
+  },
+  {
+    "id": "69100bfe-1e7f-458e-98a5-01cdafff65b7",
+    "user_id": "0d2a3640-1a22-4c40-9180-d15640925bc7",
+    "role": "user",
+    "created_at": "2026-02-10T17:55:45.756857+00:00"
+  },
+  {
+    "id": "67f0436f-e1e0-4e10-82f9-6b4c0a4c0123",
+    "user_id": "ac70ea84-e791-489d-a779-50e9fe9bfcdd",
+    "role": "user",
+    "created_at": "2026-02-10T18:00:53.53695+00:00"
+  },
+  {
+    "id": "57120d83-b51e-4994-ac01-79e6d9e81485",
+    "user_id": "4d556090-d36f-481d-b761-d38a9e7cab5b",
+    "role": "user",
+    "created_at": "2026-02-10T18:04:36.673081+00:00"
+  },
+  {
+    "id": "8510beec-f780-4953-b53e-07aa3e4f588a",
+    "user_id": "d029791d-2fae-4e0a-9c16-47a094292479",
+    "role": "user",
+    "created_at": "2026-02-10T18:19:51.694973+00:00"
+  },
+  {
+    "id": "55399f66-3f98-438c-a01b-b0b2be982f7d",
+    "user_id": "27efaf2c-20cc-4bf9-9199-a8f965d90b34",
+    "role": "user",
+    "created_at": "2026-02-10T19:07:55.632918+00:00"
+  },
+  {
+    "id": "3dffcb9d-f418-4fd3-ac07-92a23aac2cee",
+    "user_id": "88567ee4-47d1-47d6-a32f-75ae7ba41b42",
+    "role": "user",
+    "created_at": "2026-02-10T20:43:45.062452+00:00"
+  },
+  {
+    "id": "bc395ee9-c29c-480a-bd60-ada6ec9779d2",
+    "user_id": "98f2094e-adc8-406d-9c74-d221d4a7f370",
+    "role": "user",
+    "created_at": "2026-02-10T21:07:11.634533+00:00"
+  },
+  {
+    "id": "2eabc4fa-879e-4770-b08f-eb230e03da0f",
+    "user_id": "0d655cc0-eb02-4f7e-9f61-b4db689ada0e",
+    "role": "user",
+    "created_at": "2026-02-11T00:13:36.449852+00:00"
+  },
+  {
+    "id": "c40af58e-0bde-400d-be13-cbdce1234781",
+    "user_id": "742a27a3-36be-4c7b-a319-ed07cb24f130",
+    "role": "user",
+    "created_at": "2026-02-11T02:22:56.716189+00:00"
+  },
+  {
+    "id": "75739f57-6daa-4f91-a180-f8af59fc4b8a",
+    "user_id": "0639f13c-e295-4136-9f2a-ee47a56008c9",
+    "role": "user",
+    "created_at": "2026-02-11T14:33:21.817388+00:00"
+  },
+  {
+    "id": "4937c1a5-1069-485a-b77b-a7ea2dfa8b3a",
+    "user_id": "87b82dfe-929d-448e-b58a-223d0fe7f8f1",
+    "role": "user",
+    "created_at": "2026-02-11T15:09:48.143042+00:00"
+  },
+  {
+    "id": "cb909adf-0103-4c6c-a99d-052314d251d7",
+    "user_id": "4b6ecc35-1d38-4b2f-a07a-939ba8189fb3",
+    "role": "user",
+    "created_at": "2026-02-11T15:16:48.949929+00:00"
+  },
+  {
+    "id": "d766fcff-0905-4b90-a193-daa1782d663d",
+    "user_id": "ff47d138-8edd-4321-895c-d469a57e216c",
+    "role": "user",
+    "created_at": "2026-02-11T15:31:43.669759+00:00"
+  },
+  {
+    "id": "6af201fd-954b-4907-a2bc-3f543d01c2bc",
+    "user_id": "473417ee-9765-478c-ac71-c63aa3535c55",
+    "role": "user",
+    "created_at": "2026-02-11T15:31:45.363981+00:00"
+  },
+  {
+    "id": "01d1134c-a690-42fa-965e-598d3ffa02ca",
+    "user_id": "ab699422-c7ae-401f-9e12-99f18100f60f",
+    "role": "user",
+    "created_at": "2026-02-11T15:31:54.445255+00:00"
+  },
+  {
+    "id": "eea95b56-fc8c-4274-80b0-0c2bb254548e",
+    "user_id": "82923f0e-8698-4606-9add-046992e1fcde",
+    "role": "user",
+    "created_at": "2026-02-11T15:32:28.049165+00:00"
+  },
+  {
+    "id": "2484c10c-4847-4b7f-b8eb-4e08cb9b3a62",
+    "user_id": "7c7126ec-8c21-4bb6-9025-74d0a3aec3ce",
+    "role": "user",
+    "created_at": "2026-02-11T15:48:25.026036+00:00"
+  },
+  {
+    "id": "4075c9a4-0e34-4560-868b-d1ac7f0baf92",
+    "user_id": "a0d9dd8b-b2ab-472f-be19-a8a142192706",
+    "role": "user",
+    "created_at": "2026-02-11T15:51:07.460853+00:00"
+  },
+  {
+    "id": "2c2b4cf5-0548-4c9c-8391-f8f3b0ac6987",
+    "user_id": "2b4afa6e-f53c-4a84-8e9b-4fce4f743baa",
+    "role": "user",
+    "created_at": "2026-02-11T16:13:26.439103+00:00"
+  },
+  {
+    "id": "730dc4d1-f8e5-4fbf-9e74-aae21c9e8ff9",
+    "user_id": "5fe02af9-b1eb-4cd9-8801-d56de370cec4",
+    "role": "user",
+    "created_at": "2026-02-11T17:23:51.947186+00:00"
+  },
+  {
+    "id": "a1bed47e-2e93-4e78-97b1-2d6d5e591193",
+    "user_id": "ec72b065-ceee-4bd9-8cde-9426ee9ee9a4",
+    "role": "afiliado",
+    "created_at": "2026-02-11T18:09:33.991744+00:00"
+  },
+  {
+    "id": "fd64258e-7fea-4b32-bd4b-42f28666ce18",
+    "user_id": "dfd99149-bb7c-4215-9610-20ed3ca3d2c9",
+    "role": "afiliado",
+    "created_at": "2026-02-11T18:12:29.319285+00:00"
+  },
+  {
+    "id": "2f3ea8be-4278-48c7-af9c-2050b5c8f088",
+    "user_id": "8d9e6a5f-3c6d-4a59-979e-920eca76a82e",
+    "role": "user",
+    "created_at": "2026-02-11T22:07:24.801681+00:00"
+  },
+  {
+    "id": "5353892c-ed0b-40a7-aeef-7943473e43ce",
+    "user_id": "9df27ead-67ca-4cbb-8ebc-d4c5e0816588",
+    "role": "user",
+    "created_at": "2026-02-11T22:11:05.229696+00:00"
+  },
+  {
+    "id": "e7158c00-c621-475c-8128-f917d4ee8f74",
+    "user_id": "0a4a286d-2d8b-4867-b711-d61f0ba26dc0",
+    "role": "user",
+    "created_at": "2026-02-11T22:37:49.56013+00:00"
+  },
+  {
+    "id": "5f629ca4-29fd-4820-a38b-3600496e8f0b",
+    "user_id": "63b09dc9-99f8-4e5e-b1a7-58f61aa1a2e2",
+    "role": "user",
+    "created_at": "2026-02-12T01:38:58.089176+00:00"
+  },
+  {
+    "id": "5e54e798-3b2b-4251-bbe4-37baf0e93416",
+    "user_id": "d480689b-0bb0-4298-b9ba-adea5ca85b25",
+    "role": "user",
+    "created_at": "2026-02-12T01:42:01.140156+00:00"
+  },
+  {
+    "id": "df68cc2e-44f7-4e8c-b825-3576a08329c9",
+    "user_id": "6d443b87-ab3c-4fc8-b073-6b754cf0ab81",
+    "role": "user",
+    "created_at": "2026-02-12T01:44:56.276884+00:00"
+  },
+  {
+    "id": "254cfd15-0110-4182-9134-30781bd6b67e",
+    "user_id": "2ec2ec35-6743-4078-8ee7-c1405d342182",
+    "role": "user",
+    "created_at": "2026-02-12T01:49:15.070329+00:00"
+  },
+  {
+    "id": "2442d2d9-34a7-4864-95d2-ad115f457c08",
+    "user_id": "e9b773ff-67f5-4fc4-ae11-a6f43875580c",
+    "role": "user",
+    "created_at": "2026-02-12T01:50:41.207818+00:00"
+  },
+  {
+    "id": "0207cc6c-4b7f-454d-87c6-b3eaa63b98d2",
+    "user_id": "96ab6440-641b-4c04-84a1-64a30f06832b",
+    "role": "user",
+    "created_at": "2026-02-12T02:33:28.411536+00:00"
+  },
+  {
+    "id": "1b88e1eb-3ad0-49a4-ad2d-470263d12bde",
+    "user_id": "6275e8f5-fb6f-46f1-87c1-0bd5a4bd2aa0",
+    "role": "user",
+    "created_at": "2026-02-12T05:37:54.28586+00:00"
+  },
+  {
+    "id": "9fca5f27-b67a-4f2d-89bb-3649715681d2",
+    "user_id": "d4a0b8b6-b686-4ad1-9625-1f81ec5e8c4a",
+    "role": "user",
+    "created_at": "2026-02-12T15:09:05.738008+00:00"
+  },
+  {
+    "id": "0a3ebda4-4591-460f-9ccc-59757c01b909",
+    "user_id": "af2284a2-c3f2-4eb6-b410-811ea0a21a57",
+    "role": "user",
+    "created_at": "2026-02-12T15:13:38.328091+00:00"
+  },
+  {
+    "id": "e0e7908e-54b8-4063-b974-37ae16906256",
+    "user_id": "427efa58-c41e-473f-98fb-97caccb49802",
+    "role": "user",
+    "created_at": "2026-02-12T15:15:56.597217+00:00"
+  },
+  {
+    "id": "d064d490-aab7-4d60-b985-54fad0c8197b",
+    "user_id": "460f82bf-06a3-4374-b2db-2f7bc5f1e13b",
+    "role": "user",
+    "created_at": "2026-02-12T15:16:24.148835+00:00"
+  },
+  {
+    "id": "8698a7d5-842e-452b-8273-9212ca9358b8",
+    "user_id": "4ff272e0-c41e-4bf2-9f7c-e94725e9088b",
+    "role": "user",
+    "created_at": "2026-02-12T15:16:36.290449+00:00"
+  },
+  {
+    "id": "e84d8a4f-de15-4b62-9544-8afec0a92412",
+    "user_id": "e2dec250-09f7-430a-a469-ebf5047cea30",
+    "role": "user",
+    "created_at": "2026-02-12T15:18:25.117167+00:00"
+  },
+  {
+    "id": "316e2ed4-1efb-4b0e-8965-8466a2a68574",
+    "user_id": "9e21af8d-23c9-4b94-93bf-3e3111f4f15f",
+    "role": "user",
+    "created_at": "2026-02-12T15:54:35.108581+00:00"
+  },
+  {
+    "id": "6d8df09b-0000-48fc-9e34-86571b89f617",
+    "user_id": "62e9c3e8-e642-4d37-a082-aca29a94fd90",
+    "role": "user",
+    "created_at": "2026-02-12T15:59:11.543781+00:00"
+  },
+  {
+    "id": "64ade8f8-2f0e-439a-bd47-9efbf20a7d14",
+    "user_id": "7b8040d2-723e-4051-b9e7-669fbd77ffd3",
+    "role": "user",
+    "created_at": "2026-02-12T16:21:19.634042+00:00"
+  },
+  {
+    "id": "9ca7f9a1-d715-40d4-a3b4-81fa11fe35d1",
+    "user_id": "d964c681-6d5b-4745-9fe5-3424dc55fba6",
+    "role": "user",
+    "created_at": "2026-02-12T16:51:07.643277+00:00"
+  },
+  {
+    "id": "b575f06f-bbb9-4fa0-9cf3-f42375f44cd4",
+    "user_id": "ef370f76-ae1f-450d-b763-69b5e3c44344",
+    "role": "user",
+    "created_at": "2026-02-12T18:19:02.53233+00:00"
+  },
+  {
+    "id": "2e4ea056-9693-4977-ab3d-978084e28dba",
+    "user_id": "7a676954-e8f4-4dd3-8bc1-396f6ee2a27c",
+    "role": "user",
+    "created_at": "2026-02-12T18:38:59.358435+00:00"
+  },
+  {
+    "id": "45360a9a-515c-4990-a461-58c4b475b263",
+    "user_id": "2f065313-7568-4251-b87c-5194929af0b6",
+    "role": "user",
+    "created_at": "2026-02-12T19:08:54.600894+00:00"
+  },
+  {
+    "id": "d8808712-84bd-45ab-8891-490eab88072c",
+    "user_id": "79d5599c-0a4c-4218-9b81-c3057835520d",
+    "role": "user",
+    "created_at": "2026-02-12T22:54:26.029844+00:00"
+  },
+  {
+    "id": "f5900b32-4352-4899-a609-b5442d615b9f",
+    "user_id": "60673d88-4a4b-49b0-8fe7-4c251b089fcb",
+    "role": "user",
+    "created_at": "2026-02-12T23:10:31.910787+00:00"
+  },
+  {
+    "id": "7169810d-4509-40c8-a452-89ff9b480b1b",
+    "user_id": "3bce5800-2ebb-42b0-bbd6-8f7244338aa8",
+    "role": "user",
+    "created_at": "2026-02-13T00:36:08.276249+00:00"
+  },
+  {
+    "id": "8c2b3c65-c4f0-4c0e-8510-d102a4cbd785",
+    "user_id": "b900d92f-a58e-4b07-be52-dcc22c550da9",
+    "role": "user",
+    "created_at": "2026-02-13T03:05:08.296524+00:00"
+  },
+  {
+    "id": "11c6ebd5-2949-4182-959f-f06b8a548e10",
+    "user_id": "c7607e4b-839f-484a-8cfc-8afa9fc1aabb",
+    "role": "user",
+    "created_at": "2026-02-13T03:09:56.127807+00:00"
+  },
+  {
+    "id": "4379c712-5a14-4f3b-ba15-417fba31e074",
+    "user_id": "416841b6-1f25-407a-8c8a-d28959f94cd5",
+    "role": "user",
+    "created_at": "2026-02-13T03:19:19.596886+00:00"
+  },
+  {
+    "id": "3ed344cf-cbc8-475f-952e-a23e0ede99f8",
+    "user_id": "4ff27f11-5ef7-45bb-a8ea-375617d9e734",
+    "role": "user",
+    "created_at": "2026-02-13T05:22:16.369956+00:00"
+  },
+  {
+    "id": "7b34e434-a57d-4839-a6e7-c741f35061a8",
+    "user_id": "e9737fc6-0d9e-4b2a-ace6-7a77bd9cad6d",
+    "role": "user",
+    "created_at": "2026-02-13T13:34:21.298658+00:00"
+  },
+  {
+    "id": "69c7da82-8067-4bf1-881a-9be9744e4e4c",
+    "user_id": "735f9092-db8f-4a81-90e9-44e1728695fd",
+    "role": "user",
+    "created_at": "2026-02-13T15:13:31.716306+00:00"
+  },
+  {
+    "id": "8dfcaeeb-3172-4fb2-8fad-c5b1ef80b4fe",
+    "user_id": "630233ea-079b-4500-95ed-c3ca43914bf9",
+    "role": "user",
+    "created_at": "2026-02-13T15:24:13.917276+00:00"
+  },
+  {
+    "id": "e03e882e-636d-4b4a-9f22-9321f225d55b",
+    "user_id": "39a850e4-0838-4494-b25e-c0c7ff28628c",
+    "role": "user",
+    "created_at": "2026-02-13T15:53:33.922002+00:00"
+  },
+  {
+    "id": "30e6c64c-a377-4c8e-b88d-8f01843b3d91",
+    "user_id": "2685500e-a7b2-4ed1-8c20-f0edac4248dd",
+    "role": "user",
+    "created_at": "2026-02-13T18:51:56.39583+00:00"
+  },
+  {
+    "id": "263129ca-0dad-4373-874a-9faefae0f79c",
+    "user_id": "2c0036f0-65a3-4450-ab32-cd6b59e64924",
+    "role": "afiliado",
+    "created_at": "2026-02-13T22:04:58.128389+00:00"
+  },
+  {
+    "id": "2a285a54-84f9-4400-8685-01c174b0743d",
+    "user_id": "fb555b09-51ed-47ae-bbf8-fc4f2c966617",
+    "role": "user",
+    "created_at": "2026-02-14T00:48:51.73099+00:00"
+  },
+  {
+    "id": "967b0390-715c-47d3-adc1-10b01c52dadb",
+    "user_id": "d07e8d64-c3cd-4b58-967f-93855469fa7e",
+    "role": "user",
+    "created_at": "2026-02-14T01:27:15.318835+00:00"
+  },
+  {
+    "id": "152f82cd-48b7-4030-91b3-13cd81a372f9",
+    "user_id": "c82571bb-d983-4d12-9e0e-a735fd4d272f",
+    "role": "user",
+    "created_at": "2026-02-14T01:30:24.65014+00:00"
+  },
+  {
+    "id": "4c87f5b7-0b1e-428e-9d00-2a98938bf2d1",
+    "user_id": "0eb234c4-4783-4e5e-98ad-26a0a504c5f1",
+    "role": "user",
+    "created_at": "2026-02-14T01:53:30.122775+00:00"
+  },
+  {
+    "id": "435f9b35-bf60-454b-90e0-09b7201e0812",
+    "user_id": "65172e01-00a2-4bd4-86d5-a42fb7a6bc42",
+    "role": "user",
+    "created_at": "2026-02-14T05:55:36.837074+00:00"
+  },
+  {
+    "id": "16c73ac1-e75b-43ac-be99-2f534bc8cf39",
+    "user_id": "261e005f-cb15-44d0-a2cc-6f0d9816c66c",
+    "role": "user",
+    "created_at": "2026-02-14T17:24:21.124405+00:00"
+  },
+  {
+    "id": "bc1343be-f63a-4ccb-a3c2-980f94539fe1",
+    "user_id": "50a08fa7-2862-4bb3-982f-0be26ae0de8e",
+    "role": "user",
+    "created_at": "2026-02-15T19:29:48.462517+00:00"
+  },
+  {
+    "id": "48beb293-475a-4926-8780-df20ffbfdc9f",
+    "user_id": "7dd95b56-15d1-4310-b75f-e64235ace8e3",
+    "role": "user",
+    "created_at": "2026-02-15T19:39:55.417279+00:00"
+  },
+  {
+    "id": "76a7160c-1a08-4e65-9f5c-4edc27494a40",
+    "user_id": "bf678079-c25b-489e-8c8e-9abe39c05fea",
+    "role": "user",
+    "created_at": "2026-02-16T00:15:34.177882+00:00"
+  },
+  {
+    "id": "e70eb58e-873d-49e6-97ca-761b0f80279e",
+    "user_id": "ee1ba2be-3ebd-4891-982d-653f19ce1622",
+    "role": "user",
+    "created_at": "2026-02-16T17:51:55.926761+00:00"
+  },
+  {
+    "id": "e55b2acb-dddb-490d-9ce9-6913e588a0bb",
+    "user_id": "fa97f473-0d14-4c9c-b02f-e0b4d488ed3d",
+    "role": "user",
+    "created_at": "2026-02-16T17:53:09.263299+00:00"
+  },
+  {
+    "id": "af09053d-b136-4ef3-890a-3929c73d876d",
+    "user_id": "e3ac6f43-dbff-4a57-baad-cd038844dfdd",
+    "role": "user",
+    "created_at": "2026-02-16T17:54:07.48382+00:00"
+  },
+  {
+    "id": "5357dfd4-72f1-41fd-9566-0f828ed6eb39",
+    "user_id": "48163dcb-04cf-4d8b-83a8-749a2d2eb571",
+    "role": "user",
+    "created_at": "2026-02-16T17:56:01.255646+00:00"
+  },
+  {
+    "id": "a9c009c7-46e3-4a7c-9d55-73fa1fb77adf",
+    "user_id": "6c7d05d4-6be8-4e9e-92e5-9dffe6ecd96e",
+    "role": "user",
+    "created_at": "2026-02-16T18:01:58.068358+00:00"
+  },
+  {
+    "id": "f7e6bbbe-7f09-452a-8547-bcc44059f6e9",
+    "user_id": "1e0829b6-159a-4958-b1ad-7b86e104d594",
+    "role": "user",
+    "created_at": "2026-02-16T18:04:28.538289+00:00"
+  },
+  {
+    "id": "b0e8f134-3c9d-4267-830c-3d3c4494992e",
+    "user_id": "92632629-3aa7-48fa-8cfa-72c95c34ab2a",
+    "role": "user",
+    "created_at": "2026-02-16T18:11:45.162599+00:00"
+  },
+  {
+    "id": "6503f237-6dbc-4666-ab7b-ca5e595b946a",
+    "user_id": "2c909c25-6e81-4031-8f5c-04814af331f0",
+    "role": "user",
+    "created_at": "2026-02-16T18:34:25.865933+00:00"
+  },
+  {
+    "id": "979f7a7c-9602-4ca9-bc1e-b3a93da0cdf9",
+    "user_id": "b619f1e5-be02-4cda-b4e9-ad03ea7eb831",
+    "role": "user",
+    "created_at": "2026-02-16T21:37:09.763182+00:00"
+  },
+  {
+    "id": "b594205d-61c1-46df-adaf-17ecbc4a611a",
+    "user_id": "14bc0c6b-a2eb-4005-83b7-5da959bcab32",
+    "role": "user",
+    "created_at": "2026-02-17T02:03:42.751617+00:00"
+  },
+  {
+    "id": "0612a63c-6cbd-4f7e-a2c9-30e8a92bbc09",
+    "user_id": "ffad7982-d3bc-493d-b6b2-7f6f53d76fd8",
+    "role": "user",
+    "created_at": "2026-02-17T02:06:24.897422+00:00"
+  },
+  {
+    "id": "0667e8a2-029e-4091-ba62-b7aaf989908b",
+    "user_id": "db3fd573-6894-46a2-87d4-33dc765c895d",
+    "role": "afiliado",
+    "created_at": "2026-02-17T16:54:16.106765+00:00"
+  },
+  {
+    "id": "129b629f-a940-48bf-836e-57d1533585d0",
+    "user_id": "61c40ec8-15ee-4176-9afc-b10586aba7f5",
+    "role": "user",
+    "created_at": "2026-02-17T19:20:03.079821+00:00"
+  },
+  {
+    "id": "d5f7ce1c-e67b-4405-b8fd-4daf457215ee",
+    "user_id": "bb03cb68-3f43-4201-b753-3be854f424c3",
+    "role": "user",
+    "created_at": "2026-02-17T19:55:19.551835+00:00"
+  },
+  {
+    "id": "f724674c-0026-4292-922d-4e68ac2b60ee",
+    "user_id": "f5f8ea19-397b-482d-a3b4-3aec7841c79a",
+    "role": "user",
+    "created_at": "2026-02-17T19:55:19.6451+00:00"
+  },
+  {
+    "id": "464c9c01-8c0f-42a4-adee-ddd23946ca7f",
+    "user_id": "e5311b0c-5062-4fcf-b8f5-7bf8b466fec7",
+    "role": "user",
+    "created_at": "2026-02-18T15:07:04.3782+00:00"
+  },
+  {
+    "id": "8830ab8e-b922-4825-adfd-e256aa55165e",
+    "user_id": "dd97bb36-2a4a-4d2d-92f0-5ba39181d7cf",
+    "role": "user",
+    "created_at": "2026-02-18T15:12:44.033423+00:00"
+  },
+  {
+    "id": "1efc6fd0-8c0d-48c5-b303-b85d9746dcb3",
+    "user_id": "778ac846-7ad9-4d9d-9b20-91a1e0b61d4c",
+    "role": "user",
+    "created_at": "2026-02-18T15:14:43.973806+00:00"
+  },
+  {
+    "id": "dd99df32-38c6-4d08-832f-6fceeb3854ab",
+    "user_id": "f765bf71-39ff-4289-af3f-9e66e2ba219a",
+    "role": "user",
+    "created_at": "2026-02-18T15:21:37.956091+00:00"
+  },
+  {
+    "id": "e9b121f2-002f-4486-9f38-00d0ce2f951d",
+    "user_id": "112b1926-b6c9-4fe6-9127-5878dee68507",
+    "role": "user",
+    "created_at": "2026-02-18T15:24:13.991061+00:00"
+  },
+  {
+    "id": "d08ac93e-3662-4a68-b82e-0a0e28aed1f9",
+    "user_id": "f011f79f-3c80-46c4-895f-a4c43637f834",
+    "role": "user",
+    "created_at": "2026-02-18T15:29:52.953704+00:00"
+  },
+  {
+    "id": "fa1c21b3-85d2-4178-bcc7-74caf4a53730",
+    "user_id": "9606593a-d4b7-47d2-865a-0db078fff547",
+    "role": "user",
+    "created_at": "2026-02-18T15:35:18.830639+00:00"
+  },
+  {
+    "id": "3927a0df-5aa0-4010-ac8e-5c491e1511ed",
+    "user_id": "0565b24d-15f2-4c17-953c-a9021b45ef50",
+    "role": "user",
+    "created_at": "2026-02-18T15:41:50.221859+00:00"
+  },
+  {
+    "id": "f7adc2a6-385d-4807-8f45-c714a6b2632c",
+    "user_id": "d3c04eac-7a00-4368-8f90-2ab7ac743939",
+    "role": "user",
+    "created_at": "2026-02-18T20:58:54.67189+00:00"
+  },
+  {
+    "id": "983e0594-e376-48a6-8601-26906e174fc3",
+    "user_id": "1ee68cbe-abc5-4775-983c-24d88fc3002e",
+    "role": "user",
+    "created_at": "2026-02-18T21:16:52.71136+00:00"
+  },
+  {
+    "id": "505a5db3-5333-4e0d-be62-d0e08e42e80b",
+    "user_id": "d7b20e63-d8a6-48b7-90df-e807aa51ca00",
+    "role": "user",
+    "created_at": "2026-02-18T23:19:04.035889+00:00"
+  },
+  {
+    "id": "77050f13-5384-414e-996d-0226557182ec",
+    "user_id": "a3c81569-482d-41fe-a1e5-d3c7359d8a75",
+    "role": "user",
+    "created_at": "2026-02-18T23:45:13.734889+00:00"
+  },
+  {
+    "id": "83f7c1e2-e99e-4e1c-8551-322f95277224",
+    "user_id": "a6f6c086-4514-443c-bb8d-cb5ca22d8c82",
+    "role": "user",
+    "created_at": "2026-02-18T23:50:37.034921+00:00"
+  },
+  {
+    "id": "6fc4e529-3af4-4cf6-ae5a-1c919698ce6c",
+    "user_id": "ed2332df-de44-443c-a338-97566e7901ec",
+    "role": "user",
+    "created_at": "2026-02-18T23:57:00.80531+00:00"
+  },
+  {
+    "id": "d4c4f523-4390-4b1b-b687-45e397795884",
+    "user_id": "a5bfb77d-00bf-4365-b044-70bfcbfd32a3",
+    "role": "user",
+    "created_at": "2026-02-19T10:09:30.686512+00:00"
+  },
+  {
+    "id": "400a5af5-b544-46dd-8635-2cf7ff169d09",
+    "user_id": "4a16ac62-680d-4177-9134-33f43d4da804",
+    "role": "user",
+    "created_at": "2026-04-30T13:01:19.267741+00:00"
+  },
+  {
+    "id": "6e3b875f-7e03-4420-9492-87df27134803",
+    "user_id": "a1dd2641-b134-4798-a190-d95183119642",
+    "role": "user",
+    "created_at": "2026-02-19T13:54:40.440782+00:00"
+  },
+  {
+    "id": "0f731d41-44bb-42c0-8b73-3fdff05bef43",
+    "user_id": "d7a2db62-424d-411d-8ab8-19b510e02085",
+    "role": "user",
+    "created_at": "2026-02-19T13:57:20.582395+00:00"
+  },
+  {
+    "id": "f75c3833-4422-4f83-8436-d759da88becc",
+    "user_id": "305ed85a-011d-472d-adec-bdd7faeaab20",
+    "role": "user",
+    "created_at": "2026-02-19T15:05:49.443833+00:00"
+  },
+  {
+    "id": "d5b87690-2a4f-403a-ba5f-8c67293f9bd8",
+    "user_id": "5ce97fe3-1f33-445f-8894-18c866db8cff",
+    "role": "user",
+    "created_at": "2026-02-19T15:22:43.661955+00:00"
+  },
+  {
+    "id": "7abce331-b091-465b-a5f9-51c6286161e3",
+    "user_id": "3231ab04-ed04-48fe-9132-2ed19b13ef7c",
+    "role": "user",
+    "created_at": "2026-02-19T16:15:32.502754+00:00"
+  },
+  {
+    "id": "d19710fd-0764-466d-8758-64dbeb05ca28",
+    "user_id": "4acccaab-384b-4008-b67b-a16a152c3d97",
+    "role": "user",
+    "created_at": "2026-02-19T16:32:41.161247+00:00"
+  },
+  {
+    "id": "cce483df-11e7-4821-bd96-f056a8ab9f8b",
+    "user_id": "4e56ebcb-2006-4161-8d70-96b857cf868d",
+    "role": "user",
+    "created_at": "2026-02-19T16:51:50.261257+00:00"
+  },
+  {
+    "id": "d72c44bd-5ba4-4249-aea4-b5479691e033",
+    "user_id": "f2afb172-1e3d-4b9e-a41a-b90a08d52818",
+    "role": "user",
+    "created_at": "2026-02-19T17:03:25.666512+00:00"
+  },
+  {
+    "id": "4f2c2dd6-99c3-43ae-826a-6083a28e15fb",
+    "user_id": "3fa1bb00-e7b3-48d9-a347-f625d6e79646",
+    "role": "afiliado",
+    "created_at": "2026-02-19T19:33:49.279461+00:00"
+  },
+  {
+    "id": "7d4aad9e-0e14-4f36-9cc8-320ca92d1c6f",
+    "user_id": "f171397a-015b-4bc9-bdda-abc3cdeb03b2",
+    "role": "user",
+    "created_at": "2026-02-19T21:03:50.540811+00:00"
+  },
+  {
+    "id": "d6594459-dea1-4c9a-a229-49448e9d8a3a",
+    "user_id": "114e6093-4a2b-4017-a577-5cc7ba2a5b67",
+    "role": "user",
+    "created_at": "2026-02-23T17:55:06.479851+00:00"
+  },
+  {
+    "id": "6755b614-61a4-455a-9bee-d4cbc5f3070c",
+    "user_id": "01e971a9-9a08-41b0-97ca-8b178133740d",
+    "role": "user",
+    "created_at": "2026-02-23T20:46:23.970949+00:00"
+  },
+  {
+    "id": "d0c2b4e3-63bf-4262-9daf-43ac8146d150",
+    "user_id": "6cb0abdf-0265-49ba-997b-dd9ff723224f",
+    "role": "user",
+    "created_at": "2026-02-24T00:25:43.850054+00:00"
+  },
+  {
+    "id": "14b2e030-7225-4608-b6fb-b69ff4fd5528",
+    "user_id": "24f13941-7554-42b0-a70c-f1456b74ee6f",
+    "role": "user",
+    "created_at": "2026-02-24T00:27:11.487689+00:00"
+  },
+  {
+    "id": "5978295c-bb88-4c56-bceb-0bffe6c73485",
+    "user_id": "7ad5fe7a-bad8-4340-b69f-951cf0c47998",
+    "role": "user",
+    "created_at": "2026-02-24T01:44:39.781865+00:00"
+  },
+  {
+    "id": "93db2260-8aec-45ee-ba91-59a24e6ac962",
+    "user_id": "372f9653-c111-4832-9b48-dab155cc360d",
+    "role": "user",
+    "created_at": "2026-02-24T21:16:27.437306+00:00"
+  },
+  {
+    "id": "8841e345-6b10-4133-9bbe-719954f64b1b",
+    "user_id": "6609cbaa-3e25-4fd7-bd73-06c430ef7b8e",
+    "role": "user",
+    "created_at": "2026-02-24T21:39:51.151195+00:00"
+  },
+  {
+    "id": "58d348a4-a62c-4599-a3e4-eb84b0505164",
+    "user_id": "e5ef8cc1-4cfc-46da-b092-770aa5f7a1c5",
+    "role": "user",
+    "created_at": "2026-02-24T21:40:56.510457+00:00"
+  },
+  {
+    "id": "22cf97c1-b8c7-421d-8660-20af08f89c12",
+    "user_id": "8e02748d-cd06-45b1-8086-fd512c539ef8",
+    "role": "user",
+    "created_at": "2026-02-24T21:48:04.409857+00:00"
+  },
+  {
+    "id": "4f40adc0-64ff-44be-b581-a421987ce6e0",
+    "user_id": "efaef056-9564-4eb4-b303-ac1cd6246d42",
+    "role": "afiliado",
+    "created_at": "2026-02-25T01:03:23.355365+00:00"
+  },
+  {
+    "id": "c8cea130-9c9a-4042-9c07-196f86626fe5",
+    "user_id": "b153eafa-65aa-4d42-804d-5a44cdd78f8c",
+    "role": "user",
+    "created_at": "2026-02-25T01:23:09.917433+00:00"
+  },
+  {
+    "id": "148884f4-823f-4600-844e-c6c8a224c0eb",
+    "user_id": "12805dd5-3af7-457e-ba6e-cb63b3edd49f",
+    "role": "user",
+    "created_at": "2026-02-25T01:24:09.553714+00:00"
+  },
+  {
+    "id": "dd5b8cdd-868e-4cc9-9876-276f10ddfd5d",
+    "user_id": "2f3951f3-0e28-4cc9-a4f9-9777c9ecf781",
+    "role": "user",
+    "created_at": "2026-02-25T01:25:35.802173+00:00"
+  },
+  {
+    "id": "8d37b6ff-23c6-491a-bd64-e44a7108d8ed",
+    "user_id": "26c4dfd9-9e91-4fca-805f-afdcbc71061f",
+    "role": "user",
+    "created_at": "2026-02-25T01:26:16.892382+00:00"
+  },
+  {
+    "id": "ec26cf2b-27bd-45fe-ab14-cb7db5041cf8",
+    "user_id": "884ebaa9-836c-415b-8d01-dfe445691157",
+    "role": "user",
+    "created_at": "2026-02-25T01:27:09.651609+00:00"
+  },
+  {
+    "id": "44f69e6b-6933-463e-b73f-faa706ef611c",
+    "user_id": "1cccdee2-63f7-4840-bf8e-c59e2ae66221",
+    "role": "user",
+    "created_at": "2026-02-25T01:28:19.090967+00:00"
+  },
+  {
+    "id": "b7840b47-d1d7-4dd9-a67f-484dcccaa5d9",
+    "user_id": "28708357-876a-4555-962a-bae4b2816e9b",
+    "role": "user",
+    "created_at": "2026-02-25T01:31:11.730145+00:00"
+  },
+  {
+    "id": "faa3f76d-1000-4a42-a66b-0d075ef24cd2",
+    "user_id": "0388829f-a5e2-4597-bdd2-24658b0f7b7e",
+    "role": "user",
+    "created_at": "2026-02-25T01:33:23.586258+00:00"
+  },
+  {
+    "id": "1005a187-1af8-43cf-ad34-6225b4d922cd",
+    "user_id": "37082070-e4a5-442a-9db9-737107d20d4c",
+    "role": "user",
+    "created_at": "2026-02-25T01:35:08.201257+00:00"
+  },
+  {
+    "id": "49abfb33-03c5-4eb4-bbd3-1e96f66acbcb",
+    "user_id": "8cebb14a-1f83-4134-a535-621117c5f3f9",
+    "role": "user",
+    "created_at": "2026-02-25T01:37:05.252225+00:00"
+  },
+  {
+    "id": "dfdbd558-53f7-431a-a04b-83881697b654",
+    "user_id": "e910ec45-2831-46cd-ad6e-f17727b51559",
+    "role": "user",
+    "created_at": "2026-02-25T01:37:33.542835+00:00"
+  },
+  {
+    "id": "8c04024f-3d5c-48fd-a6e3-00605c1ebeac",
+    "user_id": "27b89c8c-8a26-4d49-802b-dc83e173c93f",
+    "role": "user",
+    "created_at": "2026-02-25T01:39:07.475552+00:00"
+  },
+  {
+    "id": "d09a63f4-dc53-46c1-a159-babd7db3a264",
+    "user_id": "9ad68bad-7ba8-4de0-9db0-b43f2d707681",
+    "role": "user",
+    "created_at": "2026-02-25T01:49:43.472948+00:00"
+  },
+  {
+    "id": "cc0eaea7-cb3a-4ada-9b24-cf2716b369c8",
+    "user_id": "42b28128-ceee-45f1-85f6-fb36dd7b08a4",
+    "role": "user",
+    "created_at": "2026-02-25T15:00:39.440867+00:00"
+  },
+  {
+    "id": "5cd69b00-909b-49e1-8dc4-4e11875e58fc",
+    "user_id": "0bdaf214-3d29-4af2-a692-1574f0416eea",
+    "role": "user",
+    "created_at": "2026-02-25T15:10:07.189885+00:00"
+  },
+  {
+    "id": "ea877dae-8ea8-4c1d-a9be-99aaf9442c9b",
+    "user_id": "4d96791c-94c3-45ed-a0c1-56dccd706f3c",
+    "role": "user",
+    "created_at": "2026-02-25T15:38:27.172594+00:00"
+  },
+  {
+    "id": "fb73fd6f-38bf-4e11-b481-29c7b9b8dca0",
+    "user_id": "5ecd3a66-3934-4630-8038-edd4ca3e0ba3",
+    "role": "user",
+    "created_at": "2026-02-25T20:47:22.029183+00:00"
+  },
+  {
+    "id": "44ca4ab2-2c81-4e6e-b197-c5818402d6e5",
+    "user_id": "8b946ad5-e545-43c3-920e-12f9d4999ce6",
+    "role": "user",
+    "created_at": "2026-02-25T20:59:14.120089+00:00"
+  },
+  {
+    "id": "6374ecce-96af-49f7-b3ab-35871ec93673",
+    "user_id": "aa9a80f2-f1f7-40e5-998e-b9ef88a64d4e",
+    "role": "user",
+    "created_at": "2026-02-26T14:54:16.48334+00:00"
+  },
+  {
+    "id": "4d4b1db2-a844-41be-b610-c03d1a45bec7",
+    "user_id": "066b23e4-dc50-4190-86af-439e45707430",
+    "role": "user",
+    "created_at": "2026-02-26T14:54:17.278565+00:00"
+  },
+  {
+    "id": "a067a011-f041-48f2-b915-6f74e8df00b1",
+    "user_id": "5168593b-c848-4a40-943f-d1bdd9692de4",
+    "role": "user",
+    "created_at": "2026-02-26T20:33:55.958563+00:00"
+  },
+  {
+    "id": "09ce07ab-8904-41eb-95e5-fccb2c995026",
+    "user_id": "42740d7a-4faf-4eaa-b877-1baafb0b6163",
+    "role": "user",
+    "created_at": "2026-02-26T20:58:03.432139+00:00"
+  },
+  {
+    "id": "7a85f558-7ebc-4216-8410-9148cf7b2cda",
+    "user_id": "91df749d-f311-444b-85d2-249e755e5ce9",
+    "role": "user",
+    "created_at": "2026-02-26T21:03:23.36019+00:00"
+  },
+  {
+    "id": "2ce63766-6ca1-49dd-8d78-e68ced8be2f9",
+    "user_id": "e947fce2-0c81-4ded-99a6-fdab8cca138d",
+    "role": "user",
+    "created_at": "2026-02-26T21:48:47.556866+00:00"
+  },
+  {
+    "id": "372c1120-ae22-4cfd-a65f-fbed8391766e",
+    "user_id": "d6084435-1615-4256-b0a4-5bef4b413869",
+    "role": "user",
+    "created_at": "2026-02-28T23:36:20.40288+00:00"
+  },
+  {
+    "id": "958d9a4a-e12e-4395-ad80-ececa43f3f89",
+    "user_id": "e2122050-232d-4798-b0b2-e01ee276a34c",
+    "role": "user",
+    "created_at": "2026-03-01T06:05:18.297456+00:00"
+  },
+  {
+    "id": "3a33e917-b9d7-4214-b709-b2c49dc8095b",
+    "user_id": "afac822d-663f-4ce2-a720-36aacebc2670",
+    "role": "user",
+    "created_at": "2026-03-02T14:48:05.348814+00:00"
+  },
+  {
+    "id": "d29e9a09-c2ea-42e1-b168-ffae70070ac5",
+    "user_id": "8f3aab98-c1c0-4b5c-8bd4-2e1786903047",
+    "role": "user",
+    "created_at": "2026-03-02T14:52:07.529228+00:00"
+  },
+  {
+    "id": "81a5a2f3-c7a8-4c9c-8c90-762c0449be1a",
+    "user_id": "bab6156b-fc51-4502-977d-341d51afe261",
+    "role": "user",
+    "created_at": "2026-03-02T14:54:16.280018+00:00"
+  },
+  {
+    "id": "4b94d87f-f542-44cb-8b59-16806d2554e9",
+    "user_id": "76b4a38c-db0b-4547-b95b-b64681b59b23",
+    "role": "user",
+    "created_at": "2026-03-02T14:54:53.083396+00:00"
+  },
+  {
+    "id": "f0edf2a3-7090-43f0-9944-c0d3ee321ad4",
+    "user_id": "9da73f7e-f490-4362-b596-ce0bd771fdce",
+    "role": "user",
+    "created_at": "2026-03-02T14:57:12.897174+00:00"
+  },
+  {
+    "id": "f7a18e67-45ec-4c9d-b282-5f95205e1d29",
+    "user_id": "4c149f2f-8892-4ecd-b786-fd94fee82db4",
+    "role": "user",
+    "created_at": "2026-03-02T15:10:07.840373+00:00"
+  },
+  {
+    "id": "9220c0c7-f10d-4c8a-a147-0affa4852575",
+    "user_id": "6638142b-a4c7-4d86-a35b-2c453a14d2c8",
+    "role": "user",
+    "created_at": "2026-03-02T17:11:53.413599+00:00"
+  },
+  {
+    "id": "37417457-e392-4035-90d3-ddb608f9554c",
+    "user_id": "0347f3dc-7792-4063-be2e-de710a212403",
+    "role": "user",
+    "created_at": "2026-03-02T17:51:53.02599+00:00"
+  },
+  {
+    "id": "2d2e596e-e524-4611-b07b-72d615e71c49",
+    "user_id": "6a529aeb-20aa-4cb4-bbd3-4fb737ce8926",
+    "role": "user",
+    "created_at": "2026-03-02T18:11:18.136738+00:00"
+  },
+  {
+    "id": "26bfed3b-c258-4820-88e2-4afd5e951730",
+    "user_id": "c34d6d14-afd5-4454-8d53-6505ffbc9ee1",
+    "role": "user",
+    "created_at": "2026-03-02T18:15:48.443185+00:00"
+  },
+  {
+    "id": "0e3a8164-6a8e-44f1-82f6-19205d371812",
+    "user_id": "a15edb14-3cdb-41f3-9589-25e9d468562b",
+    "role": "user",
+    "created_at": "2026-03-02T18:19:35.197123+00:00"
+  },
+  {
+    "id": "1f3a27fc-ff5a-470c-898e-e1d35e29dddd",
+    "user_id": "a80f0b19-1f94-4ef6-9723-0282a7f9b221",
+    "role": "user",
+    "created_at": "2026-03-02T18:19:40.949856+00:00"
+  },
+  {
+    "id": "755f5aa2-c933-4aee-8347-9cf6dedd3cd1",
+    "user_id": "5ffe17e1-b3f2-44d3-abf9-21aca5540fd1",
+    "role": "user",
+    "created_at": "2026-03-02T18:19:50.640431+00:00"
+  },
+  {
+    "id": "2a038415-ff31-4f11-ab57-0f80ddfbb816",
+    "user_id": "ab6cf462-6fa8-45ae-a259-c59f5e9f3f9f",
+    "role": "user",
+    "created_at": "2026-03-02T18:37:19.8023+00:00"
+  },
+  {
+    "id": "34805964-ca5a-4675-b916-086f92afbf3d",
+    "user_id": "c50ef2f6-d5ff-4013-b4ea-48b3818ea4ed",
+    "role": "user",
+    "created_at": "2026-03-02T18:39:30.097793+00:00"
+  },
+  {
+    "id": "201baaa5-0dba-4ff6-ab6f-0f70912b996c",
+    "user_id": "c518d125-520e-41cd-b379-4c5fd498e15f",
+    "role": "user",
+    "created_at": "2026-03-02T19:02:24.697079+00:00"
+  },
+  {
+    "id": "a6f3dd25-5c4c-4e34-8b59-cb5ca443591b",
+    "user_id": "2db22ced-be00-4c42-a497-9e4800835971",
+    "role": "user",
+    "created_at": "2026-03-02T22:51:18.036792+00:00"
+  },
+  {
+    "id": "bc527cac-fb55-4e00-bb54-110b827db610",
+    "user_id": "c4612cd3-49b7-4d68-a5b0-530355cb2659",
+    "role": "afiliado",
+    "created_at": "2026-03-02T23:00:01.234319+00:00"
+  },
+  {
+    "id": "c5891f33-b299-4ed3-b6dd-fb18feeb5057",
+    "user_id": "76144171-0dfb-471c-9688-ff9421eb12a8",
+    "role": "user",
+    "created_at": "2026-03-03T01:02:17.837841+00:00"
+  },
+  {
+    "id": "d4459667-c713-4afc-b1f9-5bce42215b62",
+    "user_id": "2b50ad15-c786-4bd2-9a17-02f1e8e1372a",
+    "role": "user",
+    "created_at": "2026-03-03T01:22:54.120065+00:00"
+  },
+  {
+    "id": "a3e937f9-15b9-4343-814a-5f0cda1eeecd",
+    "user_id": "ab069ef8-c3b6-451b-83c3-16728a56041a",
+    "role": "user",
+    "created_at": "2026-03-03T01:32:12.026883+00:00"
+  },
+  {
+    "id": "807f834e-5d90-4099-aa57-7b61eb3b4cea",
+    "user_id": "a7bef037-e1c1-41b5-80b6-de2d0366ff66",
+    "role": "user",
+    "created_at": "2026-03-03T02:21:56.807341+00:00"
+  },
+  {
+    "id": "ca831294-ce38-4bf0-854c-5bf0abedbabb",
+    "user_id": "761b767a-d99c-44b8-b2d3-c0b07180a095",
+    "role": "user",
+    "created_at": "2026-03-03T02:23:55.587883+00:00"
+  },
+  {
+    "id": "a5828817-46a3-42f8-849d-7b0e539d0140",
+    "user_id": "0c2961a2-e258-4928-800e-cbe2cfef1655",
+    "role": "user",
+    "created_at": "2026-03-03T02:36:38.332125+00:00"
+  },
+  {
+    "id": "d2732220-6729-4bf1-9a5d-867a868fac45",
+    "user_id": "0d09e2f6-eb6e-4cd5-b94b-df78a09065c8",
+    "role": "user",
+    "created_at": "2026-03-03T05:54:29.517419+00:00"
+  },
+  {
+    "id": "66a78a31-c7a4-487a-96fe-cb9535b504b1",
+    "user_id": "49312cb2-c9e3-4f98-9c31-841509ecd7f6",
+    "role": "user",
+    "created_at": "2026-03-03T06:08:30.337932+00:00"
+  },
+  {
+    "id": "f0b2bb92-861c-444a-af96-a605a1e3f1dd",
+    "user_id": "92ca154f-2c2e-4465-98e3-bf4a310b568b",
+    "role": "user",
+    "created_at": "2026-03-03T13:29:56.552009+00:00"
+  },
+  {
+    "id": "b57a8ffd-fbf8-4e69-ade4-f7377f38df58",
+    "user_id": "452ae2ae-2805-45c8-8ac5-37b74b940616",
+    "role": "user",
+    "created_at": "2026-03-03T14:46:24.655611+00:00"
+  },
+  {
+    "id": "3bb56e5d-7721-42ed-8153-86f3f22f75d9",
+    "user_id": "353c3532-5447-4ba5-b202-b58201a9ea3f",
+    "role": "user",
+    "created_at": "2026-03-03T14:46:55.157209+00:00"
+  },
+  {
+    "id": "2587c623-0ff0-4ac8-a19d-79a17ceccc2e",
+    "user_id": "ea6f866f-0749-4344-be52-f664953e94c4",
+    "role": "user",
+    "created_at": "2026-03-03T14:47:35.56848+00:00"
+  },
+  {
+    "id": "656ed585-8186-4516-98ce-4d90a14f644f",
+    "user_id": "aa7220b8-a230-42a2-84d5-941bdc911e7b",
+    "role": "user",
+    "created_at": "2026-03-03T14:49:26.468519+00:00"
+  },
+  {
+    "id": "0729826a-0159-47af-9808-1eac7b7a7c2d",
+    "user_id": "7222269b-f1bc-4da5-8510-198552334045",
+    "role": "user",
+    "created_at": "2026-03-03T14:50:55.44466+00:00"
+  },
+  {
+    "id": "c0793fe0-3ebc-4d89-b5b2-0fa93025947b",
+    "user_id": "7b3a8f3f-659f-4eac-96a8-0099880da250",
+    "role": "user",
+    "created_at": "2026-03-03T16:02:42.333549+00:00"
+  },
+  {
+    "id": "e096030d-baa8-48b7-870d-b24f0f7d9252",
+    "user_id": "4880acfb-583a-4152-86f6-5275edbe4eb4",
+    "role": "user",
+    "created_at": "2026-03-03T17:08:49.821556+00:00"
+  },
+  {
+    "id": "86c33274-768c-4d08-8533-2c01cf30b72e",
+    "user_id": "d451b5ab-50e0-4425-a3b0-4b92bf7ad118",
+    "role": "user",
+    "created_at": "2026-03-03T17:42:18.062853+00:00"
+  },
+  {
+    "id": "83818568-638f-45c6-9b95-e03ddd02e9cc",
+    "user_id": "9fe152a2-e404-4aef-b43e-2ace9ff40548",
+    "role": "user",
+    "created_at": "2026-03-03T18:13:16.302901+00:00"
+  },
+  {
+    "id": "e3296dee-95cf-474d-9946-18cf1fac3201",
+    "user_id": "0c3ffd50-82b3-4406-a1a9-0af44d468851",
+    "role": "user",
+    "created_at": "2026-03-03T19:28:15.278766+00:00"
+  },
+  {
+    "id": "99c3658a-a9f7-45ba-aaa1-c3a961431843",
+    "user_id": "da298f4e-dbb1-4f8b-afc0-d1c16d431aa1",
+    "role": "user",
+    "created_at": "2026-03-03T20:21:06.04322+00:00"
+  },
+  {
+    "id": "c22d7e2f-f67d-48ac-b895-4d447af32dfd",
+    "user_id": "913cd621-e051-4934-a2d3-a42484d75502",
+    "role": "user",
+    "created_at": "2026-03-03T20:56:05.376299+00:00"
+  },
+  {
+    "id": "3a010572-3bef-4f12-8ff8-65e18f71396c",
+    "user_id": "cfa3d08c-1af5-437e-be48-e78e121d36ec",
+    "role": "user",
+    "created_at": "2026-03-04T00:06:20.410984+00:00"
+  },
+  {
+    "id": "c97f0778-77ba-4ff4-906d-63ab3bcda13c",
+    "user_id": "32011bb9-a29a-4daf-86dd-af16f684a543",
+    "role": "user",
+    "created_at": "2026-03-04T00:16:05.005734+00:00"
+  },
+  {
+    "id": "900dae94-1491-478f-8ecb-dafad4139d0f",
+    "user_id": "07de6847-5c74-40e0-b9c2-59f4bb500f77",
+    "role": "user",
+    "created_at": "2026-03-04T00:48:13.137354+00:00"
+  },
+  {
+    "id": "3ba1c1ac-8f60-45a4-9358-211c7fa708dc",
+    "user_id": "6b80e9f9-e535-4744-a50e-d67424ac3cde",
+    "role": "user",
+    "created_at": "2026-03-04T05:44:08.213333+00:00"
+  },
+  {
+    "id": "0a9ff9f6-8063-476f-ba1f-3bbdd2450c6e",
+    "user_id": "8b256b05-2273-4fcf-9aae-1d2d4f9dd309",
+    "role": "user",
+    "created_at": "2026-03-04T11:36:27.130929+00:00"
+  },
+  {
+    "id": "04f9aae7-6b1a-4dff-9955-70e962b473ff",
+    "user_id": "25603ec7-e36c-498c-8280-cbd2b8036983",
+    "role": "user",
+    "created_at": "2026-03-04T11:39:15.332592+00:00"
+  },
+  {
+    "id": "f81955da-a26d-44d6-97bb-a137d5dcc862",
+    "user_id": "4679455c-41e8-4705-8c82-d50d6cc2a255",
+    "role": "user",
+    "created_at": "2026-03-04T11:50:19.156591+00:00"
+  },
+  {
+    "id": "f77e77e8-52a2-4441-b5c4-425694b9f9af",
+    "user_id": "8f27f6af-f806-4d80-9af4-d2440e8927df",
+    "role": "user",
+    "created_at": "2026-03-04T12:10:31.487738+00:00"
+  },
+  {
+    "id": "06a28497-c255-4d06-ae01-91f99289d216",
+    "user_id": "114b7d8c-7450-4ce4-b066-0e50ffdf9a77",
+    "role": "user",
+    "created_at": "2026-03-04T14:31:34.073367+00:00"
+  },
+  {
+    "id": "2cd89b89-cd98-4b6f-ab41-faad6e89fdb4",
+    "user_id": "8fbb8794-fdcf-46e5-89da-1bba03f7b73a",
+    "role": "user",
+    "created_at": "2026-03-04T14:32:51.99356+00:00"
+  },
+  {
+    "id": "b712a686-10af-4efd-a963-c7b7f3278ad0",
+    "user_id": "4c939181-9edd-4a4e-a00a-6b9457255251",
+    "role": "user",
+    "created_at": "2026-03-04T14:36:59.635865+00:00"
+  },
+  {
+    "id": "b0ebde1c-ef84-4eb3-8e95-c336377fa29b",
+    "user_id": "4e2f7198-6291-4ed6-9a2e-604f8eb9fb65",
+    "role": "user",
+    "created_at": "2026-03-04T14:37:49.108694+00:00"
+  },
+  {
+    "id": "70ee2e70-2b8d-49ee-884a-de3073c0b2fd",
+    "user_id": "c596d432-8e75-4ef6-b702-aba8ae9b4b72",
+    "role": "user",
+    "created_at": "2026-03-04T14:39:13.717289+00:00"
+  },
+  {
+    "id": "5b96de1d-2588-482a-9408-536ecd435f65",
+    "user_id": "a4321829-e40b-4df4-8851-1e0a83caa628",
+    "role": "user",
+    "created_at": "2026-03-04T14:51:15.651728+00:00"
+  },
+  {
+    "id": "b6f41b1a-d113-4a5c-86e5-a5be4830f1f9",
+    "user_id": "b5ee7dc0-43c9-4833-a7c6-399461f5efe3",
+    "role": "user",
+    "created_at": "2026-03-04T15:11:15.084712+00:00"
+  },
+  {
+    "id": "1e0eb088-a183-47d0-a716-bd78ac0de282",
+    "user_id": "b5f3b054-3967-46ff-9df9-33c3a94bbd30",
+    "role": "user",
+    "created_at": "2026-03-04T16:52:53.180469+00:00"
+  },
+  {
+    "id": "70c358d8-6e86-4e8e-9d5f-6aba73296d69",
+    "user_id": "f6314494-c32d-452d-be55-ec58eaf12633",
+    "role": "user",
+    "created_at": "2026-03-04T17:12:47.341003+00:00"
+  },
+  {
+    "id": "b612f76a-77f1-4500-bc9a-8dfb9f938fcc",
+    "user_id": "39112848-2ee2-46ff-8342-5b5198dd1446",
+    "role": "user",
+    "created_at": "2026-03-04T18:04:08.418985+00:00"
+  },
+  {
+    "id": "d850abd4-d4a7-4ad5-89e6-e87865040f0d",
+    "user_id": "937af683-70a8-40a5-857e-215732cf1d36",
+    "role": "user",
+    "created_at": "2026-03-04T18:07:03.200745+00:00"
+  },
+  {
+    "id": "c89e0977-d6c3-42b7-ac7e-371c82053931",
+    "user_id": "0bd3d1e5-a5f2-47f9-a048-b65531ab06e4",
+    "role": "user",
+    "created_at": "2026-03-04T18:10:54.403128+00:00"
+  },
+  {
+    "id": "52165889-342b-43da-9af0-c973a5f8456a",
+    "user_id": "6f780cf6-7cc3-4d97-ad08-f819d8bd26b2",
+    "role": "user",
+    "created_at": "2026-03-04T18:14:48.771295+00:00"
+  },
+  {
+    "id": "bf86f8c5-45a0-4636-8fed-e5d7704045b0",
+    "user_id": "37df5313-5da6-48c9-88d0-b8ed39087297",
+    "role": "user",
+    "created_at": "2026-03-04T18:22:50.062827+00:00"
+  },
+  {
+    "id": "d0a687f2-a406-4ada-a94a-22deeec57cea",
+    "user_id": "cf9b4bf8-215e-4c7f-ba16-0fe024e755ce",
+    "role": "user",
+    "created_at": "2026-03-04T18:32:39.839342+00:00"
+  },
+  {
+    "id": "723f47f2-5356-4df5-9e0b-bc89c3231c9f",
+    "user_id": "b3e1d9d4-e8be-4d0b-9c43-7dfaf0d1d060",
+    "role": "user",
+    "created_at": "2026-03-04T20:31:51.29027+00:00"
+  },
+  {
+    "id": "3f70b710-5e26-4e18-9cf9-64465e2346e1",
+    "user_id": "c12f0aff-d21e-4bcc-b7f3-4224088d869b",
+    "role": "user",
+    "created_at": "2026-03-05T00:03:08.636321+00:00"
+  },
+  {
+    "id": "f27aade8-d346-4ea1-a314-801090a0fa18",
+    "user_id": "3eaa8510-cb26-46d6-8adc-b6512edeaf56",
+    "role": "user",
+    "created_at": "2026-03-05T01:46:59.195262+00:00"
+  },
+  {
+    "id": "bfb18184-2610-4916-8476-1ad5dc53880e",
+    "user_id": "fa5279c2-a9c0-4bae-94a5-70c6bb2eb317",
+    "role": "user",
+    "created_at": "2026-03-05T05:34:40.939373+00:00"
+  },
+  {
+    "id": "3fcca971-4379-4104-837d-356ded4cdf79",
+    "user_id": "008192e2-fca2-48f5-b3bf-b88a2bb74516",
+    "role": "user",
+    "created_at": "2026-03-05T05:36:08.987422+00:00"
+  },
+  {
+    "id": "463dc8d7-c09d-474d-8b6c-8d9f3b4fa099",
+    "user_id": "46d8b2bd-b2db-4653-8f5e-bc6c8e3ad3d2",
+    "role": "user",
+    "created_at": "2026-03-05T13:49:41.029119+00:00"
+  },
+  {
+    "id": "148b91a6-1cce-410a-99bc-483e9e642a3c",
+    "user_id": "4316a591-67db-430d-8224-f10c7e67d51e",
+    "role": "user",
+    "created_at": "2026-03-05T13:50:50.519019+00:00"
+  },
+  {
+    "id": "a34f67bb-8561-447b-ba9e-ee72c04aadec",
+    "user_id": "111c4dd5-5150-4415-a053-5dfe45589705",
+    "role": "user",
+    "created_at": "2026-03-05T13:51:45.819409+00:00"
+  },
+  {
+    "id": "50095bcd-a085-4210-884f-e2b6ce3b5381",
+    "user_id": "019bcdc9-519d-4815-b79d-d9f42f4f6fa2",
+    "role": "user",
+    "created_at": "2026-03-05T13:56:17.981734+00:00"
+  },
+  {
+    "id": "c882de78-4b09-4c86-bfad-1bed8f398cab",
+    "user_id": "775ba732-2c7e-413b-8633-18e04f38ac60",
+    "role": "user",
+    "created_at": "2026-03-05T14:00:14.857314+00:00"
+  },
+  {
+    "id": "7c351d66-97e0-4c56-884e-6c0f50fa14c2",
+    "user_id": "be8e8f4d-2f92-45ae-a3b2-4946ccef4ba9",
+    "role": "user",
+    "created_at": "2026-03-05T17:02:14.181892+00:00"
+  },
+  {
+    "id": "5a268b57-42e2-43b0-b84b-09d7e2d46437",
+    "user_id": "d8be02ea-9bb6-4aeb-bc26-8bb2fc6ac5da",
+    "role": "user",
+    "created_at": "2026-03-05T17:17:31.381574+00:00"
+  },
+  {
+    "id": "47b76bd9-4a3e-44a7-a7a7-8367167ac277",
+    "user_id": "4360b1f4-5a1b-4d24-b9b2-88815c367e54",
+    "role": "user",
+    "created_at": "2026-03-05T17:28:47.451309+00:00"
+  },
+  {
+    "id": "48237812-0217-42ff-ae86-45dd981d840e",
+    "user_id": "2ac8cf91-4865-4575-9427-df73ec357d57",
+    "role": "user",
+    "created_at": "2026-03-05T17:30:51.856159+00:00"
+  },
+  {
+    "id": "61420c06-57a2-470f-9566-eefa1ff680c5",
+    "user_id": "ac710e89-3156-4cea-9c5e-e3ba26646540",
+    "role": "user",
+    "created_at": "2026-03-05T17:36:06.712412+00:00"
+  },
+  {
+    "id": "a2df69e6-3505-4f56-b0e8-dccd60910d31",
+    "user_id": "876f44da-06bc-4c3e-9afc-a110a6bc53b7",
+    "role": "user",
+    "created_at": "2026-03-05T17:37:09.009906+00:00"
+  },
+  {
+    "id": "f8f1ff28-3fff-4d9c-82df-b318bae52e88",
+    "user_id": "da113d0f-6ea4-48d5-8269-d3e30864ffac",
+    "role": "user",
+    "created_at": "2026-03-05T17:37:24.644291+00:00"
+  },
+  {
+    "id": "2bded9aa-4782-4919-8b90-81be4870bba6",
+    "user_id": "35247105-fb4c-4754-b140-6cd724b3514c",
+    "role": "user",
+    "created_at": "2026-03-05T17:38:43.486401+00:00"
+  },
+  {
+    "id": "627278db-ca48-499c-aaa5-4f723bf7a558",
+    "user_id": "002ea857-2ef6-4f2e-a961-83cb6ddfccca",
+    "role": "user",
+    "created_at": "2026-03-05T17:59:52.214442+00:00"
+  },
+  {
+    "id": "284f3014-a37a-4a1d-9095-5f751df5ec57",
+    "user_id": "8951f368-fe22-4286-93cd-88e3ca239706",
+    "role": "user",
+    "created_at": "2026-03-05T20:48:15.239772+00:00"
+  },
+  {
+    "id": "22a11108-eb68-4ca3-8c1a-c90e5a4801ba",
+    "user_id": "a91d695f-86a8-42c6-a856-5d6d3fe7fb8f",
+    "role": "user",
+    "created_at": "2026-03-05T22:23:19.345375+00:00"
+  },
+  {
+    "id": "47346c58-6812-4420-a7d0-4c1e770c17f0",
+    "user_id": "58209d07-a008-4bb8-8801-f272c7e925d1",
+    "role": "user",
+    "created_at": "2026-03-06T03:35:50.892693+00:00"
+  },
+  {
+    "id": "7809b1ae-5d6b-4d7f-9284-0ed2af0ad790",
+    "user_id": "41b92780-a7e8-48e8-bf45-56738f23b3a1",
+    "role": "user",
+    "created_at": "2026-03-06T03:40:36.824845+00:00"
+  },
+  {
+    "id": "92a7d80f-b81d-400f-84f7-a002e5bde072",
+    "user_id": "8473cfba-8128-4707-ba5c-1251c2e51d27",
+    "role": "user",
+    "created_at": "2026-03-06T03:41:03.993289+00:00"
+  },
+  {
+    "id": "776eb9c8-885f-491c-ae8e-636aa4153792",
+    "user_id": "93ec34b4-d4e4-49b5-9421-9369626a9ace",
+    "role": "user",
+    "created_at": "2026-03-06T03:41:15.545924+00:00"
+  },
+  {
+    "id": "c952ccae-20e7-4f7d-842b-05bc452c33d5",
+    "user_id": "4822a61b-e312-4f37-b00d-b889f4bdeded",
+    "role": "user",
+    "created_at": "2026-03-06T03:41:28.430562+00:00"
+  },
+  {
+    "id": "95ef4336-bc17-4de4-9c58-8edfc38d5b13",
+    "user_id": "dadf6173-911e-4085-9498-7df6f3aa24e7",
+    "role": "user",
+    "created_at": "2026-03-06T03:43:45.35612+00:00"
+  },
+  {
+    "id": "2f9e81f7-e239-4ce5-9550-0f058dd6cba7",
+    "user_id": "0babaef4-de11-4aa4-af6d-c1061e7ea1b8",
+    "role": "user",
+    "created_at": "2026-03-06T03:44:42.000886+00:00"
+  },
+  {
+    "id": "f2167d42-fdf5-4d35-9ff7-97fbd6b87def",
+    "user_id": "4be0139d-d3c8-4039-b873-3bff64b937aa",
+    "role": "user",
+    "created_at": "2026-03-06T04:58:16.36338+00:00"
+  },
+  {
+    "id": "d955afe2-05ab-455a-b8d7-b162be0035b0",
+    "user_id": "09828a5a-5c14-4ad6-ad29-896cb4b9b6f7",
+    "role": "user",
+    "created_at": "2026-03-06T15:18:31.291152+00:00"
+  },
+  {
+    "id": "f47c2318-0768-44dd-9851-3e940bce23c1",
+    "user_id": "57fd2963-4a92-4750-abc3-9a718b1a3302",
+    "role": "user",
+    "created_at": "2026-03-06T15:23:29.226791+00:00"
+  },
+  {
+    "id": "709a70fd-dfd2-4084-b604-dac430866ca3",
+    "user_id": "5f125d7d-1503-428a-8ba8-6d592c5bc0e5",
+    "role": "user",
+    "created_at": "2026-03-06T15:30:50.615752+00:00"
+  },
+  {
+    "id": "a7db0f6a-7c6d-45ba-94dc-e4e0efef2427",
+    "user_id": "6448c776-5cc1-4d77-adea-293e83fc75f1",
+    "role": "user",
+    "created_at": "2026-03-06T15:36:03.345686+00:00"
+  },
+  {
+    "id": "6558db8a-3175-429c-adff-f4a455b66d10",
+    "user_id": "e08c33dd-62d4-4df5-9ba1-ffc5d55f8b48",
+    "role": "user",
+    "created_at": "2026-03-06T15:42:28.654829+00:00"
+  },
+  {
+    "id": "14feafa2-2bee-4502-bcf5-2c7dc0dbc25c",
+    "user_id": "79d88793-a1d0-49a1-9466-f3227ab31e86",
+    "role": "user",
+    "created_at": "2026-03-06T16:51:52.924738+00:00"
+  },
+  {
+    "id": "f6c20ef9-3540-4f96-b5ce-32ec10a0ef5e",
+    "user_id": "3b262ce2-507e-4ff0-a99c-0b4a7b87fd4c",
+    "role": "user",
+    "created_at": "2026-03-06T16:56:44.64169+00:00"
+  },
+  {
+    "id": "e727b6c1-2f32-46fc-b4ad-0ff9430d0381",
+    "user_id": "4bef7cb2-f40d-457e-9bd1-2d5e8a15c57f",
+    "role": "user",
+    "created_at": "2026-03-06T17:50:55.876228+00:00"
+  },
+  {
+    "id": "57bb54e5-01f9-4e1e-b5a0-45b6a362d861",
+    "user_id": "4797ad1d-215e-404c-a6ec-8ea41565dd76",
+    "role": "user",
+    "created_at": "2026-03-06T17:51:46.408481+00:00"
+  },
+  {
+    "id": "b1f37da8-afd9-42ce-a14e-f6758654846c",
+    "user_id": "a6bf6502-88ab-49c2-a5e3-2f386d47c515",
+    "role": "user",
+    "created_at": "2026-03-06T18:09:57.982215+00:00"
+  },
+  {
+    "id": "5c88ed54-32f9-4da5-8a8c-0a957c0e278b",
+    "user_id": "782d1261-eb3b-4ffc-95cc-f9f74e3e31a5",
+    "role": "user",
+    "created_at": "2026-03-06T18:27:01.801855+00:00"
+  },
+  {
+    "id": "9d0b827e-02b1-4ef9-9671-e12ab8659b26",
+    "user_id": "bf8a46b5-9b55-497e-90f9-59e200b449ca",
+    "role": "user",
+    "created_at": "2026-03-06T18:34:57.036392+00:00"
+  },
+  {
+    "id": "73fa7526-deba-4bdc-8e37-dcf1b8199d2a",
+    "user_id": "674c6c6a-b596-488d-975a-c932a7133888",
+    "role": "user",
+    "created_at": "2026-03-06T19:35:51.420487+00:00"
+  },
+  {
+    "id": "14100e68-34a6-40a3-9d4e-a87055eaf796",
+    "user_id": "57e630bc-46dd-4ded-b9dc-991cd18e1078",
+    "role": "user",
+    "created_at": "2026-03-06T21:07:59.594167+00:00"
+  },
+  {
+    "id": "cfeb5a2e-8f7a-4b16-8134-68f6ecaa1021",
+    "user_id": "4120732c-4dc4-4d5b-881c-6992ab5b97d4",
+    "role": "user",
+    "created_at": "2026-03-07T20:31:02.99103+00:00"
+  },
+  {
+    "id": "475fc22e-022e-4cc1-a100-c916437cbe77",
+    "user_id": "c4561afc-536f-4ce2-8033-e9e8d1fea7c5",
+    "role": "user",
+    "created_at": "2026-03-07T22:41:52.014175+00:00"
+  },
+  {
+    "id": "368457e8-5636-410e-9160-108c999dde4e",
+    "user_id": "5c9d4055-5c0f-404f-9774-892ed4f5b68e",
+    "role": "user",
+    "created_at": "2026-03-09T03:50:06.746426+00:00"
+  },
+  {
+    "id": "0ad0a283-7b14-4d50-8555-ce5258627330",
+    "user_id": "3ff35a54-986a-4f2b-b43b-4e09d59f2b94",
+    "role": "user",
+    "created_at": "2026-03-09T04:18:22.387463+00:00"
+  },
+  {
+    "id": "1a2587ab-f756-4de9-b4b6-06972c0b4c86",
+    "user_id": "db1a8125-b24a-454c-bf39-040e49f02b43",
+    "role": "user",
+    "created_at": "2026-03-09T14:52:15.790902+00:00"
+  },
+  {
+    "id": "8e366862-ad82-4556-9c48-11cb43d7d4e1",
+    "user_id": "762375b4-680a-4178-89df-57069629856f",
+    "role": "user",
+    "created_at": "2026-03-09T14:55:22.490907+00:00"
+  },
+  {
+    "id": "b1f3a8b8-9a71-401b-ae3f-04f2c09355c8",
+    "user_id": "c37bec3b-26ae-4c48-97cf-957005b45e47",
+    "role": "user",
+    "created_at": "2026-03-09T15:04:55.140236+00:00"
+  },
+  {
+    "id": "761054f8-2d9a-4350-b461-545f2182ba1d",
+    "user_id": "86e97085-4d9c-41db-954d-62718bfa249f",
+    "role": "user",
+    "created_at": "2026-03-09T19:30:37.941125+00:00"
+  },
+  {
+    "id": "e3bbf65b-2fde-4d66-a1bb-c42d4195f5b5",
+    "user_id": "c456628c-9151-47bb-95b7-bc84f352f906",
+    "role": "user",
+    "created_at": "2026-03-09T19:33:33.423767+00:00"
+  },
+  {
+    "id": "76afccd9-4034-4b11-9d5a-b0e58463fe11",
+    "user_id": "23b1659b-abd0-43be-99d3-002b9c0b28d9",
+    "role": "user",
+    "created_at": "2026-03-09T19:38:15.003088+00:00"
+  },
+  {
+    "id": "8dfe9556-19fa-4c0b-bc17-60d5af68a194",
+    "user_id": "1dde0406-e61e-4be8-a1a4-24e9fa7db0ca",
+    "role": "user",
+    "created_at": "2026-03-09T19:49:58.097068+00:00"
+  },
+  {
+    "id": "efcf8c06-00cc-4385-b64f-547ad4c0f872",
+    "user_id": "d09ca851-42d9-4186-a80c-6a45c0b857f4",
+    "role": "user",
+    "created_at": "2026-03-09T19:51:39.072096+00:00"
+  },
+  {
+    "id": "5a08b54b-6124-4aed-9268-698d37bb44e0",
+    "user_id": "4e6d7e46-c032-4c33-958b-3d0b25801aea",
+    "role": "user",
+    "created_at": "2026-03-09T19:51:44.337891+00:00"
+  },
+  {
+    "id": "c2c6afcf-3069-4e10-be52-6b8f77490236",
+    "user_id": "f20696f4-99fe-4457-abd4-002e9d48ff2a",
+    "role": "user",
+    "created_at": "2026-03-09T19:52:44.899706+00:00"
+  },
+  {
+    "id": "feaa7f13-ef6d-4747-8ebb-9cfbd95ff726",
+    "user_id": "9a4ccbf9-5848-468f-8139-64f000348c0b",
+    "role": "user",
+    "created_at": "2026-03-09T21:37:41.897196+00:00"
+  },
+  {
+    "id": "ea42b372-bb62-4641-8906-4742fc9cbdb2",
+    "user_id": "4014b067-e896-4168-864c-3ba9ca37b5d6",
+    "role": "user",
+    "created_at": "2026-03-09T22:36:04.052782+00:00"
+  },
+  {
+    "id": "e1909b0a-34f0-45dd-9916-ee8546ee4da7",
+    "user_id": "ddd728fc-4c51-47fc-a7e6-9c3cec169d37",
+    "role": "user",
+    "created_at": "2026-03-09T22:37:11.815659+00:00"
+  },
+  {
+    "id": "c3f816fe-ed91-465e-9abc-3b5a874bbff3",
+    "user_id": "f6ac1c9d-3e52-4f9f-8d2f-d7d22ff3a5d7",
+    "role": "user",
+    "created_at": "2026-03-09T23:03:37.027718+00:00"
+  },
+  {
+    "id": "1b10d58d-8a6d-413b-97e2-3bf795b9b26c",
+    "user_id": "66cea81b-630c-4155-b48e-e4a67d4b497d",
+    "role": "user",
+    "created_at": "2026-03-09T23:20:00.890339+00:00"
+  },
+  {
+    "id": "7e4c4422-ecc6-476a-8272-f77777f628f8",
+    "user_id": "e9357532-a501-421e-b4fc-ecaaf8b0f26a",
+    "role": "user",
+    "created_at": "2026-03-10T00:22:20.687733+00:00"
+  },
+  {
+    "id": "c9014859-ab2c-45e4-96c6-53528009feb7",
+    "user_id": "e0bd0051-a3f7-4a02-940f-4d8165f3b88b",
+    "role": "user",
+    "created_at": "2026-03-10T00:43:22.279396+00:00"
+  },
+  {
+    "id": "ba9924ee-6549-425c-819e-a2067c3a7b14",
+    "user_id": "02c50d37-509c-43db-827a-78d4b8d148b5",
+    "role": "user",
+    "created_at": "2026-03-10T01:50:28.659322+00:00"
+  },
+  {
+    "id": "ca829ddf-7110-466d-8c32-426f8e1bd4e9",
+    "user_id": "85d30a83-062e-4946-b7a5-6dcf9742f3cf",
+    "role": "user",
+    "created_at": "2026-03-10T17:46:22.869062+00:00"
+  },
+  {
+    "id": "ea9327fb-ee20-4bfb-bd1e-0c9e056cb5f6",
+    "user_id": "54de8d10-72c7-4c17-ab7c-f16362770096",
+    "role": "user",
+    "created_at": "2026-03-10T17:50:53.834372+00:00"
+  },
+  {
+    "id": "2caedf99-2b6d-4104-ac4d-f8c8dfd3748f",
+    "user_id": "926f395e-5547-4555-bbf1-e9e7d2f938ad",
+    "role": "user",
+    "created_at": "2026-03-10T17:54:24.196684+00:00"
+  },
+  {
+    "id": "9bf0652e-8315-4942-891e-371b6f92da02",
+    "user_id": "2643c890-8c5f-4f4b-8973-8b510faa16f1",
+    "role": "user",
+    "created_at": "2026-03-10T17:54:48.574416+00:00"
+  },
+  {
+    "id": "c2fb68fb-3158-4165-b88f-0981e2d3410b",
+    "user_id": "2f884b87-d48a-4e68-9733-8627f349a8ce",
+    "role": "user",
+    "created_at": "2026-03-10T18:12:17.203715+00:00"
+  },
+  {
+    "id": "70b2f77d-525d-4b67-b755-e74686b74c18",
+    "user_id": "502de395-e017-4649-945e-3c461c52e838",
+    "role": "user",
+    "created_at": "2026-03-10T18:45:39.425265+00:00"
+  },
+  {
+    "id": "37525813-f6e6-406f-916f-1ed4656ef37a",
+    "user_id": "53afb861-616b-4dde-ac40-b0fcb970a051",
+    "role": "user",
+    "created_at": "2026-03-10T19:18:53.698065+00:00"
+  },
+  {
+    "id": "7649c23c-ae6b-490d-8225-e3ba6d90f428",
+    "user_id": "2fdb348c-1350-41be-88d1-81cfcc6067f7",
+    "role": "user",
+    "created_at": "2026-03-11T01:34:56.839267+00:00"
+  },
+  {
+    "id": "3afa6e2a-8735-4dee-95cd-b3de4aa40acb",
+    "user_id": "3e03dee6-6c5e-4f2d-b9d8-033224b2b2c3",
+    "role": "user",
+    "created_at": "2026-03-11T05:44:39.51849+00:00"
+  },
+  {
+    "id": "920e53fd-59b5-43ae-8dcb-6801736b3056",
+    "user_id": "dde813d5-6152-4217-a112-23b097486116",
+    "role": "user",
+    "created_at": "2026-03-11T05:53:52.04017+00:00"
+  },
+  {
+    "id": "96105d44-6110-4bb4-ba70-59520e9b50c4",
+    "user_id": "55053bbc-fa08-481b-a244-1d5cf9e4cf59",
+    "role": "user",
+    "created_at": "2026-03-11T10:45:32.044185+00:00"
+  },
+  {
+    "id": "8ed09430-5b94-40c3-af95-a4400d01b621",
+    "user_id": "181b6f82-3862-4219-9900-5e149187e6f1",
+    "role": "user",
+    "created_at": "2026-03-11T17:45:05.163419+00:00"
+  },
+  {
+    "id": "237a48db-f76d-470a-9a8b-5a36c32a0f65",
+    "user_id": "862fd728-3e3f-432b-a595-c638c5042937",
+    "role": "user",
+    "created_at": "2026-03-11T17:54:51.792892+00:00"
+  },
+  {
+    "id": "9d2ec54b-89de-460d-8943-b667f283003a",
+    "user_id": "e19aba99-65dc-4e9b-83db-0d0dfcaa9a52",
+    "role": "user",
+    "created_at": "2026-03-11T17:57:07.450407+00:00"
+  },
+  {
+    "id": "ebc16ad9-c582-4f3d-a84b-0001318fa908",
+    "user_id": "14913719-63a0-4c48-83b0-e99c5f632853",
+    "role": "user",
+    "created_at": "2026-03-11T18:08:27.83618+00:00"
+  },
+  {
+    "id": "76caeda2-ddad-476b-bdde-97f7fe385920",
+    "user_id": "ecdc9c4f-2514-4c64-9e76-ea15f73fd803",
+    "role": "user",
+    "created_at": "2026-03-11T19:31:17.949514+00:00"
+  },
+  {
+    "id": "e3bdb756-308f-4fe6-b723-443bffc8297a",
+    "user_id": "a5f84daf-f55f-423d-a877-e9be12abc0e3",
+    "role": "user",
+    "created_at": "2026-03-11T20:38:37.360693+00:00"
+  },
+  {
+    "id": "0253f958-eb74-4e03-87d4-3d342b492ba2",
+    "user_id": "dfd83f37-9e5c-4d9e-95ea-1f663b2a2fed",
+    "role": "user",
+    "created_at": "2026-03-11T20:41:52.381078+00:00"
+  },
+  {
+    "id": "0e116cc8-772b-4772-8e7c-4ab903e5534c",
+    "user_id": "10b718fc-098f-440d-8c0b-90d17c48e91e",
+    "role": "user",
+    "created_at": "2026-03-11T21:14:43.094065+00:00"
+  },
+  {
+    "id": "65a3e6ef-48af-46bc-8ed2-c732ebcacebb",
+    "user_id": "d00cf8ed-2272-4229-8479-3286e5b03ae3",
+    "role": "user",
+    "created_at": "2026-03-11T22:14:43.562379+00:00"
+  },
+  {
+    "id": "2d77d897-f651-40fb-9c45-671bcd33cadb",
+    "user_id": "156aaee7-5508-47b0-8a76-5e4097c87427",
+    "role": "user",
+    "created_at": "2026-03-11T22:16:49.605476+00:00"
+  },
+  {
+    "id": "94b3ecdc-d616-4312-a3ee-e5a5b5c7412a",
+    "user_id": "10b4ef76-ce3b-441f-9aaa-d64ea2a18e9e",
+    "role": "user",
+    "created_at": "2026-03-11T22:16:54.430264+00:00"
+  },
+  {
+    "id": "14d9e9fd-25ff-4660-874d-a18026d52b92",
+    "user_id": "f07ba67b-cd82-470a-9808-6ada89fda4f9",
+    "role": "user",
+    "created_at": "2026-03-11T22:22:15.736651+00:00"
+  },
+  {
+    "id": "fbeb54e6-1957-424c-a05d-6c2e8604b4bb",
+    "user_id": "ccf15c1c-680d-4cf8-ad9c-6f8dc720b9e3",
+    "role": "user",
+    "created_at": "2026-03-11T22:22:54.289518+00:00"
+  },
+  {
+    "id": "5b0636e0-8ecb-4eac-8477-57ccdc04a95a",
+    "user_id": "1893f560-bdc9-4b61-afbb-7d599db983b8",
+    "role": "user",
+    "created_at": "2026-03-11T22:23:06.164313+00:00"
+  },
+  {
+    "id": "ff260052-6840-4351-8563-e145c1e2d681",
+    "user_id": "f9703e00-96b4-4c17-8bba-bc6ca0233c6a",
+    "role": "user",
+    "created_at": "2026-03-11T22:23:31.152207+00:00"
+  },
+  {
+    "id": "eeffd870-0f34-4e27-a67f-bc3d0c7104fd",
+    "user_id": "248a05d1-e5a1-432b-9a1f-6c2ae2d3d35b",
+    "role": "user",
+    "created_at": "2026-03-11T22:24:04.28729+00:00"
+  },
+  {
+    "id": "52a18ccd-b0fe-4bf7-bbe1-60e1e255e1f9",
+    "user_id": "ec259f06-0f4f-4817-b5bf-18f472d446f2",
+    "role": "user",
+    "created_at": "2026-03-11T22:24:10.683868+00:00"
+  },
+  {
+    "id": "088cb4ac-4a06-4900-8da0-0d04b53b3b19",
+    "user_id": "cde375b4-ea7c-48e6-9282-79c5d0944127",
+    "role": "user",
+    "created_at": "2026-03-11T22:25:35.597874+00:00"
+  },
+  {
+    "id": "9e65a104-1403-47c1-aacc-5cdbbdcec410",
+    "user_id": "32393f13-b0bc-47fd-b2e1-8eba21428c47",
+    "role": "user",
+    "created_at": "2026-03-11T22:45:28.833919+00:00"
+  },
+  {
+    "id": "6de57ba8-ea26-408c-9bc2-20ee45c2bfae",
+    "user_id": "60e86551-57ba-4283-ae11-3c8297733c9d",
+    "role": "user",
+    "created_at": "2026-03-12T00:40:58.908689+00:00"
+  },
+  {
+    "id": "496a9082-9d2d-4ee8-bfa1-36cd989c6629",
+    "user_id": "9d225ebe-0f06-4b86-8ac4-4241927d68a2",
+    "role": "user",
+    "created_at": "2026-03-12T00:43:09.448421+00:00"
+  },
+  {
+    "id": "13e00e34-a2f6-4a89-999a-3b72d61c2851",
+    "user_id": "c4cc5f73-16f2-4299-8e9d-1cf76d6e975c",
+    "role": "user",
+    "created_at": "2026-03-12T01:42:30.654012+00:00"
+  },
+  {
+    "id": "78df6894-d234-4174-8512-3ff4d049f1ae",
+    "user_id": "7723ff8b-3e05-4010-a521-99fbe2666c55",
+    "role": "user",
+    "created_at": "2026-03-12T01:57:13.765279+00:00"
+  },
+  {
+    "id": "c71ae082-2291-4fcc-a1b5-69fb26d7b3be",
+    "user_id": "b3a82a28-921a-40d3-99b9-29bdb3d36b80",
+    "role": "user",
+    "created_at": "2026-03-12T03:09:59.978419+00:00"
+  },
+  {
+    "id": "38aee945-8867-479a-b55f-2625aeab6f7a",
+    "user_id": "fb22538b-c43d-4089-a736-08269a54cb0e",
+    "role": "user",
+    "created_at": "2026-03-12T03:10:37.768527+00:00"
+  },
+  {
+    "id": "d7c03ec9-3d70-452c-a47a-786ae9c838a8",
+    "user_id": "8dea49f7-3aec-487b-9064-0b149597d08f",
+    "role": "user",
+    "created_at": "2026-03-12T03:15:01.083365+00:00"
+  },
+  {
+    "id": "8db4b71c-4879-4720-80b0-2efae789c2ac",
+    "user_id": "6c60c9db-eb4f-46d2-9111-8cc966ee797b",
+    "role": "user",
+    "created_at": "2026-03-12T03:44:03.540821+00:00"
+  },
+  {
+    "id": "ea80ee34-33e5-4a53-986d-9c84779cad2b",
+    "user_id": "fd8332d4-e506-45a4-806c-abf736b839eb",
+    "role": "user",
+    "created_at": "2026-03-12T04:47:35.334614+00:00"
+  },
+  {
+    "id": "0d5e3d73-93be-465d-bfdd-8d627cbb1255",
+    "user_id": "0b5e59b3-455e-45bd-a6d5-1268ac4e2605",
+    "role": "user",
+    "created_at": "2026-03-12T10:01:34.412257+00:00"
+  },
+  {
+    "id": "0f6dd8af-7943-407e-9632-3204d93be113",
+    "user_id": "011e2191-0cb9-4c15-9753-741592704db5",
+    "role": "user",
+    "created_at": "2026-03-12T10:13:23.121758+00:00"
+  },
+  {
+    "id": "c96a5c26-768e-41ac-91de-346ad395cc99",
+    "user_id": "a7ce30e6-72b1-4a95-9f3f-afc857f26fcf",
+    "role": "user",
+    "created_at": "2026-03-12T13:40:43.788332+00:00"
+  },
+  {
+    "id": "68bb7616-56d5-4910-9208-95d61f32fbfc",
+    "user_id": "ecb212bd-0053-442d-ba93-9a6b7a4b9a30",
+    "role": "user",
+    "created_at": "2026-03-12T18:06:36.799815+00:00"
+  },
+  {
+    "id": "2bbb6680-0e27-4e5d-bcb1-f146547c3f3f",
+    "user_id": "fd3e59e1-5b60-4465-8c79-ba894e1b1db0",
+    "role": "user",
+    "created_at": "2026-03-12T18:29:13.115367+00:00"
+  },
+  {
+    "id": "b4ea6d94-6200-42c7-b163-f514590b8ac7",
+    "user_id": "25e701bd-5349-4cbd-974c-406ebced6fe3",
+    "role": "user",
+    "created_at": "2026-03-12T18:32:51.303154+00:00"
+  },
+  {
+    "id": "0ed99d4d-428e-4513-8418-6a1a73b86cac",
+    "user_id": "bc8d786f-5cc9-4e6c-85d9-dba957c5ab86",
+    "role": "user",
+    "created_at": "2026-03-12T23:34:46.819257+00:00"
+  },
+  {
+    "id": "76311f28-97c4-49a1-a1ba-af72f41d44a7",
+    "user_id": "e458a71e-efe0-493b-baea-9acbd962f6ec",
+    "role": "user",
+    "created_at": "2026-03-13T00:40:12.862764+00:00"
+  },
+  {
+    "id": "d2ef659f-4e87-4943-9f34-0968439866c1",
+    "user_id": "8ca28ced-dc8d-4880-8537-b95a2db44968",
+    "role": "user",
+    "created_at": "2026-03-13T00:48:32.242223+00:00"
+  },
+  {
+    "id": "f21d5caf-539b-4414-8370-27bc327f76d3",
+    "user_id": "4b29e6c9-d646-4d2c-8891-287ae7a6d005",
+    "role": "user",
+    "created_at": "2026-03-13T02:30:21.324717+00:00"
+  },
+  {
+    "id": "6b0937a0-9580-4c36-a26e-2bd48e65cd40",
+    "user_id": "13c42d99-679c-4fa5-b746-eb31a87f79db",
+    "role": "user",
+    "created_at": "2026-03-13T05:00:30.343253+00:00"
+  },
+  {
+    "id": "2f59bdad-e9c0-4a1b-b614-7bf765b0e692",
+    "user_id": "2fbd9907-d195-4448-94e4-e05b54a8ea69",
+    "role": "user",
+    "created_at": "2026-03-13T05:04:07.727252+00:00"
+  },
+  {
+    "id": "ef4ada44-fba0-4ec2-a1ed-77e8d2805ab9",
+    "user_id": "9412ce3a-4739-4742-9c99-d819239d99c9",
+    "role": "user",
+    "created_at": "2026-03-13T17:24:58.745932+00:00"
+  },
+  {
+    "id": "7e85abf4-f4c1-4804-8227-45a05cbafdf0",
+    "user_id": "02b006fd-0b2e-4911-b9b9-9098e2d0d64c",
+    "role": "afiliado",
+    "created_at": "2026-03-13T17:37:43.079131+00:00"
+  },
+  {
+    "id": "fd46fcb5-72d6-4dc8-a4e4-ed0f3c602f37",
+    "user_id": "68ca89c6-861a-4906-91ad-46601a48044e",
+    "role": "user",
+    "created_at": "2026-03-13T18:44:21.807669+00:00"
+  },
+  {
+    "id": "85df95fe-cce7-489f-b42d-28e1f0a2d030",
+    "user_id": "42895353-6bc8-4af5-9dfd-05740859e5d2",
+    "role": "user",
+    "created_at": "2026-03-13T19:17:50.134892+00:00"
+  },
+  {
+    "id": "62a36b48-1691-49ac-9446-ca65a26d8047",
+    "user_id": "8670f16f-2e65-487d-8036-8f844b810e4f",
+    "role": "user",
+    "created_at": "2026-03-14T02:02:12.982187+00:00"
+  },
+  {
+    "id": "db9035cf-819a-4c65-b7a3-d34769f9e571",
+    "user_id": "f5da8ccd-c224-42ce-9767-1e45b14fa880",
+    "role": "user",
+    "created_at": "2026-03-14T02:09:43.435219+00:00"
+  },
+  {
+    "id": "3ce11124-317c-4c3c-b288-448835080a26",
+    "user_id": "896d539c-8078-4f3d-bb97-751b883a5db4",
+    "role": "user",
+    "created_at": "2026-03-14T02:33:59.815373+00:00"
+  },
+  {
+    "id": "8576d9a7-3927-4a4e-bbb6-4aee210fb537",
+    "user_id": "d3f53c01-3efe-4346-8b6a-22e1f04d1f06",
+    "role": "user",
+    "created_at": "2026-03-14T02:56:05.370055+00:00"
+  },
+  {
+    "id": "0fe92241-4903-4b97-97f6-a5067c8c12bf",
+    "user_id": "db3ab103-d8a7-41d6-b3f1-a226839b7719",
+    "role": "user",
+    "created_at": "2026-03-14T22:30:04.052982+00:00"
+  },
+  {
+    "id": "eab3fb3e-21c6-4622-b59f-de73f3fd8f8f",
+    "user_id": "94968bfd-8504-4e80-8c85-547db814512d",
+    "role": "user",
+    "created_at": "2026-03-14T23:33:43.778317+00:00"
+  },
+  {
+    "id": "bd5253eb-e346-4ace-b912-af4dc128e5f6",
+    "user_id": "e46ff1c0-786f-430b-8437-800d756ce59b",
+    "role": "user",
+    "created_at": "2026-03-15T01:15:32.762089+00:00"
+  },
+  {
+    "id": "8364fba6-28db-4176-85a1-c8e814155194",
+    "user_id": "de987d4b-4c42-43ce-945b-94569b1e8960",
+    "role": "user",
+    "created_at": "2026-03-15T18:07:40.232217+00:00"
+  },
+  {
+    "id": "5c255346-ec38-4f8e-bd03-605443c3266c",
+    "user_id": "4b3563cd-4506-4e9a-9d14-9ba30ee71680",
+    "role": "user",
+    "created_at": "2026-03-16T15:34:12.486158+00:00"
+  },
+  {
+    "id": "7e2a102c-0b7b-4f53-b25d-04355004f192",
+    "user_id": "6ba049bd-3c3c-4099-8dcf-2e1059db8a1c",
+    "role": "user",
+    "created_at": "2026-03-16T15:39:03.441478+00:00"
+  },
+  {
+    "id": "8be18e8f-09a7-4b79-a431-0b8fa4e4e729",
+    "user_id": "b682732c-6599-49c1-a433-3b340010813c",
+    "role": "user",
+    "created_at": "2026-03-16T15:52:25.54732+00:00"
+  },
+  {
+    "id": "ca3ae0fa-f544-4a24-98dd-29615ad403b8",
+    "user_id": "821af5d0-9e2d-44a0-ae74-69890eeca973",
+    "role": "user",
+    "created_at": "2026-03-16T16:00:44.258293+00:00"
+  },
+  {
+    "id": "1156b2d2-84c6-4b3e-8b15-9f4e07923162",
+    "user_id": "63edbe26-0a87-4609-850a-77c985a8ff22",
+    "role": "user",
+    "created_at": "2026-03-16T16:57:21.304375+00:00"
+  },
+  {
+    "id": "dac3e577-258b-4270-999b-8d7dcf1fd0de",
+    "user_id": "edb5193c-9340-46d2-a17a-7312df1d4b60",
+    "role": "user",
+    "created_at": "2026-03-16T17:24:12.801072+00:00"
+  },
+  {
+    "id": "4d5132e3-f810-4647-99ba-04215ff7429b",
+    "user_id": "31f3f767-81e8-462b-96f0-7e2029345cbf",
+    "role": "user",
+    "created_at": "2026-03-16T22:47:48.369966+00:00"
+  },
+  {
+    "id": "d98e1044-48ab-4c3b-aa7a-7e5f0d581e86",
+    "user_id": "5bca9f0f-fc26-4791-ad7c-4621cf6b6bad",
+    "role": "user",
+    "created_at": "2026-03-16T22:53:57.761062+00:00"
+  },
+  {
+    "id": "d4490fba-88b3-4032-af91-040f4e87e946",
+    "user_id": "9ae9a350-afd4-4ac2-a6e6-da72d1ae3b96",
+    "role": "user",
+    "created_at": "2026-03-16T22:54:40.584182+00:00"
+  },
+  {
+    "id": "20f302d0-344a-46e1-81df-43bddf2bed3e",
+    "user_id": "efd8a813-72bf-4f8f-83da-d4b4677dcafa",
+    "role": "user",
+    "created_at": "2026-03-16T23:04:44.372001+00:00"
+  },
+  {
+    "id": "8d28a874-a013-4dfd-801e-da499585ac08",
+    "user_id": "6dde695e-9513-41a9-bd40-b8e4ae153e43",
+    "role": "user",
+    "created_at": "2026-03-16T23:07:13.382828+00:00"
+  },
+  {
+    "id": "e73e975c-48b1-4842-91a8-2376586ef0b6",
+    "user_id": "7d69b9e8-fc9e-4d4f-8ab1-3797617d1277",
+    "role": "user",
+    "created_at": "2026-03-16T23:12:22.910315+00:00"
+  },
+  {
+    "id": "10b5cd72-c26b-445a-a1be-d6169c4023a3",
+    "user_id": "faf5aa36-4f5a-40c4-8280-6bbc2ac47fca",
+    "role": "user",
+    "created_at": "2026-03-16T23:20:33.184229+00:00"
+  },
+  {
+    "id": "f4aeb820-cf4d-4e23-8d7e-ab7db8f075ab",
+    "user_id": "7fe101a8-aedc-4b5a-a6c7-9052c557c936",
+    "role": "user",
+    "created_at": "2026-03-17T01:14:31.946431+00:00"
+  },
+  {
+    "id": "3a8b89f9-97d5-4a14-86a4-b718169f5710",
+    "user_id": "101ae55f-7bfc-471f-b727-a2378e5e4b84",
+    "role": "user",
+    "created_at": "2026-03-17T01:34:26.356924+00:00"
+  },
+  {
+    "id": "6c1f35f5-4d6d-4646-914f-52a1a9b99184",
+    "user_id": "0660320a-426b-4cb9-909b-aa8efa0846b1",
+    "role": "user",
+    "created_at": "2026-03-17T14:41:21.881907+00:00"
+  },
+  {
+    "id": "4a138064-f3b0-4175-aa79-c80fc665a0d6",
+    "user_id": "94104040-479e-4aa1-a330-fb5e893dba4e",
+    "role": "user",
+    "created_at": "2026-03-17T14:45:43.272003+00:00"
+  },
+  {
+    "id": "cffbc963-0a7e-4e4b-90f4-5e4e02c4a1c3",
+    "user_id": "ffd7e172-8ba0-4f21-ba51-66172f1d48e3",
+    "role": "user",
+    "created_at": "2026-03-17T14:53:07.091056+00:00"
+  },
+  {
+    "id": "043d5ee8-61a9-4c56-ad6a-9a714bdfbb00",
+    "user_id": "4c47fe61-5049-4ee2-a79e-522c4b29213b",
+    "role": "user",
+    "created_at": "2026-03-17T15:47:08.144931+00:00"
+  },
+  {
+    "id": "57aa8da4-2927-4de3-8116-07e3615f4954",
+    "user_id": "efbf8bbc-1f0b-41e7-b6f6-b41ba28121b6",
+    "role": "user",
+    "created_at": "2026-03-17T18:03:56.248145+00:00"
+  },
+  {
+    "id": "146ece01-97f3-4b48-9f6a-fae25ca95b73",
+    "user_id": "868cbb6d-33ea-4ec4-9ce8-0cb6917ba207",
+    "role": "user",
+    "created_at": "2026-03-17T18:04:47.786323+00:00"
+  },
+  {
+    "id": "ec148bdd-3d4c-476a-a0bc-93117675c01a",
+    "user_id": "2dba0413-746a-454f-b4f8-38970ca46f77",
+    "role": "user",
+    "created_at": "2026-03-17T22:11:16.604522+00:00"
+  },
+  {
+    "id": "cc565177-1595-4486-8d7c-2c21c1a7911a",
+    "user_id": "a558f2da-2f25-4f66-9ac2-7bea9eb23c4b",
+    "role": "user",
+    "created_at": "2026-03-17T22:16:55.385971+00:00"
+  },
+  {
+    "id": "f60233dc-17fa-4491-836b-bcb553e75540",
+    "user_id": "8d3b1abb-3108-456e-8aa4-b7f3f5fe1694",
+    "role": "user",
+    "created_at": "2026-03-17T22:21:48.105223+00:00"
+  },
+  {
+    "id": "9424c0de-924f-4364-9840-d3c91ea1e5ea",
+    "user_id": "5a30ee42-6b1a-41da-87f3-9304a481d511",
+    "role": "user",
+    "created_at": "2026-03-17T22:24:23.763377+00:00"
+  },
+  {
+    "id": "a17df0a9-6a2d-4a88-a5da-7e2e6bf5f512",
+    "user_id": "95af7235-06e1-47c6-a826-944e11aef0eb",
+    "role": "user",
+    "created_at": "2026-03-17T23:14:54.855713+00:00"
+  },
+  {
+    "id": "e3e31f08-5e7f-40e4-9aa4-42ac24a68004",
+    "user_id": "478bd862-6061-400e-96f2-f62fd03fce46",
+    "role": "user",
+    "created_at": "2026-03-17T23:34:55.266687+00:00"
+  },
+  {
+    "id": "ae94c971-13af-467d-bdeb-475d8652c1fe",
+    "user_id": "5f21b110-13b4-475d-9f88-e27c4d9b2748",
+    "role": "user",
+    "created_at": "2026-03-18T11:24:30.565242+00:00"
+  },
+  {
+    "id": "5f6d330a-0c6a-4043-8799-f47ff848cc82",
+    "user_id": "9091e667-f5a2-4b57-a8ad-e2be80b49650",
+    "role": "afiliado",
+    "created_at": "2026-03-18T13:49:38.5591+00:00"
+  },
+  {
+    "id": "70b82859-d62f-466a-889e-1e89cdf785f4",
+    "user_id": "bc17d49b-236d-4f32-b899-f58dfdd571d4",
+    "role": "user",
+    "created_at": "2026-03-18T14:13:28.922446+00:00"
+  },
+  {
+    "id": "296277bd-f8e2-45f6-b36e-5ef5bd2fd874",
+    "user_id": "d080dcc9-3680-4e51-9600-9d4c0723a75b",
+    "role": "user",
+    "created_at": "2026-03-18T14:14:42.449075+00:00"
+  },
+  {
+    "id": "83e78ce0-9f9f-4ee2-9f82-f42c9bbb5c0f",
+    "user_id": "8f8ef874-9cbc-4e81-ae6d-3cc548ffe094",
+    "role": "user",
+    "created_at": "2026-03-18T15:18:40.584569+00:00"
+  },
+  {
+    "id": "689a6330-e9df-47b2-afe1-b1c896d67ea3",
+    "user_id": "c8504ffb-c24f-4cbe-bcbe-1fe475698bc6",
+    "role": "user",
+    "created_at": "2026-03-18T18:13:23.096925+00:00"
+  },
+  {
+    "id": "1bda1c7e-9498-4b76-8d44-08d9cde86faf",
+    "user_id": "bf43588f-4708-4e5a-af75-36a3205f1997",
+    "role": "user",
+    "created_at": "2026-03-18T18:16:00.241714+00:00"
+  },
+  {
+    "id": "e0581b66-5548-46ee-8669-964b64f849b5",
+    "user_id": "96979157-aac6-4ef8-9637-074ff5cac531",
+    "role": "user",
+    "created_at": "2026-03-18T18:30:53.733427+00:00"
+  },
+  {
+    "id": "42bc0d55-1037-4bec-9b88-e2bb6ccd0871",
+    "user_id": "6ceb56a1-ebe4-44f0-8970-d27765b6d7f5",
+    "role": "user",
+    "created_at": "2026-03-18T18:51:17.274246+00:00"
+  },
+  {
+    "id": "515e4e28-f373-48b1-ae1c-62e622fecb7c",
+    "user_id": "cfd19eb7-afd0-44ef-baee-34f6c9f272a1",
+    "role": "user",
+    "created_at": "2026-03-18T22:49:18.693999+00:00"
+  },
+  {
+    "id": "52048cd6-2348-4419-ba5d-76b2201732c9",
+    "user_id": "aac26230-6584-46d8-ac46-4a2721a39d94",
+    "role": "user",
+    "created_at": "2026-03-19T11:00:28.392877+00:00"
+  },
+  {
+    "id": "251108f0-6563-4045-9937-9b995817d1e8",
+    "user_id": "ca802aff-5eac-4a82-bd2d-10f79cb1b4e2",
+    "role": "user",
+    "created_at": "2026-03-19T11:51:05.219134+00:00"
+  },
+  {
+    "id": "00100bf2-c333-469e-98d8-d189aedbdbfc",
+    "user_id": "2f68b3e3-d877-45f3-8d83-92057a82cc30",
+    "role": "user",
+    "created_at": "2026-03-19T19:56:53.870267+00:00"
+  },
+  {
+    "id": "bd229274-9075-4d11-aeb8-91bd46750d3d",
+    "user_id": "f48cb99e-3223-48db-ba51-067038aa504d",
+    "role": "user",
+    "created_at": "2026-03-19T20:05:59.30212+00:00"
+  },
+  {
+    "id": "f71c32f4-2fad-4092-9044-c535f43ab79e",
+    "user_id": "b0e56552-1df6-4aa9-a222-8d9cf85ecf64",
+    "role": "user",
+    "created_at": "2026-03-19T20:37:45.846193+00:00"
+  },
+  {
+    "id": "2a6c7342-142c-4311-b2d2-5dd092bc855e",
+    "user_id": "29aa8a35-68ba-45c0-a7df-600973702744",
+    "role": "user",
+    "created_at": "2026-03-19T22:04:14.141138+00:00"
+  },
+  {
+    "id": "06421719-d15d-4263-97f6-1d33fec9847e",
+    "user_id": "386d5187-8441-4471-ad3f-fe04385871e2",
+    "role": "user",
+    "created_at": "2026-03-19T22:05:21.661586+00:00"
+  },
+  {
+    "id": "f73fd36e-ea0d-4228-a3c4-e23b09dcbad7",
+    "user_id": "b3870724-57b6-4838-8413-a93db0d5fc7b",
+    "role": "user",
+    "created_at": "2026-03-19T22:05:36.157451+00:00"
+  },
+  {
+    "id": "4f5e8003-8b9d-4a70-946e-2d6d73d337f6",
+    "user_id": "e6fc8a4c-c4ec-4300-9aef-b2f1984a1e9e",
+    "role": "user",
+    "created_at": "2026-03-19T22:05:51.064634+00:00"
+  },
+  {
+    "id": "6125eda1-9947-4324-8720-37c02b9b6c24",
+    "user_id": "6f8049f3-937f-45ff-bdae-0ddd4571cb37",
+    "role": "user",
+    "created_at": "2026-03-19T22:08:59.951844+00:00"
+  },
+  {
+    "id": "e9649628-c3e2-4d07-b4e8-793af3c8962c",
+    "user_id": "84b35cfa-2579-443d-bf82-229b295d3fea",
+    "role": "user",
+    "created_at": "2026-03-19T22:11:47.035159+00:00"
+  },
+  {
+    "id": "8e3786f7-b942-4d74-a3c9-79c791b04e75",
+    "user_id": "273c7fb0-ff72-4386-9698-105db79a467f",
+    "role": "user",
+    "created_at": "2026-03-19T22:49:09.782278+00:00"
+  },
+  {
+    "id": "5d4ba5a0-5a98-45a5-a589-09de611de26f",
+    "user_id": "b7d4e044-974d-45b4-b62c-5dc214ed873a",
+    "role": "user",
+    "created_at": "2026-03-19T23:27:37.256303+00:00"
+  },
+  {
+    "id": "74c7e34c-38d3-4304-b0b6-a1db7a1d8a3d",
+    "user_id": "608f7286-ee09-494c-98f7-a572ba4d69d2",
+    "role": "user",
+    "created_at": "2026-03-19T23:35:30.626113+00:00"
+  },
+  {
+    "id": "33637465-fc7b-4d2c-930c-342a0db338ec",
+    "user_id": "1dd20140-4cee-4bf5-b748-b357fd89e29c",
+    "role": "user",
+    "created_at": "2026-03-20T12:13:53.877815+00:00"
+  },
+  {
+    "id": "1dd9129d-7f59-4b57-be81-50ddd242982d",
+    "user_id": "996cfe0a-9331-4d0a-b0d8-469e6c7b673b",
+    "role": "user",
+    "created_at": "2026-03-20T12:33:33.998043+00:00"
+  },
+  {
+    "id": "a0a567cb-9b4d-486e-980a-00ca7629fd6f",
+    "user_id": "daa741ff-fcfd-4522-8b75-d719890ecafe",
+    "role": "user",
+    "created_at": "2026-03-20T15:49:32.190723+00:00"
+  },
+  {
+    "id": "e92804d9-2f92-4cdc-9ce3-976349575f8f",
+    "user_id": "780ab722-2c19-40ed-a7e8-3d7c71794722",
+    "role": "user",
+    "created_at": "2026-03-20T17:26:00.088381+00:00"
+  },
+  {
+    "id": "46eb9af1-a471-4f47-92b1-84e343e7292c",
+    "user_id": "19c9e808-1a5c-47c3-9d83-bca5e756ae49",
+    "role": "user",
+    "created_at": "2026-03-20T17:28:26.549391+00:00"
+  },
+  {
+    "id": "fe0ef053-8b30-4ea5-bf89-0b2ad4bc2e74",
+    "user_id": "ce439119-f607-400e-9e0b-353efea02659",
+    "role": "user",
+    "created_at": "2026-03-20T23:00:31.502001+00:00"
+  },
+  {
+    "id": "6084636c-b807-4233-b77b-f01090f31347",
+    "user_id": "c052c814-8775-47aa-90bc-8291115dd6d0",
+    "role": "user",
+    "created_at": "2026-03-21T23:24:00.821686+00:00"
+  },
+  {
+    "id": "905eb64e-a2d3-4fd9-8de2-c1f9cca4d862",
+    "user_id": "3bf5c1da-83ee-49ea-8fb5-fbb8c72417e0",
+    "role": "afiliado",
+    "created_at": "2026-03-22T02:37:54.343782+00:00"
+  },
+  {
+    "id": "f45ebce5-c861-4fce-9618-3da720b69582",
+    "user_id": "3cf83269-4db0-4f7e-8723-ee2cb9b7ae10",
+    "role": "user",
+    "created_at": "2026-03-23T14:44:54.89076+00:00"
+  },
+  {
+    "id": "f7c95e34-4469-4ffc-81bb-88c88ebc68a6",
+    "user_id": "806c27f3-6706-48b5-b024-647397dd363e",
+    "role": "user",
+    "created_at": "2026-03-23T14:46:15.240014+00:00"
+  },
+  {
+    "id": "b87fb18a-42f6-4ea0-b6bb-03127ffde3bc",
+    "user_id": "9f1a4082-a92b-42e3-9c83-a7b9d977d374",
+    "role": "user",
+    "created_at": "2026-03-23T15:00:51.195811+00:00"
+  },
+  {
+    "id": "6fd72351-39ed-43ca-a99e-1627927d76b2",
+    "user_id": "9f8c4258-997e-4006-b43f-d90cf0cee1d4",
+    "role": "user",
+    "created_at": "2026-03-23T15:02:46.36937+00:00"
+  },
+  {
+    "id": "c1b8bb0d-187b-4adf-bc0a-a1099250aad9",
+    "user_id": "7b7901da-0dbb-49fd-b823-03b4e9573f7d",
+    "role": "user",
+    "created_at": "2026-03-23T15:28:07.218748+00:00"
+  },
+  {
+    "id": "37b43680-7b9f-4713-b30f-dc596bae8a5d",
+    "user_id": "b3a2276d-e259-430f-8082-f7ecb3449dd5",
+    "role": "user",
+    "created_at": "2026-03-23T17:08:14.192985+00:00"
+  },
+  {
+    "id": "75907567-e0e8-440e-8875-0f2de88a1d15",
+    "user_id": "00c6b56f-cf7b-46b2-bb72-be70f240a4ed",
+    "role": "user",
+    "created_at": "2026-03-23T17:27:46.659461+00:00"
+  },
+  {
+    "id": "97725e8c-99ba-4e8b-b974-6fed6162d295",
+    "user_id": "a4516481-dfdf-4b03-87dd-8e2655eb8606",
+    "role": "user",
+    "created_at": "2026-03-23T18:25:48.646962+00:00"
+  },
+  {
+    "id": "faa250f3-7258-482e-8fa3-5991efcdda28",
+    "user_id": "d34d3098-9d9c-40b5-a413-0da81efd6439",
+    "role": "user",
+    "created_at": "2026-03-23T18:34:11.366916+00:00"
+  },
+  {
+    "id": "0dab17dc-01a2-4566-ae76-c89a21f02e88",
+    "user_id": "c63aa120-a8a2-44b5-8359-1014e9ce8c9f",
+    "role": "user",
+    "created_at": "2026-03-23T22:27:33.536879+00:00"
+  },
+  {
+    "id": "7a4e6208-610c-47eb-bc90-d2c66d827352",
+    "user_id": "573406d4-b5c4-4afa-b5e5-d221721b91a0",
+    "role": "user",
+    "created_at": "2026-03-23T22:28:45.511653+00:00"
+  },
+  {
+    "id": "cf58b29f-ddcb-461a-9c7d-bddfe3e480d4",
+    "user_id": "5c2803e5-2150-497c-a840-bd0897959ab5",
+    "role": "user",
+    "created_at": "2026-03-23T22:39:57.583267+00:00"
+  },
+  {
+    "id": "2b76c22d-6b8c-4374-bbfe-c97a1ed32af5",
+    "user_id": "9b269050-4c40-47d2-b2e5-fb4e947e71f7",
+    "role": "user",
+    "created_at": "2026-03-23T22:48:57.334402+00:00"
+  },
+  {
+    "id": "ba53818e-e3c8-49fc-9d43-f589ffc53a56",
+    "user_id": "f4fa0ca9-9d50-4071-9970-eb2e0b4f4dc8",
+    "role": "user",
+    "created_at": "2026-03-23T22:49:26.913546+00:00"
+  },
+  {
+    "id": "ce78e446-9bf9-4e64-b509-b2e9c4a2fc15",
+    "user_id": "2206c9ee-9348-4756-8ce0-b4471e4c6980",
+    "role": "user",
+    "created_at": "2026-03-23T23:02:08.444615+00:00"
+  },
+  {
+    "id": "7c5679db-27af-4851-9515-df13c04ce8c4",
+    "user_id": "3958993b-b77b-470b-8f7d-9cd3397f2488",
+    "role": "user",
+    "created_at": "2026-03-24T03:14:27.434434+00:00"
+  },
+  {
+    "id": "f3e465cb-06cf-4738-b3cd-43f6736c4055",
+    "user_id": "ab12cd74-b8ce-448c-854c-562363b8f4a9",
+    "role": "user",
+    "created_at": "2026-03-24T05:53:23.298601+00:00"
+  },
+  {
+    "id": "7a25ee25-1e92-4d5b-a8ad-f299bd4c6782",
+    "user_id": "25c22509-08d5-4d2b-befa-82d02c473c0b",
+    "role": "user",
+    "created_at": "2026-03-24T11:07:59.342846+00:00"
+  },
+  {
+    "id": "3c2a58c3-778d-44d3-a7ba-2ef59441a7db",
+    "user_id": "3e5240fb-711d-4616-9e89-cee13240a53c",
+    "role": "user",
+    "created_at": "2026-03-24T13:43:57.560842+00:00"
+  },
+  {
+    "id": "04e2f526-2846-440f-85fd-fc5f72bebb28",
+    "user_id": "848660c4-023e-452e-9fdf-1abed200859b",
+    "role": "user",
+    "created_at": "2026-03-24T13:44:17.683898+00:00"
+  },
+  {
+    "id": "4164325d-f9be-48cb-8372-024fc0d10a5f",
+    "user_id": "e62c1771-5945-4b44-bf41-8779106e64a0",
+    "role": "user",
+    "created_at": "2026-03-24T14:27:17.070156+00:00"
+  },
+  {
+    "id": "ea7ad49b-b178-41e2-9c74-c69de372ee84",
+    "user_id": "bfbfc5fd-55ba-4419-8417-3e13be002b90",
+    "role": "user",
+    "created_at": "2026-03-24T15:26:48.699709+00:00"
+  },
+  {
+    "id": "ec8f10c9-05fa-45e6-b839-da44ab706af2",
+    "user_id": "8723f3a3-9d50-49cd-8cec-728ca3b5cc52",
+    "role": "user",
+    "created_at": "2026-03-24T15:28:06.282255+00:00"
+  },
+  {
+    "id": "483b39ae-d535-473f-a81b-d663cbca7b54",
+    "user_id": "c736a6c7-5faf-4805-ba34-09b4d6bc6f3e",
+    "role": "user",
+    "created_at": "2026-03-24T16:08:53.575798+00:00"
+  },
+  {
+    "id": "28501ab9-d3af-4a3a-8b34-a994969773f0",
+    "user_id": "04539748-8f59-412e-add6-a12a16dfa3c6",
+    "role": "user",
+    "created_at": "2026-03-24T16:32:15.073412+00:00"
+  },
+  {
+    "id": "033b986d-d05e-4031-af71-f82ab2e1d4fa",
+    "user_id": "9c1e6e08-d4bf-4526-a6f7-6230f9654bb2",
+    "role": "user",
+    "created_at": "2026-03-24T17:35:04.76814+00:00"
+  },
+  {
+    "id": "0e254747-3d2e-4a97-8fb3-4e7a9f38c045",
+    "user_id": "59ffe854-bb1a-474b-ac1c-7f994fab8453",
+    "role": "user",
+    "created_at": "2026-03-25T01:08:30.139636+00:00"
+  },
+  {
+    "id": "1be6dabd-6859-4ea6-b729-85cca14bd8cd",
+    "user_id": "e29924f1-2801-4ff7-9e42-5fafcfd7fc80",
+    "role": "user",
+    "created_at": "2026-03-25T01:24:41.717114+00:00"
+  },
+  {
+    "id": "70fcc5d6-45f1-46f8-a5b5-d000127b8f5a",
+    "user_id": "7859512f-a633-4fd2-98ae-e866f2ba8926",
+    "role": "user",
+    "created_at": "2026-03-25T10:37:39.60006+00:00"
+  },
+  {
+    "id": "1d74ee24-a3b3-4683-9c0f-c704994249a9",
+    "user_id": "5427c7b4-0f8f-4f13-9fa8-a8d7f2c8a939",
+    "role": "user",
+    "created_at": "2026-03-25T10:38:40.383015+00:00"
+  },
+  {
+    "id": "92efc171-8207-42f0-8669-7fd921f0324a",
+    "user_id": "609c38d6-5d2b-4d61-89b8-c2bdf1363f37",
+    "role": "user",
+    "created_at": "2026-03-25T11:26:34.83871+00:00"
+  },
+  {
+    "id": "ab908014-eec1-4e16-98c4-8fb41f40aa4d",
+    "user_id": "9f610cd2-4db7-48a6-9f16-ad7ee4d520fa",
+    "role": "user",
+    "created_at": "2026-03-25T14:17:09.752094+00:00"
+  },
+  {
+    "id": "b3659c34-6a01-430f-a0fb-b9f004c01cd3",
+    "user_id": "9e12de9c-a9aa-464e-860d-62df77acf36b",
+    "role": "user",
+    "created_at": "2026-03-25T15:26:17.280199+00:00"
+  },
+  {
+    "id": "e41b82b4-d762-4086-90d7-f088e1ad3e9b",
+    "user_id": "194e0ddf-edda-42f6-bd59-bf5ce87ce61a",
+    "role": "user",
+    "created_at": "2026-03-25T16:46:29.546463+00:00"
+  },
+  {
+    "id": "5a3c892f-e556-4ea5-aa30-ba0598c51a29",
+    "user_id": "b829bb81-d841-45b0-a0c6-b4024aa68a47",
+    "role": "user",
+    "created_at": "2026-03-25T17:42:39.217089+00:00"
+  },
+  {
+    "id": "b560b16c-5aa2-4920-9cb9-a6e04b73a539",
+    "user_id": "6a4e7c4e-d8ae-4bb3-ae62-f4b9afe721b0",
+    "role": "user",
+    "created_at": "2026-03-25T17:57:11.197775+00:00"
+  },
+  {
+    "id": "ffd32aee-7b5b-4730-8bbf-24c351ec866d",
+    "user_id": "8cf2b93d-90a3-4176-8a81-b909a719d88e",
+    "role": "user",
+    "created_at": "2026-03-25T17:59:48.398327+00:00"
+  },
+  {
+    "id": "e5a28b33-49ae-41f7-8142-a19e1f32dd81",
+    "user_id": "7e9ae718-7e4b-4fed-9680-fbefdd11455a",
+    "role": "user",
+    "created_at": "2026-03-25T18:04:35.585399+00:00"
+  },
+  {
+    "id": "046b32a6-8076-4c03-8281-9f2ad98bcc76",
+    "user_id": "6a4f2e4c-573e-4eb6-8e40-d57dcb691707",
+    "role": "user",
+    "created_at": "2026-03-25T18:04:55.483365+00:00"
+  },
+  {
+    "id": "454ff7c8-d99e-4bef-91df-f010c78b8c17",
+    "user_id": "f5e9c2f6-530f-494e-9960-cfdfa819aeaa",
+    "role": "user",
+    "created_at": "2026-03-25T18:13:08.590199+00:00"
+  },
+  {
+    "id": "d4c48b5c-6d36-4765-afde-a974a3c97066",
+    "user_id": "0e87b019-7a1e-4e64-b861-d5e06e1808bd",
+    "role": "user",
+    "created_at": "2026-03-25T18:13:21.047692+00:00"
+  },
+  {
+    "id": "af89417d-5d8e-40a0-b541-6ce48622a610",
+    "user_id": "d50e382b-cefe-479f-ae72-b384dfccd003",
+    "role": "user",
+    "created_at": "2026-03-25T20:54:15.564194+00:00"
+  },
+  {
+    "id": "447c9a34-4e1c-4cd1-b5e2-f806bccf0f66",
+    "user_id": "55bd93bc-2414-4f31-b9d2-f8684fd94cd1",
+    "role": "user",
+    "created_at": "2026-03-25T23:10:03.271227+00:00"
+  },
+  {
+    "id": "5b2e22a9-57d2-48d5-8e29-beb8e124d4f4",
+    "user_id": "858dfc07-9e27-4ec0-8eaa-15311be60d36",
+    "role": "user",
+    "created_at": "2026-03-25T23:17:53.377479+00:00"
+  },
+  {
+    "id": "be247ae4-05be-4e98-bb9b-05e0b1349dfa",
+    "user_id": "72db47fa-56c3-40dc-8daf-2bcfcf62268f",
+    "role": "user",
+    "created_at": "2026-03-26T01:30:44.425562+00:00"
+  },
+  {
+    "id": "1ecaabf3-17b3-4d28-a1a6-403b9ddd39e6",
+    "user_id": "1576b840-edde-4639-959f-c92019b3c893",
+    "role": "user",
+    "created_at": "2026-03-26T01:30:54.251085+00:00"
+  },
+  {
+    "id": "f9f7f0b1-9995-4c23-8db3-af2cc3ff6b95",
+    "user_id": "de232780-f410-48d0-b079-91a4cf5d4f7b",
+    "role": "user",
+    "created_at": "2026-03-26T01:31:28.683978+00:00"
+  },
+  {
+    "id": "6160d4f5-bfe0-4361-9003-86f8bba29e89",
+    "user_id": "2a2b1687-24df-4017-b999-1827d45045cd",
+    "role": "user",
+    "created_at": "2026-03-26T01:31:51.319838+00:00"
+  },
+  {
+    "id": "41f42dce-0f74-4a0e-9c9c-af17ca9aa3b9",
+    "user_id": "390bf457-5762-4a1b-a6e6-c98d9109e40e",
+    "role": "user",
+    "created_at": "2026-03-26T01:31:56.571617+00:00"
+  },
+  {
+    "id": "26e84ad7-05dc-4c6e-807e-3cee2ce59633",
+    "user_id": "4d73e60c-99df-42ca-ac60-ee75df0d3d48",
+    "role": "user",
+    "created_at": "2026-03-26T01:51:34.325829+00:00"
+  },
+  {
+    "id": "aa02e3ae-d3c1-4088-9d0b-408d1046b29e",
+    "user_id": "fbcad10a-be22-4320-81a5-ac53b35c3445",
+    "role": "user",
+    "created_at": "2026-03-26T10:36:06.844521+00:00"
+  },
+  {
+    "id": "891f5395-9aea-43d5-baf9-5ee34b9c3923",
+    "user_id": "21324af8-6f7f-432b-96a7-d867e0d0cddc",
+    "role": "user",
+    "created_at": "2026-03-26T10:44:01.598578+00:00"
+  },
+  {
+    "id": "69139ecc-b869-4389-adbd-94b84f16ed7c",
+    "user_id": "2c344e17-4a93-4aff-84aa-09cbe8cba970",
+    "role": "user",
+    "created_at": "2026-03-26T11:05:43.267557+00:00"
+  },
+  {
+    "id": "70e260c0-032d-4c02-85c8-31e7c71d5482",
+    "user_id": "e3619c93-2f2c-4e7d-824f-f1eaeb66e308",
+    "role": "user",
+    "created_at": "2026-03-26T15:29:53.630326+00:00"
+  },
+  {
+    "id": "3f8c1061-7460-4ccc-bac6-2f11425cd2bd",
+    "user_id": "90f0e2eb-303b-4385-be2b-f881f8ea58ba",
+    "role": "user",
+    "created_at": "2026-03-26T15:33:15.945851+00:00"
+  },
+  {
+    "id": "86d200f9-09b0-4190-832d-70e107d185c8",
+    "user_id": "3307eb9e-cd11-4237-835a-6176dcb6b7f2",
+    "role": "user",
+    "created_at": "2026-03-26T18:05:52.758093+00:00"
+  },
+  {
+    "id": "b99fc2a1-41f5-4515-8b48-c689bc82885c",
+    "user_id": "855b31b5-19ba-4bc5-af80-e3c54c0924b8",
+    "role": "user",
+    "created_at": "2026-03-26T18:07:05.025364+00:00"
+  },
+  {
+    "id": "440dd4fb-373d-4bda-aa2b-20f2c5e2250f",
+    "user_id": "57dfc0a6-8220-4328-9e48-b0ab793c4afc",
+    "role": "user",
+    "created_at": "2026-03-26T18:08:09.967659+00:00"
+  },
+  {
+    "id": "cd37ae11-06fe-432e-a18a-26be98abe8c8",
+    "user_id": "c993bbe4-3c57-49a7-9363-1e4e7fa55aeb",
+    "role": "user",
+    "created_at": "2026-03-26T18:10:06.353797+00:00"
+  },
+  {
+    "id": "d6f8c2ef-dcbb-4b92-b203-bdc8eba7102d",
+    "user_id": "4601dc03-d725-4909-9d3b-b80d7b5e50bf",
+    "role": "user",
+    "created_at": "2026-03-26T18:10:50.037256+00:00"
+  },
+  {
+    "id": "379eefad-11ac-478a-b3aa-303a7dea2cde",
+    "user_id": "59ea9df3-d222-4cac-92c2-40d9bc347893",
+    "role": "user",
+    "created_at": "2026-03-26T18:13:32.652027+00:00"
+  },
+  {
+    "id": "f929e82e-0f2a-4413-853a-b9e24f68c5cb",
+    "user_id": "c62bf0c7-3726-441a-9b7a-d2504d26b413",
+    "role": "afiliado",
+    "created_at": "2026-03-26T19:01:58.49114+00:00"
+  },
+  {
+    "id": "7a83ff53-ce40-4c80-bb9d-60cc8a2ad015",
+    "user_id": "38fb18ce-e20d-4252-a7ab-6ee59dbd960e",
+    "role": "user",
+    "created_at": "2026-03-26T19:21:22.158302+00:00"
+  },
+  {
+    "id": "89e59788-f58b-4478-85b8-67116d48039c",
+    "user_id": "d3b86660-09e5-4ed3-9314-b6daae267f8e",
+    "role": "user",
+    "created_at": "2026-03-26T22:23:45.382475+00:00"
+  },
+  {
+    "id": "900a1289-2d18-4d07-ba51-b7eb8e5e8d6f",
+    "user_id": "5786c2b3-33cf-424d-ac9c-a934378b6d79",
+    "role": "user",
+    "created_at": "2026-03-26T22:36:55.51635+00:00"
+  },
+  {
+    "id": "81a46770-ee2c-4771-a223-4831980dfae0",
+    "user_id": "0d29fdcb-0682-4f8d-8a94-d0755fca5cd1",
+    "role": "user",
+    "created_at": "2026-03-26T22:38:13.553132+00:00"
+  },
+  {
+    "id": "95fa64fb-d14e-4510-9908-83fe1bcd89a6",
+    "user_id": "c1613f2c-5389-4787-895f-f9f4694d0410",
+    "role": "user",
+    "created_at": "2026-03-26T22:46:06.469446+00:00"
+  },
+  {
+    "id": "6f1e6e3c-8f9d-403e-a00c-4a4039e793d0",
+    "user_id": "62421b2e-b219-40b6-ad3c-816081a451ac",
+    "role": "user",
+    "created_at": "2026-03-26T22:48:19.011439+00:00"
+  },
+  {
+    "id": "8c9b2480-72cf-4a7c-977e-bac7d74bd144",
+    "user_id": "e902d82c-2c25-4927-bb1b-58a465d8473d",
+    "role": "user",
+    "created_at": "2026-03-26T22:51:00.18686+00:00"
+  },
+  {
+    "id": "5ca602d8-1931-4140-bcde-7461e2e1a600",
+    "user_id": "0fe59412-ec56-4220-8739-f5d44510bf11",
+    "role": "user",
+    "created_at": "2026-03-27T10:42:10.654203+00:00"
+  },
+  {
+    "id": "1952e09b-6be6-40e0-ae95-73bff9223640",
+    "user_id": "b1263403-e8f5-4b99-b859-c79bdefbc1b7",
+    "role": "user",
+    "created_at": "2026-03-27T10:43:33.869568+00:00"
+  },
+  {
+    "id": "c2b7df03-218a-4b04-84ed-f0b396bba9fa",
+    "user_id": "1818b06e-71ed-4beb-bc22-d01bd6351f6f",
+    "role": "user",
+    "created_at": "2026-03-27T10:55:43.471059+00:00"
+  },
+  {
+    "id": "3c441178-47d0-4365-91a8-d65090dac755",
+    "user_id": "909ce367-cfb8-483b-8d4a-32a6ae9c339e",
+    "role": "user",
+    "created_at": "2026-03-27T11:02:26.677965+00:00"
+  },
+  {
+    "id": "c334e354-ee10-4630-b861-ce4e0d896263",
+    "user_id": "340cf187-71e3-4fef-a6b2-80c2eb5f152a",
+    "role": "user",
+    "created_at": "2026-03-27T11:07:30.331952+00:00"
+  },
+  {
+    "id": "11659dfc-9b29-48bb-9beb-17b073196796",
+    "user_id": "ef8dc871-81dc-442c-baba-1a80ed6a3e70",
+    "role": "afiliado",
+    "created_at": "2026-03-27T12:35:35.353311+00:00"
+  },
+  {
+    "id": "f4362cbb-7993-4ef4-a098-6a8157f5a0f8",
+    "user_id": "5c4306cd-9cc1-4fe4-9626-af98b2593e82",
+    "role": "user",
+    "created_at": "2026-03-27T14:29:22.900989+00:00"
+  },
+  {
+    "id": "36c8da78-bf2d-4da5-961e-7e35e2d0bd64",
+    "user_id": "1b841b47-4102-4253-958f-cc7a6fa6789c",
+    "role": "afiliado",
+    "created_at": "2026-03-27T17:47:26.145362+00:00"
+  },
+  {
+    "id": "e199849a-c81f-4886-91d7-c822bd15a6f6",
+    "user_id": "246a8b1f-eb42-4799-96fc-a99540c43586",
+    "role": "user",
+    "created_at": "2026-03-27T18:52:53.559485+00:00"
+  },
+  {
+    "id": "68d6cc31-df56-4046-8c2e-74917414dba9",
+    "user_id": "1374d19c-663f-4293-a86d-df372fb95ab4",
+    "role": "user",
+    "created_at": "2026-03-29T18:43:08.35192+00:00"
+  },
+  {
+    "id": "35326300-9419-4467-9d1a-95344aa36318",
+    "user_id": "c6ee4d9c-e283-4545-aa98-373332e4affc",
+    "role": "user",
+    "created_at": "2026-03-29T18:44:23.193983+00:00"
+  },
+  {
+    "id": "e352ad9b-9d43-427b-90bc-2b81d6d17c9c",
+    "user_id": "bfec2009-4671-4d7e-84d1-d4bfc398b473",
+    "role": "user",
+    "created_at": "2026-03-29T18:46:29.425565+00:00"
+  },
+  {
+    "id": "59163382-2650-43a3-a54f-4d6bdf8ab780",
+    "user_id": "a1caae1c-a581-42df-92df-2cc9b2636364",
+    "role": "user",
+    "created_at": "2026-03-29T18:51:10.312466+00:00"
+  },
+  {
+    "id": "082dcbfa-b79e-4e5f-b8f6-ad8c247cc3b7",
+    "user_id": "e8b72e64-edeb-4029-9b1e-7ef21beb0eca",
+    "role": "user",
+    "created_at": "2026-03-29T19:08:38.439171+00:00"
+  },
+  {
+    "id": "9c8dd533-1b99-45d7-a582-4168de0363a9",
+    "user_id": "f7605061-a4c6-4aad-aca9-416ed9fc52b5",
+    "role": "user",
+    "created_at": "2026-03-29T19:08:55.008301+00:00"
+  },
+  {
+    "id": "4ca17b50-071b-4654-ae87-abe73c356bee",
+    "user_id": "23899f65-57f7-4d69-ba60-51a902771baf",
+    "role": "user",
+    "created_at": "2026-03-29T19:24:34.936905+00:00"
+  },
+  {
+    "id": "8c776363-8dd6-4f3b-b6e8-18e4fba9dd82",
+    "user_id": "f90a1678-15de-414a-8c6d-93f2498a8b69",
+    "role": "user",
+    "created_at": "2026-03-30T00:36:20.912715+00:00"
+  },
+  {
+    "id": "3ee95d94-2d52-4295-8db5-558394237aef",
+    "user_id": "18f502e2-ba0a-464a-adda-7ff1251fc5ac",
+    "role": "user",
+    "created_at": "2026-03-30T05:02:36.047007+00:00"
+  },
+  {
+    "id": "1bda2e52-5187-4ef6-ba90-b93bc65766b1",
+    "user_id": "9808d828-5e90-4efd-8b76-4e105a24eb92",
+    "role": "user",
+    "created_at": "2026-03-30T05:08:51.170983+00:00"
+  },
+  {
+    "id": "c656e97e-65ba-41d9-bb2c-a808bd27e88a",
+    "user_id": "12a0e134-8658-4362-b095-711a4d37bf4e",
+    "role": "afiliado",
+    "created_at": "2026-03-30T18:14:12.533206+00:00"
+  },
+  {
+    "id": "38d36df3-96a5-482b-8be0-0016a6eae107",
+    "user_id": "7b681048-ddb5-4f67-bb63-650e48c56ca9",
+    "role": "afiliado",
+    "created_at": "2026-03-30T18:15:24.246256+00:00"
+  },
+  {
+    "id": "8c903fa2-d0e3-4b25-9c04-715a5f8a4236",
+    "user_id": "5a71e8d8-9988-4d7c-b0fe-782ee7861ce0",
+    "role": "user",
+    "created_at": "2026-03-31T10:42:38.241663+00:00"
+  },
+  {
+    "id": "f412430b-3e8a-45ec-95fe-1b870bbdb7b5",
+    "user_id": "784cf1a0-c601-45e2-a467-5e61b2ae3c5e",
+    "role": "user",
+    "created_at": "2026-03-31T10:42:59.729292+00:00"
+  },
+  {
+    "id": "93fae99b-a05c-467f-ae05-132a6a69dc2e",
+    "user_id": "a48cc1df-408a-4a0b-9e08-e1412f87f786",
+    "role": "user",
+    "created_at": "2026-03-31T10:59:49.688321+00:00"
+  },
+  {
+    "id": "194bdb61-c558-42a0-a903-9806fbcd9718",
+    "user_id": "b25635a2-00e6-48b5-9dfe-10c9e9b9bdd0",
+    "role": "user",
+    "created_at": "2026-03-31T15:38:09.436007+00:00"
+  },
+  {
+    "id": "0da6ffea-4361-49f2-af8c-f553c18e347b",
+    "user_id": "24471905-5eb5-49b0-b614-de03adeef34c",
+    "role": "user",
+    "created_at": "2026-03-31T17:24:52.818025+00:00"
+  },
+  {
+    "id": "9ec60f64-1b0f-4ac8-b3f9-b200c7e9ede8",
+    "user_id": "4cc8b23c-b330-40f4-ac7b-3086f95be7c7",
+    "role": "user",
+    "created_at": "2026-03-31T17:35:32.55073+00:00"
+  },
+  {
+    "id": "fdebc2c1-6bbf-4d76-9f69-bb279c3e758b",
+    "user_id": "cbfc3a66-75ce-4527-bd67-b11a9e524bd4",
+    "role": "user",
+    "created_at": "2026-03-31T18:11:53.979989+00:00"
+  },
+  {
+    "id": "6c1fee72-e05c-40eb-a371-e6507a404120",
+    "user_id": "f342b37e-25ce-42f5-b24a-66a6d1a849d1",
+    "role": "user",
+    "created_at": "2026-03-31T18:15:36.631027+00:00"
+  },
+  {
+    "id": "86e1e9b8-2b65-4f23-b32d-89e4d89dc38d",
+    "user_id": "42c06c56-ff61-4d86-9112-db794c843005",
+    "role": "user",
+    "created_at": "2026-03-31T19:28:04.224967+00:00"
+  },
+  {
+    "id": "79cc1775-a642-4151-8e60-bc4ed1608cab",
+    "user_id": "da4656c4-72c1-4481-b8df-fa79b737caaa",
+    "role": "user",
+    "created_at": "2026-04-01T11:03:48.829915+00:00"
+  },
+  {
+    "id": "b3081135-1434-49ee-8639-6373836e30eb",
+    "user_id": "0267be19-e5e1-43d4-b0b5-4cea8546f492",
+    "role": "user",
+    "created_at": "2026-04-01T11:04:28.731192+00:00"
+  },
+  {
+    "id": "959f6d4d-1c64-4ea3-992f-6b4492a1e064",
+    "user_id": "83cf7518-0324-44db-9dc5-0b85934eafac",
+    "role": "user",
+    "created_at": "2026-04-01T14:33:12.392552+00:00"
+  },
+  {
+    "id": "ac0f03d5-2023-43db-acec-6c1468677030",
+    "user_id": "c3cbea6f-0435-4275-82f1-09a0739956c6",
+    "role": "user",
+    "created_at": "2026-04-01T14:36:33.623514+00:00"
+  },
+  {
+    "id": "0b2ee25e-437d-4239-977c-abcc30817185",
+    "user_id": "38a1b4a6-2c5e-4767-99ce-fa623323d981",
+    "role": "user",
+    "created_at": "2026-04-01T14:36:37.871422+00:00"
+  },
+  {
+    "id": "78f07a70-6b42-40b5-8a6f-865408850d16",
+    "user_id": "12fa58aa-aaf9-43fc-aa3f-492d402ff506",
+    "role": "user",
+    "created_at": "2026-04-01T15:44:45.534871+00:00"
+  },
+  {
+    "id": "68a98c41-fcac-41f3-8ef6-75a2b9b1a43a",
+    "user_id": "ab79dc55-c49b-4e29-aff0-a50dea8168ea",
+    "role": "user",
+    "created_at": "2026-04-01T19:24:50.294112+00:00"
+  },
+  {
+    "id": "5ce2fffa-dfe2-4940-9de3-ca826adffc8f",
+    "user_id": "87a0c50f-4fa6-42b0-be8e-4820524751fc",
+    "role": "user",
+    "created_at": "2026-04-01T19:37:18.110008+00:00"
+  },
+  {
+    "id": "1767fff9-d54f-4740-8ec9-4845545aafdf",
+    "user_id": "9c20df89-ab0f-45f0-8cae-0e877bf52f2b",
+    "role": "user",
+    "created_at": "2026-04-01T19:37:53.087731+00:00"
+  },
+  {
+    "id": "7f5045a1-a183-4277-9cc8-79a72e5afff0",
+    "user_id": "a8a854d3-f709-419f-9e10-f0d81d14b9f5",
+    "role": "user",
+    "created_at": "2026-04-01T21:26:16.504825+00:00"
+  },
+  {
+    "id": "14f10b6a-97b2-47e1-954c-a0743415204a",
+    "user_id": "c499fc20-b9c6-44b2-9ca9-40317bf9fd24",
+    "role": "user",
+    "created_at": "2026-04-01T21:50:44.65003+00:00"
+  },
+  {
+    "id": "0ed259fb-f6c0-43ee-86ee-59f4b4fd0ad4",
+    "user_id": "9ba99180-2673-4932-8930-58b670714eae",
+    "role": "user",
+    "created_at": "2026-04-01T22:14:16.878254+00:00"
+  },
+  {
+    "id": "42ba1925-1110-4779-b89f-ac5fa344afe1",
+    "user_id": "15fbe776-28e9-48bf-adea-5146012956f8",
+    "role": "user",
+    "created_at": "2026-04-01T22:17:22.353846+00:00"
+  },
+  {
+    "id": "f1b00071-f2f3-4cf9-853b-7c90b3bfb102",
+    "user_id": "894adb73-b162-48d9-9c0e-426210915681",
+    "role": "user",
+    "created_at": "2026-04-01T22:49:17.048688+00:00"
+  },
+  {
+    "id": "1a989919-f524-4d84-90d4-407b79be124c",
+    "user_id": "7534d6da-52b6-4950-8088-bb8ad390b77b",
+    "role": "user",
+    "created_at": "2026-04-02T10:42:43.914154+00:00"
+  },
+  {
+    "id": "b7803a21-6581-454e-85a5-1ef8a313d93a",
+    "user_id": "6c0b0bac-cb9a-47ff-a753-87319b0e8e64",
+    "role": "user",
+    "created_at": "2026-04-02T10:53:39.244149+00:00"
+  },
+  {
+    "id": "3cf3980f-8f8f-47b9-a45f-27ebd59aafe5",
+    "user_id": "5423167d-6f72-4bfd-ae29-caf24885f34c",
+    "role": "user",
+    "created_at": "2026-04-02T11:26:34.726297+00:00"
+  },
+  {
+    "id": "df556446-a40c-4ea0-acbc-1288b68c488a",
+    "user_id": "24e42973-83ba-426a-abda-50e24132389a",
+    "role": "user",
+    "created_at": "2026-04-02T12:34:24.709903+00:00"
+  },
+  {
+    "id": "cfd005e4-6095-40a2-8fe5-11ee3aee31b5",
+    "user_id": "d20862e2-f5bc-42d2-9ff4-23d838075c03",
+    "role": "user",
+    "created_at": "2026-04-02T15:13:29.935569+00:00"
+  },
+  {
+    "id": "3d381f65-9d1e-4391-ad51-20a6986ed730",
+    "user_id": "8987bee4-1016-4ab5-87af-fe47c31c5ae9",
+    "role": "user",
+    "created_at": "2026-04-02T15:13:30.247931+00:00"
+  },
+  {
+    "id": "34a33366-ca98-4109-9b82-77ff40652151",
+    "user_id": "3ba3a96a-98b0-4d06-b35e-326dfca0d82b",
+    "role": "user",
+    "created_at": "2026-04-02T15:16:49.422224+00:00"
+  },
+  {
+    "id": "f74fc085-50ef-4b06-a62e-cd8b0726dd5f",
+    "user_id": "36f4e03b-0688-4f05-82eb-4c63d04f0c5e",
+    "role": "user",
+    "created_at": "2026-04-02T15:17:05.072373+00:00"
+  },
+  {
+    "id": "10477ef6-0751-4404-97a4-7f873cc2304b",
+    "user_id": "58525637-ca78-4b01-88b9-95f5b9cbbd9c",
+    "role": "user",
+    "created_at": "2026-04-02T15:23:14.306722+00:00"
+  },
+  {
+    "id": "adfb910e-ec15-43c9-ae3d-3dd630410de1",
+    "user_id": "a23f0023-c641-475a-8354-31267b0b8b0e",
+    "role": "user",
+    "created_at": "2026-04-02T15:28:15.765758+00:00"
+  },
+  {
+    "id": "27634ebe-4280-44aa-af13-6a98a42ced18",
+    "user_id": "fe854f57-69c1-426c-89cf-3666d6ab4580",
+    "role": "user",
+    "created_at": "2026-04-02T15:48:12.564074+00:00"
+  },
+  {
+    "id": "2188d3f1-d169-4952-93bb-20031524aff4",
+    "user_id": "a55f000a-f5bb-4b61-857b-0a4a1992a8ae",
+    "role": "user",
+    "created_at": "2026-04-02T16:19:57.523541+00:00"
+  },
+  {
+    "id": "169a8558-5868-4379-95ae-c9a07e0f5d0d",
+    "user_id": "d2e96fb1-8eed-4e79-a844-0e87f92d7db2",
+    "role": "user",
+    "created_at": "2026-04-02T18:31:35.006526+00:00"
+  },
+  {
+    "id": "9d526b9d-d298-4673-b2c4-7bf27d300932",
+    "user_id": "3ed6c277-5d56-4cae-9240-48860b9df743",
+    "role": "user",
+    "created_at": "2026-04-02T18:31:52.181345+00:00"
+  },
+  {
+    "id": "d78e8bdc-626f-4545-a8a1-69ee32841b3b",
+    "user_id": "7c654d0c-ca03-45e7-9502-a1e5c784b6be",
+    "role": "user",
+    "created_at": "2026-04-02T18:34:10.063615+00:00"
+  },
+  {
+    "id": "d0ec58c5-0d00-4f5b-9d31-be570a93592c",
+    "user_id": "a6b1a36f-c240-49da-9dcc-59057e3f517d",
+    "role": "user",
+    "created_at": "2026-04-02T19:13:57.170914+00:00"
+  },
+  {
+    "id": "595e67ca-42d6-4b2f-8c6d-09096fe6e974",
+    "user_id": "0cfc0e88-6c70-4c4d-a51b-c215bb313e3f",
+    "role": "user",
+    "created_at": "2026-04-02T19:53:38.879043+00:00"
+  },
+  {
+    "id": "e692d455-60b0-44e5-9fad-e1d4e9656723",
+    "user_id": "fa1d8e9a-81bd-438e-aea8-b583f9ea9e52",
+    "role": "user",
+    "created_at": "2026-04-02T22:11:40.448214+00:00"
+  },
+  {
+    "id": "b9005b12-37cb-471b-8499-3401b2019e81",
+    "user_id": "179ef4f8-5707-4029-a29b-878b1a3e2fe0",
+    "role": "user",
+    "created_at": "2026-04-02T22:13:00.881203+00:00"
+  },
+  {
+    "id": "d432ccb9-5e7f-43e8-a6f6-1390de48425b",
+    "user_id": "9bb75d1b-4d1c-427b-a9cc-6c4ae2b011f7",
+    "role": "user",
+    "created_at": "2026-04-02T22:14:05.626165+00:00"
+  },
+  {
+    "id": "41a005c1-5ffe-4536-ac79-0af07a2186ec",
+    "user_id": "0b07bf4a-6c68-4818-b00b-d845d554bffa",
+    "role": "user",
+    "created_at": "2026-04-02T22:14:16.289481+00:00"
+  },
+  {
+    "id": "0c7c64e0-be5d-478d-ac92-568dacbcf574",
+    "user_id": "9a184a28-4c9a-436a-86a3-d25e5fb96993",
+    "role": "user",
+    "created_at": "2026-04-02T22:15:46.600041+00:00"
+  },
+  {
+    "id": "9b18f5aa-f182-4ec6-b3cf-7c7917c05eef",
+    "user_id": "be5653f7-4b9e-4c2d-a0e9-f6f9ecd0ae8c",
+    "role": "user",
+    "created_at": "2026-04-02T22:16:55.14424+00:00"
+  },
+  {
+    "id": "ee9aeaab-d6a3-413d-9914-9266afe58166",
+    "user_id": "f3c26be3-fb1e-40d0-ba6f-87c62e886946",
+    "role": "user",
+    "created_at": "2026-04-02T22:19:48.231672+00:00"
+  },
+  {
+    "id": "ef1074c1-f957-4bf3-8ef1-77ba49fc28d3",
+    "user_id": "bd71d8b8-f955-46e2-8a24-dc50ff9d291a",
+    "role": "user",
+    "created_at": "2026-04-02T22:29:39.831121+00:00"
+  },
+  {
+    "id": "d9c63845-e8d6-474f-a31b-160555d65f35",
+    "user_id": "267fa344-c493-4f47-be76-f5fb682222fc",
+    "role": "user",
+    "created_at": "2026-04-02T22:30:28.878163+00:00"
+  },
+  {
+    "id": "9dead199-339b-4e7b-ae44-24e850faf070",
+    "user_id": "7ff88f34-86b6-4812-960d-e1727c60e491",
+    "role": "user",
+    "created_at": "2026-04-02T22:32:53.23429+00:00"
+  },
+  {
+    "id": "e89b10ff-9c0e-469b-bb7e-16f84cde98f7",
+    "user_id": "d6f3b32a-d3bc-4436-b91b-3c5ffa35554b",
+    "role": "user",
+    "created_at": "2026-04-03T09:27:20.478783+00:00"
+  },
+  {
+    "id": "65571d8e-a41f-4190-97a1-af95109c3771",
+    "user_id": "a2cfa4d4-9cbd-403a-b6c5-1385d8b12cd9",
+    "role": "user",
+    "created_at": "2026-04-04T10:51:25.528238+00:00"
+  },
+  {
+    "id": "6a14a25c-efff-435a-a546-3703c62aab0c",
+    "user_id": "3f14856c-394c-45ef-9865-d1a06bf99859",
+    "role": "user",
+    "created_at": "2026-04-04T10:53:56.457068+00:00"
+  },
+  {
+    "id": "ff5d6dc7-f9e8-4c05-9c00-4909cb1abb77",
+    "user_id": "f7339ff5-4ff0-44b5-a546-8309bdd0d20e",
+    "role": "user",
+    "created_at": "2026-04-04T10:57:37.165218+00:00"
+  },
+  {
+    "id": "5cf0e841-fb3b-4f8c-99d5-0ad54f9a3e4a",
+    "user_id": "2b2c46d8-7703-4df5-b075-cf5c2ee9e1ee",
+    "role": "user",
+    "created_at": "2026-04-04T12:09:16.696688+00:00"
+  },
+  {
+    "id": "74fbce86-fcde-4eef-ba33-dcad58dc5756",
+    "user_id": "94226e56-2ecd-48cf-bae1-56c3ef7c1ca5",
+    "role": "user",
+    "created_at": "2026-04-04T15:18:53.470637+00:00"
+  },
+  {
+    "id": "edd7df62-e8e8-44c2-8db2-1728559b6a4d",
+    "user_id": "7bfe9675-de2a-427b-a40a-e37d04234f4b",
+    "role": "user",
+    "created_at": "2026-04-05T15:19:35.480526+00:00"
+  },
+  {
+    "id": "d4c6935a-1585-4054-968e-3901efb3d091",
+    "user_id": "d850191e-f8e7-4e3b-8127-38490eeb5c9e",
+    "role": "user",
+    "created_at": "2026-04-06T10:50:50.125309+00:00"
+  },
+  {
+    "id": "2f1741a0-7a65-4213-a53d-534d1900b330",
+    "user_id": "54e511ef-76a3-45ef-8996-4cc8139fe8c8",
+    "role": "user",
+    "created_at": "2026-04-06T13:12:47.916417+00:00"
+  },
+  {
+    "id": "e430e0cd-cbb6-4a93-bffd-8d5435ab0c1c",
+    "user_id": "13690db3-f768-4ef9-bd80-c4e705b4222e",
+    "role": "user",
+    "created_at": "2026-04-06T13:21:40.287156+00:00"
+  },
+  {
+    "id": "895cfd9c-4f7c-495c-81a5-b235f2048c74",
+    "user_id": "76fd6300-980a-41f3-8c11-79fd98fad178",
+    "role": "user",
+    "created_at": "2026-04-06T13:25:30.590966+00:00"
+  },
+  {
+    "id": "d491283b-70da-4c3b-a8a3-8e60f5b968d1",
+    "user_id": "b7bfa1e7-949d-45ea-880d-305edd32b3f2",
+    "role": "user",
+    "created_at": "2026-04-06T13:27:12.496425+00:00"
+  },
+  {
+    "id": "c3df3038-694d-4ad9-98bc-529793ba55a9",
+    "user_id": "c40e37d5-2dea-4ebc-a74b-00d1164afcf6",
+    "role": "user",
+    "created_at": "2026-04-06T15:01:22.680769+00:00"
+  },
+  {
+    "id": "93667266-35e3-4558-ac5b-3b1299b464fb",
+    "user_id": "d482da7d-6f14-475d-860f-63bbadc24a34",
+    "role": "user",
+    "created_at": "2026-04-06T15:24:02.547147+00:00"
+  },
+  {
+    "id": "6f1c570b-29bd-40a4-acc3-e45f0dc676fd",
+    "user_id": "6bd11861-eb34-440a-ae2e-d1723936dafd",
+    "role": "user",
+    "created_at": "2026-04-06T15:25:02.628461+00:00"
+  },
+  {
+    "id": "89954613-8807-4d3d-a790-6befd8b4502a",
+    "user_id": "63b80a13-26b8-47b1-9c62-ff09875598a7",
+    "role": "user",
+    "created_at": "2026-04-06T15:35:23.518732+00:00"
+  },
+  {
+    "id": "726560ab-b0fb-4051-a559-3dae2226f80b",
+    "user_id": "1839591d-ade0-4f52-86e7-49bc38ef2da6",
+    "role": "user",
+    "created_at": "2026-04-06T15:40:08.686864+00:00"
+  },
+  {
+    "id": "616de26f-6910-4393-ba02-479222ab18d3",
+    "user_id": "338ec053-ac1e-4679-82c5-b0abb5bf4baa",
+    "role": "user",
+    "created_at": "2026-04-06T16:01:05.342203+00:00"
+  },
+  {
+    "id": "c5d81823-38aa-488d-9944-e60c2748c58e",
+    "user_id": "5cb0f06a-1691-49c7-9013-96695a6d72b3",
+    "role": "user",
+    "created_at": "2026-04-06T16:40:41.696842+00:00"
+  },
+  {
+    "id": "368bdcd1-ad50-4b19-b7a9-2ac2a14ede98",
+    "user_id": "f8c702ca-e298-4d1b-8c91-185ad9d9d1f3",
+    "role": "user",
+    "created_at": "2026-04-06T18:07:56.448363+00:00"
+  },
+  {
+    "id": "bb2286f7-1bdd-4518-af6a-ef93fa6c6025",
+    "user_id": "54fbcd2f-c9f0-44f6-9b24-cb855974d2b5",
+    "role": "user",
+    "created_at": "2026-04-06T19:50:44.504217+00:00"
+  },
+  {
+    "id": "2c2d6a9d-ee5a-4cc8-abce-643e2abc570e",
+    "user_id": "8ca61ef9-5203-4dc6-82b7-b80baa39016f",
+    "role": "user",
+    "created_at": "2026-04-06T20:42:24.638433+00:00"
+  },
+  {
+    "id": "e5027aad-b78c-436a-89e9-639db4c4dbfa",
+    "user_id": "a615eaaa-291e-4984-a9e0-bd348f5b8cd3",
+    "role": "user",
+    "created_at": "2026-04-06T21:02:31.42291+00:00"
+  },
+  {
+    "id": "9fce1e61-b36b-4348-a9c7-5c8217f0e003",
+    "user_id": "73ba83d0-2451-45fc-a843-43f61926251a",
+    "role": "user",
+    "created_at": "2026-04-06T21:18:53.884871+00:00"
+  },
+  {
+    "id": "2522b0bf-3c15-475a-ac00-2df1c13b376f",
+    "user_id": "df741ca2-f782-4ef8-8b94-287dd69e4d94",
+    "role": "user",
+    "created_at": "2026-04-06T21:47:02.160519+00:00"
+  },
+  {
+    "id": "e256388d-81ca-4e84-9562-eaeb010ca93d",
+    "user_id": "35efd3e1-1511-47f0-8800-ab6c23734c50",
+    "role": "user",
+    "created_at": "2026-04-06T22:55:42.635802+00:00"
+  },
+  {
+    "id": "36ec6375-13b7-4587-8894-27be3647c73e",
+    "user_id": "ce7dfe51-1b30-408e-a170-0ac679be73a9",
+    "role": "user",
+    "created_at": "2026-04-06T22:59:29.653195+00:00"
+  },
+  {
+    "id": "fbd1928c-9c1a-4ac4-bb44-cd3c74a522d0",
+    "user_id": "f8e912be-486d-4e1b-a4e4-63ccce77da9c",
+    "role": "user",
+    "created_at": "2026-04-06T23:00:00.849477+00:00"
+  },
+  {
+    "id": "fcff1cfb-8821-4390-b7dc-0599a9f7c55d",
+    "user_id": "0df4d823-c2b3-48e5-960d-9d958c575e4f",
+    "role": "user",
+    "created_at": "2026-04-06T23:18:53.462163+00:00"
+  },
+  {
+    "id": "9bd5b0e5-1e64-4f6c-99c2-1f3ea175fe09",
+    "user_id": "5cefd90b-6bc4-40d2-b999-1516d5e03fcd",
+    "role": "user",
+    "created_at": "2026-04-07T02:47:54.830129+00:00"
+  },
+  {
+    "id": "69ca570a-c897-4eda-a6cc-616a379e5dc1",
+    "user_id": "874b1b19-bdf3-4065-9f7d-9a4480ad441d",
+    "role": "afiliado",
+    "created_at": "2026-04-07T03:54:30.623442+00:00"
+  },
+  {
+    "id": "10cdbf67-e246-4262-a941-58ee5b1f6093",
+    "user_id": "9a65eb6e-2f06-4d87-8f6a-986dcddd946d",
+    "role": "user",
+    "created_at": "2026-04-07T10:49:41.949227+00:00"
+  },
+  {
+    "id": "d1a2bfaa-9eb8-436c-b683-dbfd3f3747d5",
+    "user_id": "bd134ccb-af45-4854-9f17-a30c062228c3",
+    "role": "user",
+    "created_at": "2026-04-07T11:08:12.51221+00:00"
+  },
+  {
+    "id": "336c6fd2-cfb9-456b-b7a8-898199baf2d2",
+    "user_id": "25ef0cf6-1538-4b22-9bf2-d91338acf35b",
+    "role": "user",
+    "created_at": "2026-04-07T11:25:46.603681+00:00"
+  },
+  {
+    "id": "ae0502b1-862e-4849-8ee9-1c8517cb864c",
+    "user_id": "72704f34-797b-41a0-b738-0f9a0e736de6",
+    "role": "user",
+    "created_at": "2026-04-07T15:00:08.301507+00:00"
+  },
+  {
+    "id": "a4f76887-a5e0-4cba-9f44-5f3b964c55e9",
+    "user_id": "eee8b99f-ed5f-470d-b2ea-c409b12f37cf",
+    "role": "user",
+    "created_at": "2026-04-07T15:05:03.161418+00:00"
+  },
+  {
+    "id": "1692b5d5-970c-4453-89b7-3d84de18e132",
+    "user_id": "5be3ec71-4cd2-4844-afb8-6c2d8e40b0a6",
+    "role": "user",
+    "created_at": "2026-04-07T15:38:31.55452+00:00"
+  },
+  {
+    "id": "f629563b-5fbd-4267-951c-29c3a637a5bc",
+    "user_id": "7051a4f1-00de-478f-8d7a-b6e2a4beb696",
+    "role": "user",
+    "created_at": "2026-04-07T16:18:28.758151+00:00"
+  },
+  {
+    "id": "c0f5f3cd-0e92-4034-9bea-07162ce8ec1c",
+    "user_id": "9566398f-c2bb-4f74-8d74-7bbd27bb3aec",
+    "role": "user",
+    "created_at": "2026-04-07T16:31:20.040699+00:00"
+  },
+  {
+    "id": "a176dac8-a900-42ef-9054-170ff5ad0970",
+    "user_id": "fb0d06e5-6098-44b7-8369-639cd9d87ebe",
+    "role": "user",
+    "created_at": "2026-04-07T18:38:50.475127+00:00"
+  },
+  {
+    "id": "b68755ba-557b-40c8-8c0c-a8f369b6ab6a",
+    "user_id": "ac531cd3-99dc-450d-9b86-a0780dfc4280",
+    "role": "user",
+    "created_at": "2026-04-07T18:40:59.930423+00:00"
+  },
+  {
+    "id": "0146ffa4-d958-4cb9-9c26-91f819bda4dd",
+    "user_id": "5dc1f9a6-b3c3-4ae0-861a-0f9d8976bca0",
+    "role": "user",
+    "created_at": "2026-04-07T18:48:15.948672+00:00"
+  },
+  {
+    "id": "36f09cd6-2a74-4231-a374-2d2d3ab8e42d",
+    "user_id": "e9b460ed-3386-4029-8347-b278c2ddd31e",
+    "role": "user",
+    "created_at": "2026-04-07T18:52:48.488589+00:00"
+  },
+  {
+    "id": "d1e0b4f6-9d80-4910-aa63-8436dc1a619e",
+    "user_id": "0a1e5af2-4d2a-4cc7-8fbc-813c23382270",
+    "role": "user",
+    "created_at": "2026-04-07T18:53:25.107704+00:00"
+  },
+  {
+    "id": "d7fa729d-efc0-4312-b875-b9b18c8a4c64",
+    "user_id": "7b4764a2-e7b0-4470-836e-60bc1d9c6ef1",
+    "role": "user",
+    "created_at": "2026-04-07T18:53:36.049286+00:00"
+  },
+  {
+    "id": "8b1a73a1-e551-4e23-8bf0-06feff2a47fc",
+    "user_id": "e9060430-d2d1-41a2-b1c0-5d8c317a8dcd",
+    "role": "user",
+    "created_at": "2026-04-07T19:04:02.657208+00:00"
+  },
+  {
+    "id": "ca00bc34-b1ee-4017-a378-b8cb47f5ee1d",
+    "user_id": "2c06e885-7046-4e74-b53e-dc32f7f86960",
+    "role": "user",
+    "created_at": "2026-04-07T19:10:18.020301+00:00"
+  },
+  {
+    "id": "d709b109-e09b-44ee-b211-ea88a2b3b5fc",
+    "user_id": "364ac690-7f7e-42a1-b144-86a9d6b4e135",
+    "role": "user",
+    "created_at": "2026-04-07T19:33:19.39988+00:00"
+  },
+  {
+    "id": "cd2f4ec0-10da-4608-8f56-32d26938fe0c",
+    "user_id": "7bb3a2c6-03be-4fba-9f6b-193aa4bc3aa7",
+    "role": "user",
+    "created_at": "2026-04-07T23:07:23.130129+00:00"
+  },
+  {
+    "id": "bd5996ba-afd1-45de-a615-1f5f10b1dd4d",
+    "user_id": "ff253f42-8cc0-40e1-8ba6-0c6fc8cc7977",
+    "role": "user",
+    "created_at": "2026-04-07T23:07:34.011604+00:00"
+  },
+  {
+    "id": "148773a8-82c5-42e6-8890-aaa18bbb7a4b",
+    "user_id": "5f26154c-dead-4c83-b3f6-b7fc0d878dd8",
+    "role": "user",
+    "created_at": "2026-04-07T23:08:04.845244+00:00"
+  },
+  {
+    "id": "07c955f6-d139-401a-94eb-31b60f1db488",
+    "user_id": "0ff000fc-426d-49b1-a199-721a5282b821",
+    "role": "user",
+    "created_at": "2026-04-07T23:14:46.195258+00:00"
+  },
+  {
+    "id": "87f7af2e-e4e6-4cfa-95ee-05391305fc2f",
+    "user_id": "463aca82-12e9-41d4-9002-50a5fd92f563",
+    "role": "user",
+    "created_at": "2026-04-07T23:25:34.020668+00:00"
+  },
+  {
+    "id": "d50f0314-51cd-4920-bfec-f00a32018da3",
+    "user_id": "90be2396-d652-4e56-9208-e6df70fb95d5",
+    "role": "user",
+    "created_at": "2026-04-07T23:46:56.356737+00:00"
+  },
+  {
+    "id": "a850c3df-f9fb-427e-85bb-7a27038ed083",
+    "user_id": "ffb27a7e-1578-475a-90b4-6052de673daf",
+    "role": "user",
+    "created_at": "2026-04-07T23:48:13.141076+00:00"
+  },
+  {
+    "id": "ab10899f-d1df-47ab-a976-2b14c282ac19",
+    "user_id": "9d18f8c7-ad91-462b-8c7e-9061d2f7f3da",
+    "role": "user",
+    "created_at": "2026-04-08T01:58:58.485543+00:00"
+  },
+  {
+    "id": "57cd764e-54c2-47c8-8f65-381d126592b0",
+    "user_id": "5c8bc6ff-f3d1-45e1-b67a-e406d5b3cca2",
+    "role": "user",
+    "created_at": "2026-04-08T10:41:51.609271+00:00"
+  },
+  {
+    "id": "00aa9ce5-cca5-4722-b764-a94b65954181",
+    "user_id": "ac6c6018-2222-4044-9028-89d121d4f6a5",
+    "role": "user",
+    "created_at": "2026-04-08T10:47:09.592481+00:00"
+  },
+  {
+    "id": "f3e9e8ac-8b30-4545-b3e4-ad9fcc349da3",
+    "user_id": "895246d4-aff6-41d9-b279-05d1cc2e2421",
+    "role": "user",
+    "created_at": "2026-04-08T10:48:30.382265+00:00"
+  },
+  {
+    "id": "dbcbaf8e-96ec-4159-acb3-a2263bcf6195",
+    "user_id": "cbb449e7-750b-4669-8c6a-6b60f72656c6",
+    "role": "user",
+    "created_at": "2026-04-08T10:50:18.170384+00:00"
+  },
+  {
+    "id": "2c82c765-1ddc-4031-995b-d3af710da64f",
+    "user_id": "f2745c0e-040d-4e0f-b266-bff9c4d12e63",
+    "role": "user",
+    "created_at": "2026-04-08T12:20:38.373239+00:00"
+  },
+  {
+    "id": "4a10a43c-9d87-4c92-99ec-0703efc1989c",
+    "user_id": "ebb9ade7-ce5a-4144-8f45-0b9db43a3204",
+    "role": "user",
+    "created_at": "2026-04-08T13:59:54.008947+00:00"
+  },
+  {
+    "id": "b5a877e6-a012-4147-be05-77002e8fafc5",
+    "user_id": "f49cc23a-05fa-4a55-b70c-186be85fffd3",
+    "role": "user",
+    "created_at": "2026-04-08T15:53:05.114057+00:00"
+  },
+  {
+    "id": "8f731456-368a-475d-87ad-7b5c4115e1ca",
+    "user_id": "11b8e452-148d-41f0-af96-1cb0ddd989a4",
+    "role": "user",
+    "created_at": "2026-04-08T18:55:38.970773+00:00"
+  },
+  {
+    "id": "7bab394c-eaba-4f2d-8fd3-e4d8f8c55175",
+    "user_id": "e1bb9b92-9474-4807-b987-2ba1dfa64920",
+    "role": "user",
+    "created_at": "2026-04-08T18:58:09.421376+00:00"
+  },
+  {
+    "id": "4fa0e6a2-b495-43d0-aeb2-32d983a65deb",
+    "user_id": "10bdc4f9-6e8b-429c-b972-8f83d826a5e9",
+    "role": "user",
+    "created_at": "2026-04-08T19:01:12.883466+00:00"
+  },
+  {
+    "id": "3e137988-559f-4af1-ad2b-ca5189402c9c",
+    "user_id": "ef05abc2-40f3-4346-afa6-356a4181dba5",
+    "role": "user",
+    "created_at": "2026-04-08T19:05:11.360579+00:00"
+  },
+  {
+    "id": "fc069862-ab30-4d42-923e-795cd34bade3",
+    "user_id": "bfb3faf6-496d-4d49-888e-802e38c71906",
+    "role": "user",
+    "created_at": "2026-04-08T19:49:15.206114+00:00"
+  },
+  {
+    "id": "8e8865fa-1517-48d1-a0c5-c7dc7096a0ea",
+    "user_id": "d9785bd5-4363-4626-bba0-0e027e838051",
+    "role": "user",
+    "created_at": "2026-04-08T20:24:03.344108+00:00"
+  },
+  {
+    "id": "a56650dc-b380-4abd-b372-500773f7ae4c",
+    "user_id": "7376e0cc-4d0e-4682-84cb-ffe7005ba3f8",
+    "role": "user",
+    "created_at": "2026-04-08T20:45:21.527214+00:00"
+  },
+  {
+    "id": "81217cf9-db5b-498d-81a0-4d2dc38a0194",
+    "user_id": "ef82c7b3-9612-4e13-ad50-b1103541617c",
+    "role": "user",
+    "created_at": "2026-04-08T20:48:38.113186+00:00"
+  },
+  {
+    "id": "d7d430d7-7131-4344-b73c-afb0cd51c9f7",
+    "user_id": "d4aee811-eb97-4593-bcec-c7a7e615b23a",
+    "role": "user",
+    "created_at": "2026-04-08T20:56:25.225089+00:00"
+  },
+  {
+    "id": "5fc8d260-ba43-480f-8ef1-5f231d728bc2",
+    "user_id": "03beecb7-2418-4c31-84c5-c279c2856cfc",
+    "role": "user",
+    "created_at": "2026-04-08T21:00:45.251137+00:00"
+  },
+  {
+    "id": "ba282ce5-be02-4365-b8c0-1da5d034a43a",
+    "user_id": "cfd9023f-5991-4e5e-9c4c-9ded5ff0e35f",
+    "role": "user",
+    "created_at": "2026-04-08T21:53:34.622273+00:00"
+  },
+  {
+    "id": "69cd358a-e6e7-4b95-8607-ab4c14fc9b46",
+    "user_id": "fbd83a01-c36e-435a-97d6-9d57c4ab6346",
+    "role": "user",
+    "created_at": "2026-04-08T23:18:29.465167+00:00"
+  },
+  {
+    "id": "af886088-e922-4bbe-8724-904d1ec11bf8",
+    "user_id": "0423b458-14bd-4d0c-b3c5-03450e14d227",
+    "role": "user",
+    "created_at": "2026-04-08T23:21:30.235009+00:00"
+  },
+  {
+    "id": "156f5816-9435-420d-98d8-f5efb1404c7e",
+    "user_id": "b3ba852c-03b6-4a74-8dba-8a52a130a85d",
+    "role": "user",
+    "created_at": "2026-04-08T23:24:41.276151+00:00"
+  },
+  {
+    "id": "c6fd0017-15c2-4f8a-b4c4-d2eb8db8a29a",
+    "user_id": "143feafa-fbae-4b26-8eaa-5b9a475f08ae",
+    "role": "user",
+    "created_at": "2026-04-08T23:43:05.093945+00:00"
+  },
+  {
+    "id": "aa01699c-5865-4501-9799-a8800eaec46e",
+    "user_id": "c1457c1b-c53b-47f7-a362-d99295754f55",
+    "role": "user",
+    "created_at": "2026-04-08T23:43:27.668648+00:00"
+  },
+  {
+    "id": "73f99357-e3d6-463e-913f-ce507f3a1998",
+    "user_id": "60d94c1a-c96c-4c97-9e5b-f0e4a3899996",
+    "role": "user",
+    "created_at": "2026-04-09T11:25:54.459673+00:00"
+  },
+  {
+    "id": "97231b43-9f79-4cce-8ddf-93dd815c10f9",
+    "user_id": "995989ec-f25c-4e55-8b94-01683e584dd1",
+    "role": "user",
+    "created_at": "2026-04-09T11:26:32.830872+00:00"
+  },
+  {
+    "id": "59299b22-7fa8-4d78-9db4-b98a2afe5359",
+    "user_id": "5cb142fc-1924-47f3-a7c8-fcb4d12cd872",
+    "role": "user",
+    "created_at": "2026-04-09T11:27:48.219852+00:00"
+  },
+  {
+    "id": "3defd8a6-4b75-44e6-a2a2-ab7b3c425b27",
+    "user_id": "1796af90-756d-4447-8ae1-d1138f6ddc85",
+    "role": "user",
+    "created_at": "2026-04-09T11:37:13.790348+00:00"
+  },
+  {
+    "id": "3be0bfeb-74b1-467a-9079-0beaac8bf82d",
+    "user_id": "f6a85689-a27c-486a-9707-9771df228112",
+    "role": "user",
+    "created_at": "2026-04-09T11:39:22.5907+00:00"
+  },
+  {
+    "id": "1cfc98c3-435c-41d9-a06e-0f6bf0b6f1e7",
+    "user_id": "948c777c-7afb-41dd-b836-0a0c34cc603f",
+    "role": "user",
+    "created_at": "2026-04-09T11:40:48.644148+00:00"
+  },
+  {
+    "id": "dd3a06f7-3173-4799-b895-5e40728426d3",
+    "user_id": "ec51077c-91d6-442c-99e3-401097d48a43",
+    "role": "user",
+    "created_at": "2026-04-09T16:04:25.214011+00:00"
+  },
+  {
+    "id": "5928e154-c401-4ec0-aded-8676dd86da1a",
+    "user_id": "685546d0-9f0a-4029-9748-74bf6d1459f8",
+    "role": "user",
+    "created_at": "2026-04-09T17:59:13.755262+00:00"
+  },
+  {
+    "id": "51451e6e-5204-4820-9499-ce7d00292abc",
+    "user_id": "475d938a-1559-4920-8f72-333206dd5ff6",
+    "role": "user",
+    "created_at": "2026-04-09T17:59:37.091856+00:00"
+  },
+  {
+    "id": "a50c935d-e266-4ef4-a347-a7db2225f08f",
+    "user_id": "156c9684-8453-4ace-b710-718859ced234",
+    "role": "user",
+    "created_at": "2026-04-09T20:59:27.300372+00:00"
+  },
+  {
+    "id": "1ca1b10c-77c0-4c2f-87f4-5a03842eb89c",
+    "user_id": "4b1b201b-4b61-42ff-afa0-01d74e15f51b",
+    "role": "user",
+    "created_at": "2026-04-09T21:07:27.606295+00:00"
+  },
+  {
+    "id": "55c599bb-a33e-48f0-8f32-f1260a50a2a5",
+    "user_id": "5bbe7554-80bb-4794-ba96-b7e28bfb5553",
+    "role": "user",
+    "created_at": "2026-04-09T21:11:39.150177+00:00"
+  },
+  {
+    "id": "e88f91ea-f9a2-4b9c-b817-478944c41d99",
+    "user_id": "b7473443-7577-4b56-9b7b-3aa99cc400f6",
+    "role": "user",
+    "created_at": "2026-04-09T21:13:51.187739+00:00"
+  },
+  {
+    "id": "92b414b7-0f7d-406a-9c82-b40306414b9c",
+    "user_id": "29a7a39d-e08a-4314-aacf-43ce07405887",
+    "role": "user",
+    "created_at": "2026-04-10T00:25:42.019551+00:00"
+  },
+  {
+    "id": "1052d48c-5af6-42d8-9555-2bfaf7fd6e88",
+    "user_id": "7cec0fd0-ffe9-4dc8-8f19-662adc37d5a0",
+    "role": "user",
+    "created_at": "2026-04-10T11:40:14.830319+00:00"
+  },
+  {
+    "id": "48f305ed-8b9c-4a92-843d-281e3aa4ff45",
+    "user_id": "d8a2eccb-f33e-4274-b5de-4b34947fb1a0",
+    "role": "user",
+    "created_at": "2026-04-10T15:37:09.024721+00:00"
+  },
+  {
+    "id": "2b83a239-a965-49b5-a843-f0b89267e2bb",
+    "user_id": "83c2a243-80db-41bf-9d97-59518113e09f",
+    "role": "user",
+    "created_at": "2026-04-10T15:42:35.122183+00:00"
+  },
+  {
+    "id": "a503e54d-e30e-43c1-971c-f8be4fab98fa",
+    "user_id": "c2721bcd-957b-453a-a031-a612bddc3636",
+    "role": "user",
+    "created_at": "2026-04-10T16:00:59.770653+00:00"
+  },
+  {
+    "id": "0f5e8346-38fc-49ad-b586-6e1a8266b018",
+    "user_id": "963c591f-26b7-4bb6-9e47-6f6a4df80be0",
+    "role": "user",
+    "created_at": "2026-04-10T16:02:24.10227+00:00"
+  },
+  {
+    "id": "17776374-c0e8-4721-b7d1-366f884cbf8b",
+    "user_id": "573053ce-6c6f-46dd-bd87-3374047b9980",
+    "role": "user",
+    "created_at": "2026-04-10T18:34:00.719931+00:00"
+  },
+  {
+    "id": "6a053c48-43ae-4cfe-a4e1-7749b77563dc",
+    "user_id": "1f8d7154-9e92-4068-a7c8-8b1ad957e147",
+    "role": "user",
+    "created_at": "2026-04-10T18:48:04.588843+00:00"
+  },
+  {
+    "id": "18f6a48f-d421-4b0b-923d-7b17c7c6b588",
+    "user_id": "996d7cad-6767-4e29-a8ac-1dc51d82b2d1",
+    "role": "user",
+    "created_at": "2026-04-10T20:14:47.965121+00:00"
+  },
+  {
+    "id": "d5ea76b1-ed39-4c83-a675-f7eab73b31e0",
+    "user_id": "e89cde5d-6b87-47a9-8248-18f8746871ee",
+    "role": "user",
+    "created_at": "2026-04-10T20:24:44.548909+00:00"
+  },
+  {
+    "id": "f62fbaf8-89e4-4f51-9b0f-1cc986570198",
+    "user_id": "27b5593f-3893-40db-b516-da3bf4378c8a",
+    "role": "user",
+    "created_at": "2026-04-10T20:37:32.675837+00:00"
+  },
+  {
+    "id": "ab54ebcc-2ba7-4ea5-b0da-63b4203a1033",
+    "user_id": "587f9116-0aca-4fbe-95db-e5790358d87d",
+    "role": "user",
+    "created_at": "2026-04-10T20:37:59.082378+00:00"
+  },
+  {
+    "id": "0700b598-e439-470e-b783-03036905383c",
+    "user_id": "eea9b891-dc5d-4754-b747-2d1d492cf386",
+    "role": "user",
+    "created_at": "2026-04-11T03:13:38.347273+00:00"
+  },
+  {
+    "id": "a0c85f3e-b85e-4738-a0f4-4caa2ee8340a",
+    "user_id": "d39fefe5-ead2-48d0-887c-51838a4ef322",
+    "role": "user",
+    "created_at": "2026-04-11T18:06:20.496262+00:00"
+  },
+  {
+    "id": "7031cc68-543a-4096-9092-9b95958ecd62",
+    "user_id": "a28b707b-af50-4a7f-80ba-81d1578bf6d8",
+    "role": "user",
+    "created_at": "2026-04-12T16:46:08.532682+00:00"
+  },
+  {
+    "id": "cc091826-1d88-4b98-aefd-a0dcc3d3711c",
+    "user_id": "f1687784-29a1-427d-9cce-2ced381edade",
+    "role": "user",
+    "created_at": "2026-04-12T19:15:17.48284+00:00"
+  },
+  {
+    "id": "d325f28f-8cf2-42df-8aa6-f30950f024e8",
+    "user_id": "83220933-1bc2-4d5a-8967-1d2529a373e9",
+    "role": "user",
+    "created_at": "2026-04-12T20:33:22.164114+00:00"
+  },
+  {
+    "id": "57720994-99b4-4247-a52e-448fb7f48003",
+    "user_id": "c8ff4a44-9299-438a-9846-daa89a7a12f6",
+    "role": "user",
+    "created_at": "2026-04-12T20:41:03.612453+00:00"
+  },
+  {
+    "id": "056d5bd1-c6bd-45a7-a376-111452093ad8",
+    "user_id": "3a29d1f7-bb84-47c2-9d71-1fe2cbd922d6",
+    "role": "user",
+    "created_at": "2026-04-13T00:54:32.360029+00:00"
+  },
+  {
+    "id": "b4c4ea9e-c99f-4765-a791-d6d20571dc4a",
+    "user_id": "af183385-49e6-491c-8006-b3586b42942b",
+    "role": "user",
+    "created_at": "2026-04-13T00:58:25.269574+00:00"
+  },
+  {
+    "id": "7b13d79f-b4db-4d6e-98f2-0523de5e695a",
+    "user_id": "bd97e9b3-71ab-4b91-9da8-a770ef821f11",
+    "role": "user",
+    "created_at": "2026-04-13T01:00:45.33283+00:00"
+  },
+  {
+    "id": "0d3aced5-c043-485c-bf08-8cc031dddbf2",
+    "user_id": "7da554a5-454d-43b6-ba06-b20268a320d9",
+    "role": "user",
+    "created_at": "2026-04-13T10:36:06.25161+00:00"
+  },
+  {
+    "id": "8c074cd1-2a57-4131-9cb3-2c4ceee58f4a",
+    "user_id": "a098c13b-3f90-4d21-a91d-0b171a9ad4ba",
+    "role": "user",
+    "created_at": "2026-04-13T10:39:03.029234+00:00"
+  },
+  {
+    "id": "a9191431-5bec-4f66-841a-7582249c9847",
+    "user_id": "81b05c6d-f8a9-4db9-932a-9681d52cf89d",
+    "role": "user",
+    "created_at": "2026-04-13T10:45:44.377046+00:00"
+  },
+  {
+    "id": "4dc89b11-6bb4-40f1-9b90-b30739e0d084",
+    "user_id": "b29973a9-a18f-47b0-a8ac-ae418e353621",
+    "role": "user",
+    "created_at": "2026-04-13T10:49:57.88371+00:00"
+  },
+  {
+    "id": "e14f3eb8-1f0d-4343-a7ed-9e5d9654f415",
+    "user_id": "59862b15-7183-4523-a07d-4544314112f2",
+    "role": "user",
+    "created_at": "2026-04-13T10:57:23.199315+00:00"
+  },
+  {
+    "id": "3d3430b0-7bff-4b91-aeb9-a35d2cb3a25d",
+    "user_id": "c6397f5e-506a-4a86-a855-8e2af700857a",
+    "role": "user",
+    "created_at": "2026-04-13T11:14:47.691821+00:00"
+  },
+  {
+    "id": "38dd102d-bbe9-4e13-b898-a3b395eb28ec",
+    "user_id": "39da69da-1744-4420-a01e-7a943e9ba3e1",
+    "role": "user",
+    "created_at": "2026-04-13T14:05:03.491954+00:00"
+  },
+  {
+    "id": "b2dccc08-08c5-4016-8565-466d5f4072a6",
+    "user_id": "483f3ba3-33a9-43bd-9390-1e292b0963bc",
+    "role": "user",
+    "created_at": "2026-04-13T15:52:08.218459+00:00"
+  },
+  {
+    "id": "fc00d1dc-c64b-4f71-b32e-d806142ae8c2",
+    "user_id": "45401794-77ee-4f2f-baf4-96323e2cdde0",
+    "role": "user",
+    "created_at": "2026-04-13T16:22:39.04701+00:00"
+  },
+  {
+    "id": "ba77dab8-afa9-405e-8d81-8fb0126dcae5",
+    "user_id": "f629d563-89e7-4699-8f68-c7ceee903d86",
+    "role": "user",
+    "created_at": "2026-04-13T16:23:54.941419+00:00"
+  },
+  {
+    "id": "e3b9f55a-4da0-4e05-b6d8-2a0dfe90387f",
+    "user_id": "1f58285d-233f-4a59-85cb-a5fc2db0cfef",
+    "role": "user",
+    "created_at": "2026-04-13T16:29:59.804148+00:00"
+  },
+  {
+    "id": "a17a8ef5-62f8-410b-ad38-5364ce152ee5",
+    "user_id": "ce18135c-40fc-4b3c-b1a1-acfd26b209e7",
+    "role": "user",
+    "created_at": "2026-04-13T16:30:14.082663+00:00"
+  },
+  {
+    "id": "d9b486fa-d90f-4292-b334-3e7227dedb6f",
+    "user_id": "620774b1-c75b-44dc-8e5b-29374046c8c1",
+    "role": "user",
+    "created_at": "2026-04-13T16:31:15.27407+00:00"
+  },
+  {
+    "id": "1425ddc5-5682-4642-9b7c-5ab859600661",
+    "user_id": "1f22a439-edf3-4f9d-a852-96bf5cfd7122",
+    "role": "user",
+    "created_at": "2026-04-13T16:37:47.150482+00:00"
+  },
+  {
+    "id": "25326ff3-96f6-4b0e-ac11-94e47a8b7d40",
+    "user_id": "55f30c92-a786-44a4-a99a-74dad37b63e3",
+    "role": "user",
+    "created_at": "2026-04-13T16:38:25.236776+00:00"
+  },
+  {
+    "id": "b3f79d2f-1332-4304-8474-1a968898d84e",
+    "user_id": "a95e7058-13b5-42ae-945e-3e912bb3f276",
+    "role": "user",
+    "created_at": "2026-04-13T16:47:09.693405+00:00"
+  },
+  {
+    "id": "fd43f5f0-df9e-4a69-9afd-0330c26ac568",
+    "user_id": "7a8c2452-4656-45e9-b942-605fd7a6fecf",
+    "role": "user",
+    "created_at": "2026-04-13T17:27:43.266199+00:00"
+  },
+  {
+    "id": "6e65cb0e-265b-44ab-9f9b-ba8bb85b1d5d",
+    "user_id": "88953473-4046-44e1-b994-b01347469d74",
+    "role": "user",
+    "created_at": "2026-04-13T20:49:56.617957+00:00"
+  },
+  {
+    "id": "c35c85f8-3b21-428d-938e-208e85d96bcb",
+    "user_id": "4fc449e2-303d-471b-b915-eb3ab0b435ab",
+    "role": "user",
+    "created_at": "2026-04-13T22:23:03.43914+00:00"
+  },
+  {
+    "id": "d9ef733e-fe09-433a-bded-ad1c5e67e2ff",
+    "user_id": "3bfcf52e-baf2-4b5e-81db-fc053b676855",
+    "role": "user",
+    "created_at": "2026-04-13T22:23:47.44596+00:00"
+  },
+  {
+    "id": "d63fb156-dd38-41c6-9ffe-f21c0ffd3cbf",
+    "user_id": "5c0c1e6c-2793-432f-838a-6d2b780e759a",
+    "role": "user",
+    "created_at": "2026-04-13T22:24:13.49582+00:00"
+  },
+  {
+    "id": "647a6238-cd59-47eb-8cb9-d392eedb5a06",
+    "user_id": "966cef47-f655-4118-80c3-e3c1388db198",
+    "role": "user",
+    "created_at": "2026-04-13T22:44:38.876724+00:00"
+  },
+  {
+    "id": "211d9efe-0ee7-4d7d-9412-00e1b4b53d6a",
+    "user_id": "09838c0d-08ca-4b42-a861-040b7d7a5d73",
+    "role": "user",
+    "created_at": "2026-04-14T02:00:39.190474+00:00"
+  },
+  {
+    "id": "ff268d78-5bef-4f9e-bd6a-1320a7d782cc",
+    "user_id": "428d0bcc-799b-4afb-acd4-8072db3bb9fc",
+    "role": "user",
+    "created_at": "2026-04-14T02:04:00.787156+00:00"
+  },
+  {
+    "id": "ee3b40c2-2446-4d64-9169-b7d19667c02f",
+    "user_id": "c079f49b-7363-4eb6-9477-ee63edd5d188",
+    "role": "user",
+    "created_at": "2026-04-14T02:04:07.415714+00:00"
+  },
+  {
+    "id": "1540affe-4dc5-4b14-b305-7de192b163b2",
+    "user_id": "a42c8aa1-92e7-4175-b7ac-f59b444f9149",
+    "role": "user",
+    "created_at": "2026-04-14T02:08:31.076686+00:00"
+  },
+  {
+    "id": "654fe945-5f72-4fc0-b5a1-9f16c557eef3",
+    "user_id": "21567780-ff41-4bf0-89bb-5291812dd004",
+    "role": "afiliado",
+    "created_at": "2026-04-14T03:08:37.612033+00:00"
+  },
+  {
+    "id": "0a159452-971b-4591-8865-5f317a19fdb1",
+    "user_id": "f1e195be-f42b-41b9-9d5f-7c295c9127d0",
+    "role": "user",
+    "created_at": "2026-04-14T11:34:37.883947+00:00"
+  },
+  {
+    "id": "73a0b214-a100-4ffe-80a2-0bbf3a710cd7",
+    "user_id": "7ce0d2e5-d617-4c6b-aace-103387364921",
+    "role": "user",
+    "created_at": "2026-04-14T11:42:11.072887+00:00"
+  },
+  {
+    "id": "5469607f-9196-4232-9944-47d6cde686bb",
+    "user_id": "11030772-91ab-45cf-b584-79f8d22610c7",
+    "role": "user",
+    "created_at": "2026-04-14T11:44:04.943182+00:00"
+  },
+  {
+    "id": "56190b2f-ea30-452c-9f40-c5d16d6f8441",
+    "user_id": "5f5fe8bf-1c6b-48a0-bf19-00e2d87916e1",
+    "role": "user",
+    "created_at": "2026-04-14T11:51:43.81856+00:00"
+  },
+  {
+    "id": "35bdddbe-4755-402e-88a5-1dde4d0b76a7",
+    "user_id": "51aaa7ba-9eb8-41cc-9db8-b7dcd966f09b",
+    "role": "user",
+    "created_at": "2026-04-14T12:06:08.136434+00:00"
+  },
+  {
+    "id": "b5736a61-87d9-4dfe-b049-09215a027b7b",
+    "user_id": "68d28e51-68f1-443f-b05e-6c859da74b4a",
+    "role": "user",
+    "created_at": "2026-04-14T12:24:47.354433+00:00"
+  },
+  {
+    "id": "6155a5f9-103a-465e-8cf2-628d1a9f8066",
+    "user_id": "fc0a7958-58a0-4a27-a9f0-5dcae4bea3ea",
+    "role": "user",
+    "created_at": "2026-04-14T13:12:00.990014+00:00"
+  },
+  {
+    "id": "92b4bb2b-fcaa-4272-bf48-271680e9513e",
+    "user_id": "e11e9a61-35a8-44e8-959e-ab2fbf44e26b",
+    "role": "user",
+    "created_at": "2026-04-14T15:39:06.115897+00:00"
+  },
+  {
+    "id": "180833c2-3a84-43fd-9318-be74090ee9d2",
+    "user_id": "a5df9c34-d8c1-4aec-9681-5f5580d35a26",
+    "role": "user",
+    "created_at": "2026-04-14T15:44:33.514285+00:00"
+  },
+  {
+    "id": "28adaa40-6f83-4a59-bede-23ab083202ad",
+    "user_id": "e7a58d02-ef7b-4254-81e1-6f1682b984be",
+    "role": "user",
+    "created_at": "2026-04-14T15:45:32.903377+00:00"
+  },
+  {
+    "id": "96d2778e-1e86-4642-b161-6ca218ec904c",
+    "user_id": "57dacd66-5a2f-4b0a-8419-1c01cdb2ef47",
+    "role": "user",
+    "created_at": "2026-04-14T15:50:19.386384+00:00"
+  },
+  {
+    "id": "1feaaa0b-933c-46f1-a695-b4b97973041e",
+    "user_id": "713bff90-a5a0-4471-a56a-af9c8d3bfe55",
+    "role": "user",
+    "created_at": "2026-04-14T15:56:32.702511+00:00"
+  },
+  {
+    "id": "5aaa94cb-6485-4648-b201-6d30c6bee20a",
+    "user_id": "ac8b9a07-a65f-4322-9d81-2670d5957210",
+    "role": "user",
+    "created_at": "2026-04-14T15:59:46.026997+00:00"
+  },
+  {
+    "id": "eead8a27-28f4-4e77-98f9-3c6511343572",
+    "user_id": "7f36ede2-10ca-4746-8020-2664ebb86da1",
+    "role": "user",
+    "created_at": "2026-04-14T15:59:57.375097+00:00"
+  },
+  {
+    "id": "1af61117-a7e5-4eb1-81f9-7d7c1945afa7",
+    "user_id": "78d11919-60fa-4fdc-aa2b-bb41193a8c08",
+    "role": "user",
+    "created_at": "2026-04-14T16:03:42.94262+00:00"
+  },
+  {
+    "id": "997c7d48-2494-468b-a59a-6e8c1c9866a1",
+    "user_id": "1e7240ab-634b-4288-8f8d-8f7ad1c55ad4",
+    "role": "user",
+    "created_at": "2026-04-14T16:07:15.033706+00:00"
+  },
+  {
+    "id": "853b77f4-18ad-4003-bb0e-11030ccd8315",
+    "user_id": "c6e52739-2700-45f9-967c-538050dc40ae",
+    "role": "user",
+    "created_at": "2026-04-14T16:23:06.982786+00:00"
+  },
+  {
+    "id": "9a309ca5-d192-4545-80b2-f3a1e883ea6b",
+    "user_id": "06d3fcbf-599c-42d4-bdd4-17b70e117560",
+    "role": "user",
+    "created_at": "2026-04-14T16:27:43.786011+00:00"
+  },
+  {
+    "id": "51254d4d-fd2b-4234-9fdf-6d86ef210c9d",
+    "user_id": "bd4f584c-92b8-4607-87da-db448b2d3e82",
+    "role": "afiliado",
+    "created_at": "2026-04-14T17:12:49.234241+00:00"
+  },
+  {
+    "id": "def22c22-41ed-4e32-8fca-b40270e89021",
+    "user_id": "58c60d3b-f718-4263-b6e7-53855f46df9b",
+    "role": "user",
+    "created_at": "2026-04-14T23:10:47.709697+00:00"
+  },
+  {
+    "id": "0e56acd1-a33e-48b5-bb33-a6ba4a11d121",
+    "user_id": "081cbb3f-8c0d-44d0-97ad-23bc3994c6ca",
+    "role": "user",
+    "created_at": "2026-04-15T10:28:51.609954+00:00"
+  },
+  {
+    "id": "c1c91769-42a0-4947-ab7a-72ebfeac6e62",
+    "user_id": "1632e96a-5bfa-43e9-8af2-aa69de9124e8",
+    "role": "user",
+    "created_at": "2026-04-15T10:40:45.857253+00:00"
+  },
+  {
+    "id": "a1190d21-36f4-4125-903f-c73e81d14b34",
+    "user_id": "a58c0ecd-f63d-47e7-9993-7071f1e8b5d9",
+    "role": "user",
+    "created_at": "2026-04-15T10:45:21.995284+00:00"
+  },
+  {
+    "id": "90c15110-d9ba-43c0-bcb0-b0497e097667",
+    "user_id": "65fc99ff-711e-48ab-864f-e1ee22f6f455",
+    "role": "user",
+    "created_at": "2026-04-15T10:58:40.688465+00:00"
+  },
+  {
+    "id": "04474c4b-2fe8-47f0-84a2-2ecdfe915da5",
+    "user_id": "a0161cb5-259c-4244-8932-a7059248e96e",
+    "role": "user",
+    "created_at": "2026-04-15T11:12:34.714541+00:00"
+  },
+  {
+    "id": "5556b9e1-f9fd-42f9-902e-164222218d75",
+    "user_id": "9697be95-be11-42bc-8f0c-bbafb25e3ccc",
+    "role": "user",
+    "created_at": "2026-04-15T15:58:08.203682+00:00"
+  },
+  {
+    "id": "c1b27afb-2ecb-482f-bb18-227f92edfb54",
+    "user_id": "50fa2f3d-0fbf-4dd0-80ee-4e58e8d59bd1",
+    "role": "user",
+    "created_at": "2026-04-15T16:00:05.493022+00:00"
+  },
+  {
+    "id": "ba06e947-0be7-45a9-82a7-4eae04434bdb",
+    "user_id": "7302e97c-321c-49f2-8376-0feb22a0b138",
+    "role": "user",
+    "created_at": "2026-04-15T16:00:09.046441+00:00"
+  },
+  {
+    "id": "8fe9fbfe-7080-43b0-8c0b-e7e387ff3fa3",
+    "user_id": "3f070336-ce91-4f13-82ae-60928aca18d1",
+    "role": "user",
+    "created_at": "2026-04-15T16:03:12.297023+00:00"
+  },
+  {
+    "id": "33fc30f5-9f9a-4cdd-a3e2-9c0e888e7845",
+    "user_id": "39a9d458-cc31-437a-934d-73c3ba9c7923",
+    "role": "user",
+    "created_at": "2026-04-15T16:08:52.214078+00:00"
+  },
+  {
+    "id": "c691becc-9cd6-4372-82f0-de8867a03bee",
+    "user_id": "f0b88c67-30bb-4138-80c0-ccb51b4cf501",
+    "role": "user",
+    "created_at": "2026-04-15T16:24:09.858963+00:00"
+  },
+  {
+    "id": "4ccadd25-861b-4fcd-b6bc-a9748e6f4846",
+    "user_id": "52a2beeb-540f-4a27-b765-16bd786be637",
+    "role": "user",
+    "created_at": "2026-04-16T04:28:04.674777+00:00"
+  },
+  {
+    "id": "3d29b120-f4f5-4d59-b0cc-495eb441bea5",
+    "user_id": "87783dff-c36e-45f9-a7da-887331dc2399",
+    "role": "user",
+    "created_at": "2026-04-16T04:39:06.484585+00:00"
+  },
+  {
+    "id": "cb17fe65-4594-4715-85c3-8b1481beeb54",
+    "user_id": "9dc06174-ed0a-497c-9661-8933eb9d5e73",
+    "role": "user",
+    "created_at": "2026-04-16T04:41:16.942116+00:00"
+  },
+  {
+    "id": "60e3af9e-e89d-4a9c-bbc7-7323f05c8886",
+    "user_id": "ff91b202-7994-4ea0-a30b-0c92dd5f739c",
+    "role": "user",
+    "created_at": "2026-04-16T12:00:53.248696+00:00"
+  },
+  {
+    "id": "67e7248a-659c-416b-b786-c0a9ecece21d",
+    "user_id": "9970ec72-4a31-44e0-9cde-c2bff26cc81a",
+    "role": "user",
+    "created_at": "2026-04-16T12:01:31.896275+00:00"
+  },
+  {
+    "id": "8f9f080e-dcc6-44ca-bc27-5154cb0e3197",
+    "user_id": "5a996667-490b-4d87-8a4d-59cb96874664",
+    "role": "user",
+    "created_at": "2026-04-16T12:03:08.730865+00:00"
+  },
+  {
+    "id": "1f0d6e1e-77da-4d03-9793-2b35beee9a3d",
+    "user_id": "5c53a2a7-caaa-444a-b4e9-ebed1b146e1a",
+    "role": "user",
+    "created_at": "2026-04-16T12:07:44.514367+00:00"
+  },
+  {
+    "id": "23c1423b-8e8b-434a-ae39-4e1ada21936a",
+    "user_id": "58bb30fc-0a0c-4f4d-bd9c-efa5baf8d02c",
+    "role": "user",
+    "created_at": "2026-04-16T12:27:49.711978+00:00"
+  },
+  {
+    "id": "a4d6a7c6-2602-4ce0-a102-6d5646ba5082",
+    "user_id": "9be8e1ba-cab6-4a08-8542-532dbf1aadac",
+    "role": "user",
+    "created_at": "2026-04-16T14:43:44.367674+00:00"
+  }
+]

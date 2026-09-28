@@ -1,0 +1,1 @@
+import{i as e,t}from"./react-SIfiwpqq.js";var n=e(t(),1),r=768,i=e=>{let t=window.matchMedia(`(max-width: 767px)`);return t.addEventListener(`change`,e),()=>t.removeEventListener(`change`,e)},a=()=>window.innerWidth<r;function o(){return n.useSyncExternalStore(i,a)}export{o as t};

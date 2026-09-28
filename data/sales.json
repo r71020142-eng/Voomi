@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "845744b2-1d73-4874-9bbb-aef71bf13ad4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.4,
+    "commission": 9.74,
+    "created_at": "2026-07-13T11:08:29+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "709a5667-a015-4c43-9574-7c8bf9ddf797",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 103.85,
+    "commission": 10.39,
+    "created_at": "2026-07-13T11:05:35+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6294aa6b-04be-42dc-8be8-0331f254ade4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 100.81,
+    "commission": 10.08,
+    "created_at": "2026-07-13T11:59:27+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4b4ed62d-36ac-4932-a48a-26615d119669",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 108.46,
+    "commission": 10.85,
+    "created_at": "2026-07-13T11:00:14+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "41ca3a29-6539-44b6-979d-040ea50a81e4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.52,
+    "commission": 9.65,
+    "created_at": "2026-07-13T11:51:40+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b5ba9fbc-5431-4c66-866e-c45ae452dfaf",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.56,
+    "commission": 9.16,
+    "created_at": "2026-07-13T12:29:12+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "998d89ac-259e-4b43-8694-af78dae9e836",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 117.41,
+    "commission": 11.74,
+    "created_at": "2026-07-13T13:14:28+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6ee5c16e-75b8-47b7-a946-f8263d4ac1f1",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 92.38,
+    "commission": 9.24,
+    "created_at": "2026-07-13T16:02:03+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f387c139-38f0-408d-8e62-897bacf1c58c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 105.75,
+    "commission": 10.58,
+    "created_at": "2026-07-13T17:03:56+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "682b2fac-ad59-4c54-8e31-11f53cf544e9",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 117.5,
+    "commission": 11.75,
+    "created_at": "2026-07-13T17:21:41+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0c83fcfe-bf65-446e-a209-74b9605ce393",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.33,
+    "commission": 11.23,
+    "created_at": "2026-07-13T18:00:10+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d86607be-bb0a-435d-99e7-07e156f37af1",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 110.83,
+    "commission": 11.08,
+    "created_at": "2026-07-01T12:01:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "91da2852-ac35-4070-8cfd-759991334844",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 118.19,
+    "commission": 11.82,
+    "created_at": "2026-07-01T23:06:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6275b456-d418-4382-b479-bea1da690c6d",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 127.22,
+    "commission": 12.72,
+    "created_at": "2026-07-02T17:40:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "81803de9-5458-47b4-b1f0-a7d33a598f5a",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 122.72,
+    "commission": 12.27,
+    "created_at": "2026-07-02T12:52:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2fe74168-b373-4067-9620-f964b057e602",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 92.52,
+    "commission": 9.25,
+    "created_at": "2026-07-03T20:26:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4fcb17bd-737a-4b5d-b905-89ee67bdf4f6",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 126.44,
+    "commission": 12.64,
+    "created_at": "2026-07-04T14:10:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4a87d1b2-cd26-455e-87ab-cfb9f9f4665b",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 106.08,
+    "commission": 10.61,
+    "created_at": "2026-07-04T11:54:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f102c5c0-75ce-48b4-b8cc-a3cc56bc8db0",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 123.23,
+    "commission": 12.32,
+    "created_at": "2026-07-05T11:42:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2df4187f-09cd-48f9-8f86-549291b11b7f",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 106.05,
+    "commission": 10.61,
+    "created_at": "2026-07-06T21:50:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "72ab58d6-12d4-471f-8768-bea3f1fd2cfd",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 104.06,
+    "commission": 10.41,
+    "created_at": "2026-07-06T11:56:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2aa29b37-38f9-4771-8f36-3034802e78f7",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 93.86,
+    "commission": 9.39,
+    "created_at": "2026-07-07T13:49:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "05f19ed5-dd14-4228-ad06-96fa7526d519",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 98.28,
+    "commission": 9.83,
+    "created_at": "2026-07-08T11:13:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d0487434-4698-43ea-8d84-c592d676b060",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 127.81,
+    "commission": 12.78,
+    "created_at": "2026-07-08T23:56:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "7409d892-e728-40d8-aa75-e14d1b0bf526",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 107.01,
+    "commission": 10.7,
+    "created_at": "2026-07-09T22:47:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5068aa39-8671-4007-a366-d544b2a0eb88",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 121.79,
+    "commission": 12.18,
+    "created_at": "2026-07-09T21:01:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b84b421c-313f-4cdf-9aa3-3af59544858a",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 114.92,
+    "commission": 11.49,
+    "created_at": "2026-07-10T23:17:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "89bac41b-7895-4be0-93f9-0525200aaf1f",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 123.03,
+    "commission": 12.3,
+    "created_at": "2026-07-11T18:27:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f9081329-012f-4b42-be9c-4377563b4686",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 109.45,
+    "commission": 10.95,
+    "created_at": "2026-07-11T16:24:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a7f0d91c-0301-40fa-b1cc-ce08be8cd009",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 112.88,
+    "commission": 11.29,
+    "created_at": "2026-07-12T22:24:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f86d61d3-0ac4-47e2-8b81-b733f679be0d",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 111.3,
+    "commission": 11.13,
+    "created_at": "2026-07-13T19:21:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a6530b04-098c-4883-93d4-9d048c19cffe",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 88.21,
+    "commission": 8.82,
+    "created_at": "2026-07-13T21:36:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "25e2f8e7-6baa-4450-89e7-ee1f5dd83817",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 117.3,
+    "commission": 11.73,
+    "created_at": "2026-07-14T11:06:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "859b1861-feb8-457d-b24a-a9d8080faf17",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 97.83,
+    "commission": 9.78,
+    "created_at": "2026-07-15T23:30:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a16cea4f-9597-4484-8e8a-b849b533f24e",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 115.42,
+    "commission": 11.54,
+    "created_at": "2026-07-15T22:31:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1c51976b-d87d-4347-9a1d-2c4d3024435c",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 94.35,
+    "commission": 9.43,
+    "created_at": "2026-07-16T12:54:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ca9b8cfa-e3c2-432f-866e-5f86ae3b4cd5",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 113.88,
+    "commission": 11.39,
+    "created_at": "2026-07-17T15:04:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2b2e31f1-ee33-46c7-9d43-b1048170b744",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 100.94,
+    "commission": 10.09,
+    "created_at": "2026-07-17T19:39:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "408a5247-2953-450f-92ac-5814c7ee80e1",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 114.93,
+    "commission": 11.49,
+    "created_at": "2026-07-19T00:03:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5199f37e-4544-4793-ac7e-2ca2867c00b0",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 124.64,
+    "commission": 12.46,
+    "created_at": "2026-07-18T21:35:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "752fc94e-4eb8-4135-99f0-117ed9f979ed",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 88.89,
+    "commission": 8.89,
+    "created_at": "2026-07-19T23:23:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c3201f57-6305-42b7-895b-d9e53b14de28",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 91.8,
+    "commission": 9.18,
+    "created_at": "2026-07-20T17:50:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "010f2933-564a-43d8-8f15-a391a1db483c",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 91.72,
+    "commission": 9.17,
+    "created_at": "2026-07-20T20:12:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c5661cfc-0c97-4663-a20c-98b57758bc4b",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 90.74,
+    "commission": 9.07,
+    "created_at": "2026-07-21T22:53:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0f469f64-4e24-4126-ae42-3e1facfced83",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 93.99,
+    "commission": 9.4,
+    "created_at": "2026-07-22T16:05:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "caa2555d-2309-4e7b-b48a-5cb68c43af4e",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 91.55,
+    "commission": 9.15,
+    "created_at": "2026-07-22T20:42:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0b21dc2d-b8a4-4d3b-ab19-028c58e26c3c",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 90.45,
+    "commission": 9.04,
+    "created_at": "2026-07-23T14:18:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f4ea3d81-ac35-45f5-87fe-f00983496fcb",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 95.21,
+    "commission": 9.52,
+    "created_at": "2026-07-25T00:33:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "29dfd157-baec-4101-a343-ef2001eafb95",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 122.26,
+    "commission": 12.23,
+    "created_at": "2026-07-24T18:23:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "10761aca-af96-47f5-86e2-74609c894bf2",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 95.47,
+    "commission": 9.55,
+    "created_at": "2026-07-25T17:08:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d38bc002-ffb5-43ec-91bd-1a626ab0f2d4",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 121.96,
+    "commission": 12.2,
+    "created_at": "2026-07-25T17:48:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d668dfb2-eef6-482d-9a16-0783de30a012",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 85.96,
+    "commission": 8.6,
+    "created_at": "2026-07-26T12:51:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "afc93d3c-19fa-42c9-b4ee-31604e89cf9b",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 128.15,
+    "commission": 12.82,
+    "created_at": "2026-07-27T17:36:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "dd83532d-43cc-48eb-8a14-fdd3629314eb",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 112.77,
+    "commission": 11.28,
+    "created_at": "2026-07-27T13:13:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6736571f-8367-4b8d-aa37-e201efb91413",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 92.54,
+    "commission": 9.25,
+    "created_at": "2026-07-28T13:43:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "fe3c80ce-8fc6-4d07-9467-2da4bc8bc68a",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 117.82,
+    "commission": 11.78,
+    "created_at": "2026-07-29T17:04:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "fc8c82c9-7449-4904-b60a-8d320efd9e69",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 87.25,
+    "commission": 8.72,
+    "created_at": "2026-07-29T18:28:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "275d13c1-bb80-44a9-a29e-db6b6488ee21",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 109.92,
+    "commission": 10.99,
+    "created_at": "2026-07-30T12:46:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4daaf2e0-ca82-451b-a101-b213579465d2",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 110.92,
+    "commission": 11.09,
+    "created_at": "2026-07-31T23:06:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ce312e30-d93d-4296-b951-46998518bf6c",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 125.5,
+    "commission": 12.55,
+    "created_at": "2026-07-31T21:53:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "52978512-9f2e-4580-8c0c-23946c6a24c3",
+    "product_id": null,
+    "buyer_name": "Venda em lote",
+    "value": 120.32,
+    "commission": 12.03,
+    "created_at": "2026-08-01T19:24:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4b265b79-5747-4a10-9295-1835e81fc659",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 94.6,
+    "commission": 9.46,
+    "created_at": "2026-07-13T11:24:36+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a5fba58c-1c86-498f-9eb2-99e6efdce468",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 110.06,
+    "commission": 11.01,
+    "created_at": "2026-07-13T11:42:10+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d3797f7e-ad6f-486c-93c6-557891130e82",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 106.91,
+    "commission": 10.69,
+    "created_at": "2026-07-13T13:00:18+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "47ee64cc-250f-4077-ade4-69cb4648f114",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.01,
+    "commission": 9.6,
+    "created_at": "2026-07-13T14:31:34+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6f6deeec-4927-404f-8d86-3e857fd2a6d4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.68,
+    "commission": 9.77,
+    "created_at": "2026-07-13T11:28:39+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "643e5cd9-934b-4b38-b790-e0965d6a38a9",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 116.1,
+    "commission": 11.61,
+    "created_at": "2026-07-13T13:42:43+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6cdd55e0-7606-4c27-8d4e-e0c108044bc1",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 120.97,
+    "commission": 12.1,
+    "created_at": "2026-07-13T14:30:08+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "36cabfa7-4d7d-4fb3-b5bd-90a63256e75e",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 111.79,
+    "commission": 11.18,
+    "created_at": "2026-07-13T15:52:22+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "502c5d22-38b5-4861-bb82-d6de9c2976db",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 98.23,
+    "commission": 9.82,
+    "created_at": "2026-07-13T16:52:31+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f5f0e038-c332-4905-81ce-ba114aa63feb",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 95.16,
+    "commission": 9.52,
+    "created_at": "2026-07-13T18:09:45+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "484d2241-af6e-4337-a0ad-24decacb7c4a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 121.04,
+    "commission": 12.1,
+    "created_at": "2026-07-13T18:17:33+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6182cd74-ffdf-4416-9102-35ea5774bef8",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 122.0,
+    "commission": 12.2,
+    "created_at": "2026-07-13T19:36:09+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5e39cb96-7cc6-46c5-aa04-842c2843dc92",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 121.16,
+    "commission": 12.12,
+    "created_at": "2026-07-13T20:41:47+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "045ff8d0-f936-4051-afa2-0d6564e24574",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 95.98,
+    "commission": 9.6,
+    "created_at": "2026-07-13T20:57:41+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ec2cdf53-fd31-4bed-9c45-d1e3f3ad4a07",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 122.66,
+    "commission": 12.27,
+    "created_at": "2026-07-13T22:05:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c88ecda4-60bd-4457-b621-f8afba2c26b9",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 98.58,
+    "commission": 9.86,
+    "created_at": "2026-07-13T11:14:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e5482246-ad03-4ef9-bb15-dcbe34e0d654",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 92.73,
+    "commission": 9.27,
+    "created_at": "2026-07-13T12:15:43+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ecb78461-edb5-43f7-95c9-eccbaa016ea2",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 92.41,
+    "commission": 9.24,
+    "created_at": "2026-07-13T13:26:42+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1940c609-a37c-4495-9341-86d37a57a9cd",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.57,
+    "commission": 9.66,
+    "created_at": "2026-07-13T14:22:38+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "81e01c89-1123-4d5e-b474-a1ba41680138",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.46,
+    "commission": 10.95,
+    "created_at": "2026-07-13T15:05:21+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "bb902751-afee-401c-a273-f9967b4876fc",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 108.24,
+    "commission": 10.82,
+    "created_at": "2026-07-13T15:56:33+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "deb59b92-6277-443b-91d1-ab5d5b942241",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 111.22,
+    "commission": 11.12,
+    "created_at": "2026-07-13T17:18:19+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "efa7d7ea-3598-4abd-bc70-b79f875f4c86",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 117.23,
+    "commission": 11.72,
+    "created_at": "2026-07-13T17:40:05+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "79a837ba-2a6d-4dad-bac9-520326b98209",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.7,
+    "commission": 9.67,
+    "created_at": "2026-07-13T18:22:33+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e6500069-da02-4a7d-be10-7e861c1409f5",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.84,
+    "commission": 10.48,
+    "created_at": "2026-07-13T21:45:17+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6171745b-2b65-4bfa-a1c5-ac5b9f7f2a8e",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.05,
+    "commission": 10.2,
+    "created_at": "2026-07-13T23:10:31+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d5cf5948-3bb0-4a23-93db-e6b30536209a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.77,
+    "commission": 9.68,
+    "created_at": "2026-07-13T23:21:54+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ff6ac28b-0283-4801-acde-558958740da6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 95.68,
+    "commission": 9.57,
+    "created_at": "2026-07-14T00:18:28+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b3e78ad1-6ae5-46bb-adb4-add2d3f1a64c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 100.77,
+    "commission": 10.08,
+    "created_at": "2026-07-13T11:13:48+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "35bd098b-75e8-44d5-9580-6fc48f24f7c0",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.98,
+    "commission": 11.0,
+    "created_at": "2026-07-13T14:59:35+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "fc9f839c-52bb-4070-b339-d7980eef1d97",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 113.55,
+    "commission": 11.36,
+    "created_at": "2026-07-13T20:15:39+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6b13a7f4-9e26-4dfa-8260-1a4bcdfa9417",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 95.87,
+    "commission": 9.59,
+    "created_at": "2026-07-13T20:52:14+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f375c2ca-9bf9-4215-9fb2-9e176ef77374",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.73,
+    "commission": 9.17,
+    "created_at": "2026-07-13T23:41:27+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8d6e963d-8ff2-4ac7-af11-abbed9ab4142",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 107.11,
+    "commission": 10.71,
+    "created_at": "2026-07-13T23:53:51+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "211ff6fe-3c49-4b80-8832-8c5d076f3508",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.41,
+    "commission": 10.24,
+    "created_at": "2026-07-14T00:25:18+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "3984bf81-dd62-4d9a-a7e2-331fb84c261f",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 100.83,
+    "commission": 10.08,
+    "created_at": "2026-07-13T11:08:02+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d8dad4ad-6919-44d8-8a9f-64d77ed52ec5",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.76,
+    "commission": 9.18,
+    "created_at": "2026-07-13T12:27:20+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1b0d80dd-4872-49c6-a5fe-3471e1d546cc",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 108.22,
+    "commission": 10.82,
+    "created_at": "2026-07-13T13:29:17+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "44af98a0-9c64-42e6-ba5e-e7aee440aeb1",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.42,
+    "commission": 9.14,
+    "created_at": "2026-07-13T14:19:56+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4fcf8e4d-d11e-407b-8942-40fcf2a51dea",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.29,
+    "commission": 10.43,
+    "created_at": "2026-07-13T15:19:44+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "78ed9764-3612-4ce3-96c5-d5c15ebf9412",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 106.11,
+    "commission": 10.61,
+    "created_at": "2026-07-13T16:20:25+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ce0addb5-a134-4cff-b3e8-61dd2e09c4a2",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 120.0,
+    "commission": 12.0,
+    "created_at": "2026-07-13T18:29:46+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f0974c25-0c60-40da-b42f-597cc8d3970c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 119.34,
+    "commission": 11.93,
+    "created_at": "2026-07-13T19:00:26+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "7ddf9de0-80a4-4150-81ba-06982ea2775e",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.22,
+    "commission": 10.92,
+    "created_at": "2026-07-13T18:54:44+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0e5c6773-a953-484a-a775-8d851cef464f",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.72,
+    "commission": 10.97,
+    "created_at": "2026-07-13T20:41:19+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f3e462a1-d81d-4ecd-970f-15217fd16937",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.73,
+    "commission": 9.17,
+    "created_at": "2026-07-13T21:01:08+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b26c0123-7565-40db-a470-07d69bede53d",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.11,
+    "commission": 11.51,
+    "created_at": "2026-07-13T21:48:37+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4b4a43a8-28a3-46ab-aee3-e348469dd18c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 103.76,
+    "commission": 10.38,
+    "created_at": "2026-07-13T22:45:14+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "69862963-4eb8-4058-8516-0cd8a06dfe51",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.11,
+    "commission": 10.41,
+    "created_at": "2026-07-13T22:56:53+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c86cc587-5275-4c99-9b3a-adda59372b39",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 118.62,
+    "commission": 11.86,
+    "created_at": "2026-07-13T23:27:33+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "936c9f29-d6f3-43cb-a2b7-d92acc0cd2b0",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 95.29,
+    "commission": 9.53,
+    "created_at": "2026-07-14T00:03:38+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c69c9e29-cdd7-41e3-891a-cf3987d06e80",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 106.0,
+    "commission": 10.6,
+    "created_at": "2026-07-13T11:29:07+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "11534eed-724b-4caf-8f30-fdba1d7673af",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 117.15,
+    "commission": 11.71,
+    "created_at": "2026-07-13T12:39:31+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "93f5410a-c54e-42d1-bcfe-364e3a260c4b",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 103.6,
+    "commission": 10.36,
+    "created_at": "2026-07-13T13:35:15+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "feb64e40-9134-4089-9457-6aa7975de019",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.37,
+    "commission": 10.44,
+    "created_at": "2026-07-13T14:16:08+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4f882f7a-f1f0-4a50-9033-c604abadcbf2",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.93,
+    "commission": 9.69,
+    "created_at": "2026-07-13T14:58:34+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a472a220-a7bd-403c-9ce1-d1abb39ad82f",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 101.65,
+    "commission": 10.17,
+    "created_at": "2026-07-13T15:25:38+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "065fc5c8-6ad7-46c3-a53d-ba7a0946eff6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.68,
+    "commission": 9.67,
+    "created_at": "2026-07-13T16:16:45+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ab150d44-75b5-45e5-bd4e-8fc6101acedc",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.84,
+    "commission": 10.48,
+    "created_at": "2026-07-13T17:32:22+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "3e867352-6a08-4ebd-865c-9636240b11f6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 120.23,
+    "commission": 12.02,
+    "created_at": "2026-07-13T17:59:21+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "de47d376-cf91-4c3f-9e65-815c02425c56",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 92.03,
+    "commission": 9.2,
+    "created_at": "2026-07-13T18:09:14+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "56e8d9b3-ed61-469d-ae1b-3dbf5f60c5a4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 117.54,
+    "commission": 11.75,
+    "created_at": "2026-07-13T18:48:36+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8191313e-7a02-4e99-acb8-f526943f6cf5",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.3,
+    "commission": 9.73,
+    "created_at": "2026-07-13T19:24:49+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0d5fce55-fdee-47ed-b121-09e08aa30980",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 120.51,
+    "commission": 12.05,
+    "created_at": "2026-07-13T19:57:11+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0913f797-7104-4933-89ae-43c24449ee0a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 101.29,
+    "commission": 10.13,
+    "created_at": "2026-07-13T20:51:17+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "50de61fd-4d09-4ab1-8047-2b177bf2797c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 92.76,
+    "commission": 9.28,
+    "created_at": "2026-07-13T11:31:35+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "91a70d83-6951-4158-a261-3da12ce2bfcf",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.85,
+    "commission": 10.98,
+    "created_at": "2026-07-13T12:49:26+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6bfe1b5b-206f-4cb9-a9a3-36b6234f0a2a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.72,
+    "commission": 11.27,
+    "created_at": "2026-07-13T13:25:03+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "38794ae9-b00c-44be-aba6-bd1a46db1beb",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 92.11,
+    "commission": 9.21,
+    "created_at": "2026-07-13T15:18:11+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "82452b99-b49d-44ef-97b3-7ad7c91e7ce4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 106.59,
+    "commission": 10.66,
+    "created_at": "2026-07-13T15:47:32+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b3d33fef-83f4-4fec-8369-06bb15406464",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 119.29,
+    "commission": 11.93,
+    "created_at": "2026-07-13T16:23:44+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "722b581f-8ca0-47ef-9a2e-b9f5614f5dd2",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 103.4,
+    "commission": 10.34,
+    "created_at": "2026-07-13T16:57:30+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "299f4c74-073c-47f9-89f9-0709071cb644",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.81,
+    "commission": 10.98,
+    "created_at": "2026-07-13T17:44:33+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "355ca069-4921-4953-806b-f4d9a5094c5d",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 123.14,
+    "commission": 12.31,
+    "created_at": "2026-07-13T18:48:49+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f90eca32-adb9-49b7-8817-bbd6bc0a97b3",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.71,
+    "commission": 9.77,
+    "created_at": "2026-07-13T19:10:29+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b90f855f-2b81-4511-bb1c-305dc7003971",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 119.74,
+    "commission": 11.97,
+    "created_at": "2026-07-13T11:46:09+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4a71eeec-64a4-43f7-8ad6-fc97e3708ee6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 111.07,
+    "commission": 11.11,
+    "created_at": "2026-07-13T12:04:28+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4e6b2d42-feeb-4d63-9f8d-e89770a71565",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 121.62,
+    "commission": 12.16,
+    "created_at": "2026-07-13T12:53:12+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b0293e61-7fd5-4a17-a9a7-6c95ae6562bf",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 105.46,
+    "commission": 10.55,
+    "created_at": "2026-07-13T13:52:05+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5567e4db-813b-4a88-976e-be5a640897a6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 105.48,
+    "commission": 10.55,
+    "created_at": "2026-07-13T14:38:41+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "bdd671f6-a6c8-4993-b4cb-d1499e6fb1a4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.88,
+    "commission": 9.69,
+    "created_at": "2026-07-13T15:45:44+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "318c4110-579f-4ea9-91d1-c5040d544a4a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 100.32,
+    "commission": 10.03,
+    "created_at": "2026-07-13T16:42:33+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4198ee5c-bff3-4643-8a05-8322d8768e96",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.15,
+    "commission": 10.92,
+    "created_at": "2026-07-13T18:43:59+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e9ff9185-6c5e-4e84-9f05-0558ffadb811",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 108.74,
+    "commission": 10.87,
+    "created_at": "2026-07-13T22:29:54+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "57b078b6-3f4f-4c0c-9944-478edcb6ca04",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 92.41,
+    "commission": 9.24,
+    "created_at": "2026-07-13T22:48:32+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "86c58d3c-3641-492c-8656-51494e52b395",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 100.2,
+    "commission": 10.02,
+    "created_at": "2026-07-13T11:47:40+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0057b460-465a-43ce-b068-45654ca24060",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 98.9,
+    "commission": 9.89,
+    "created_at": "2026-07-13T12:59:55+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6d8ab05b-d60b-49df-a697-bcc466c62c16",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.66,
+    "commission": 10.97,
+    "created_at": "2026-07-13T13:48:41+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4aff75e2-4be1-4c4b-bc53-17c60e38b6ab",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.08,
+    "commission": 11.51,
+    "created_at": "2026-07-13T14:38:23+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "df8eac3c-ad97-4947-b978-343b68d9d89d",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 101.78,
+    "commission": 10.18,
+    "created_at": "2026-07-13T16:07:06+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "23a95094-3f0a-46d9-83e5-2dc4abae31fc",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.65,
+    "commission": 9.17,
+    "created_at": "2026-07-13T16:51:29+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5ba4c029-1aea-4b08-9d0b-e522697e92ea",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.5,
+    "commission": 9.15,
+    "created_at": "2026-07-13T17:16:20+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d6c47845-b242-41fe-8f79-dbe68bb1884e",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.93,
+    "commission": 10.99,
+    "created_at": "2026-07-13T19:44:31+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f24fd69c-304d-45c1-9538-482ef5d4c96b",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.61,
+    "commission": 11.26,
+    "created_at": "2026-07-13T20:03:02+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0aa76e41-9e39-4826-a73b-fe5c5975410f",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 110.51,
+    "commission": 11.05,
+    "created_at": "2026-07-13T22:59:50+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "07a48ec2-f0dd-4b19-a2b8-4b41eac779c2",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 114.72,
+    "commission": 11.47,
+    "created_at": "2026-07-14T00:18:53+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e9df6955-525a-4864-87e2-ad2eda445faf",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.1,
+    "commission": 11.21,
+    "created_at": "2026-07-13T11:50:41+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "39da3436-4c3c-4e57-9bfd-b5d1b9698bf6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 113.34,
+    "commission": 11.33,
+    "created_at": "2026-07-13T12:55:10+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2479071f-765f-4d5b-acdc-f46c307a09ab",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 93.34,
+    "commission": 9.33,
+    "created_at": "2026-07-13T13:59:09+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "24676d18-6151-4f57-bf69-4aea6c8938e4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 106.14,
+    "commission": 10.61,
+    "created_at": "2026-07-13T14:35:38+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "407b663a-41ed-46f5-a1f5-ec38f81b300c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.51,
+    "commission": 11.55,
+    "created_at": "2026-07-13T15:59:44+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "7c72a095-d553-4180-a8ee-cd05e6b22d01",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.2,
+    "commission": 11.52,
+    "created_at": "2026-07-13T16:31:55+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "894aa55f-7225-4539-b8c3-80297409dad8",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 119.9,
+    "commission": 11.99,
+    "created_at": "2026-07-13T16:59:40+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4f24a398-e880-4675-a025-73a0c4f77bd8",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 120.71,
+    "commission": 12.07,
+    "created_at": "2026-07-13T17:36:43+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "04413ae2-7dbb-4267-b2f7-a3ac7c908dc0",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 122.02,
+    "commission": 12.2,
+    "created_at": "2026-07-13T17:53:52+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ef06ea55-f299-44ba-800e-3735f3de0cef",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 118.92,
+    "commission": 11.89,
+    "created_at": "2026-07-13T19:15:48+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "139460ad-311f-47a5-836a-865c2ea3a9d0",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.06,
+    "commission": 11.51,
+    "created_at": "2026-07-13T20:43:22+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1eb97d6d-038c-4cdf-94b2-c9e8a896754f",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 111.65,
+    "commission": 11.17,
+    "created_at": "2026-07-13T21:56:02+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5b5a75a8-9454-401d-b342-283ad969ed5a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 100.67,
+    "commission": 10.07,
+    "created_at": "2026-07-13T22:23:16+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "3df777a8-90e3-4cff-a15d-f1d125adf49b",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 122.13,
+    "commission": 12.21,
+    "created_at": "2026-07-13T22:42:32+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a8936875-1310-46ad-82f9-e6d13c80ec75",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 99.2,
+    "commission": 9.92,
+    "created_at": "2026-07-13T23:42:35+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4202589e-52aa-44a4-8597-8a413b2de730",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.13,
+    "commission": 10.41,
+    "created_at": "2026-07-14T00:59:38+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "fa7fa9bf-b394-4e23-8d69-437f00c15122",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 99.51,
+    "commission": 9.95,
+    "created_at": "2026-07-13T11:40:19+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "17db9535-20b9-47b6-8813-4d46562a967c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 121.52,
+    "commission": 12.15,
+    "created_at": "2026-07-13T12:15:53+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ab7c9568-8baf-4439-a685-eaf8be911333",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 103.53,
+    "commission": 10.35,
+    "created_at": "2026-07-13T13:58:16+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d6baef42-9e37-4ac7-af0c-befe2aa7d734",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.99,
+    "commission": 11.6,
+    "created_at": "2026-07-13T14:45:38+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "aeb3f14a-191d-408a-873b-d68e0a3a0989",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 105.94,
+    "commission": 10.59,
+    "created_at": "2026-07-13T17:14:39+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c76991ca-138f-4d91-9b32-69cb905bb6a9",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 114.45,
+    "commission": 11.44,
+    "created_at": "2026-07-13T18:41:35+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "939386b1-bd4f-48ad-81ce-bdd1d23a5573",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.33,
+    "commission": 9.13,
+    "created_at": "2026-07-13T20:01:16+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ca6488b9-a085-4c4e-a926-099968019ee3",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.73,
+    "commission": 9.77,
+    "created_at": "2026-07-13T21:24:34+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8be8ae54-adf4-4d7b-9f46-05a0b83e8826",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 100.2,
+    "commission": 10.02,
+    "created_at": "2026-07-13T11:50:08+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0a87e29c-5995-4558-91da-f92f1bd7a77c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.17,
+    "commission": 10.22,
+    "created_at": "2026-07-13T12:23:53+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "85633215-0e89-4fad-8328-8eb9609567bf",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 110.61,
+    "commission": 11.06,
+    "created_at": "2026-07-13T13:18:53+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "10d28813-07ed-450b-bce9-69d5219e9403",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 116.17,
+    "commission": 11.62,
+    "created_at": "2026-07-13T16:39:48+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "cf68fe21-7f8b-4d26-8e6b-91340920de33",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.77,
+    "commission": 9.18,
+    "created_at": "2026-07-13T17:11:39+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ca48166d-c768-4591-a867-065fab7b32b4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 121.28,
+    "commission": 12.13,
+    "created_at": "2026-07-13T17:41:57+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "85d9d067-3b0f-4807-85f2-ce41c1da7334",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 116.66,
+    "commission": 11.67,
+    "created_at": "2026-07-13T18:30:23+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "962eb1c7-cd77-482b-bcc8-128cec355b61",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 119.3,
+    "commission": 11.93,
+    "created_at": "2026-07-13T19:21:52+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "7802597e-ec15-4546-8dca-7ef9363dbef6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.81,
+    "commission": 9.78,
+    "created_at": "2026-07-13T20:24:17+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "85fb46a0-0cd4-4d9f-8e14-279c33a077fe",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 101.21,
+    "commission": 10.12,
+    "created_at": "2026-07-13T21:56:02+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "adbb1663-0f7a-477f-a678-ca73a1b2bb0f",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 107.65,
+    "commission": 10.77,
+    "created_at": "2026-07-13T22:14:35+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b0edc9aa-0bb4-4e95-b5b5-7d8903a7943b",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 122.51,
+    "commission": 12.25,
+    "created_at": "2026-07-14T00:46:42+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "9173181c-c981-4ffc-b0a9-d4bb40c841df",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 118.47,
+    "commission": 11.85,
+    "created_at": "2026-07-13T12:00:10+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "9be3cc07-b6d8-4adc-9590-0f4ea1463efa",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.39,
+    "commission": 11.54,
+    "created_at": "2026-07-13T12:42:23+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a861a4c4-f016-45ae-9e8a-4b0e3567a752",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 94.42,
+    "commission": 9.44,
+    "created_at": "2026-07-13T13:33:29+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "07182f2e-f55c-4576-8340-8d1a5e916b1f",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.96,
+    "commission": 9.8,
+    "created_at": "2026-07-13T15:10:36+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "dd652f4a-f06e-436c-9ce6-7f42193dc842",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 107.64,
+    "commission": 10.76,
+    "created_at": "2026-07-13T15:32:14+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1ba26b98-b593-4096-aa1a-959c2c04958d",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.87,
+    "commission": 9.69,
+    "created_at": "2026-07-13T12:16:34+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "af1a1557-b35a-4008-938b-c4ea21386942",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.67,
+    "commission": 10.27,
+    "created_at": "2026-07-13T12:46:54+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8441dca1-0de9-46d8-9c52-807193eb56d5",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.0,
+    "commission": 11.2,
+    "created_at": "2026-07-13T13:50:08+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8abdc5a7-71f4-494b-9b43-33bce31d1bc6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 94.84,
+    "commission": 9.48,
+    "created_at": "2026-07-13T14:43:23+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f0cde381-d7d1-4898-b1ac-8bd915768ba0",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 118.63,
+    "commission": 11.86,
+    "created_at": "2026-07-13T12:01:09+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4e93a2c7-6fdf-41cd-aedb-f6d4edcc133b",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 105.45,
+    "commission": 10.54,
+    "created_at": "2026-07-13T13:05:42+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "643d38e9-575b-4761-9bcf-108ae1f147ca",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 94.01,
+    "commission": 9.4,
+    "created_at": "2026-07-13T13:56:55+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "652109ba-62cc-4a42-8c06-b2a7c100af85",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 95.42,
+    "commission": 9.54,
+    "created_at": "2026-07-13T15:55:35+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a5a5b367-db8f-4b0e-b22c-bc513ffeb6dd",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 117.61,
+    "commission": 11.76,
+    "created_at": "2026-07-13T16:47:51+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c06ef050-f365-4eba-b444-62c13232ed93",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 119.25,
+    "commission": 11.92,
+    "created_at": "2026-07-13T17:12:36+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a511d8cc-7b2b-4232-bcc9-b682a73438c7",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 117.29,
+    "commission": 11.73,
+    "created_at": "2026-07-13T18:13:18+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "22438735-e31d-45e6-a2c1-fcf0632d86f6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.61,
+    "commission": 9.66,
+    "created_at": "2026-07-13T18:26:56+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5bfb3435-720e-4ad0-abb1-4b98b1004d66",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.05,
+    "commission": 11.5,
+    "created_at": "2026-07-13T18:54:56+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "971d9a88-d73c-4abf-8aff-03b974b7f0e7",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 121.49,
+    "commission": 12.15,
+    "created_at": "2026-07-13T12:25:15+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2fdcb84b-81d6-49e5-85ea-471d754b4bdf",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 123.16,
+    "commission": 12.32,
+    "created_at": "2026-07-13T13:24:45+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f2acad16-00df-45ee-954f-2ba494ef5b9b",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 122.48,
+    "commission": 12.25,
+    "created_at": "2026-07-13T14:15:16+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a2574599-bfcb-4c7e-92f7-00c49356365f",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.42,
+    "commission": 10.94,
+    "created_at": "2026-07-13T14:57:17+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5e643579-00bb-4b60-a198-ea21aee89da7",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 108.71,
+    "commission": 10.87,
+    "created_at": "2026-07-13T17:11:19+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a23dba94-b046-4587-8852-975092408763",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.82,
+    "commission": 11.58,
+    "created_at": "2026-07-13T17:41:29+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4310b19d-8e30-49bf-9ab5-18559f234245",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 114.27,
+    "commission": 11.43,
+    "created_at": "2026-07-13T19:09:11+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a3cd8508-0f84-46b4-a06b-a8e09e9d4997",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.3,
+    "commission": 11.53,
+    "created_at": "2026-07-13T20:13:51+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c65bb749-e8c4-4fdd-80f3-196193fe13a0",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.32,
+    "commission": 10.43,
+    "created_at": "2026-07-13T21:37:10+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5f767abc-09cc-42f2-a635-bda488630c45",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.28,
+    "commission": 10.23,
+    "created_at": "2026-07-13T23:48:04+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "7e41c0fc-576c-4c57-bcac-e27c3ef16eff",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.23,
+    "commission": 10.92,
+    "created_at": "2026-07-14T00:59:34+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "3de4a5c8-6fa6-4474-8262-a1203b5bcacd",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 114.57,
+    "commission": 11.46,
+    "created_at": "2026-07-13T12:16:47+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "429731f8-46cf-42f5-ada0-6ef6b40d1c20",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.03,
+    "commission": 11.2,
+    "created_at": "2026-07-13T13:20:01+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "214935a7-532c-4b97-80d1-8472062b3272",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 110.89,
+    "commission": 11.09,
+    "created_at": "2026-07-13T14:20:14+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "21b95fb2-2933-49f1-97f9-802a7c12d495",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 95.97,
+    "commission": 9.6,
+    "created_at": "2026-07-13T14:59:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "089af0e1-2fe5-4d70-ae66-053084674f4a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.63,
+    "commission": 9.16,
+    "created_at": "2026-07-13T15:28:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c65cfa70-575d-4e7c-b9d4-cec82e82b18a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 100.44,
+    "commission": 10.04,
+    "created_at": "2026-07-13T18:13:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "92251b35-784a-4d97-b972-b7f54526355e",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.96,
+    "commission": 10.3,
+    "created_at": "2026-07-13T19:33:24+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "31faaefa-be1a-44eb-b11d-9296200f504a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.6,
+    "commission": 11.56,
+    "created_at": "2026-07-13T20:12:43+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "692ceca9-c2bd-4717-9f88-2e4ff4d38a8c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 92.73,
+    "commission": 9.27,
+    "created_at": "2026-07-13T20:30:30+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "68af73be-bb23-4ec7-9890-858c652622b8",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 107.22,
+    "commission": 10.72,
+    "created_at": "2026-07-13T21:49:54+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "165db675-499b-4032-8231-c2b464a56675",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 120.35,
+    "commission": 12.04,
+    "created_at": "2026-07-13T22:03:17+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "31017f3d-f307-4206-aa14-bab6e6a96661",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 99.78,
+    "commission": 9.98,
+    "created_at": "2026-07-13T22:44:55+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4d6e8357-1cc4-4041-9498-da834d623a93",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 101.01,
+    "commission": 10.1,
+    "created_at": "2026-07-14T00:02:21+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "fc80ed4c-617c-4e34-a58c-38911ccb3d53",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 94.98,
+    "commission": 9.5,
+    "created_at": "2026-07-13T12:51:18+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2fffdc9d-a361-427c-9d7e-7160ea89dc46",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 111.36,
+    "commission": 11.14,
+    "created_at": "2026-07-13T13:42:20+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f6392b47-0d07-46fe-b49c-8cdff2e7a364",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.89,
+    "commission": 9.69,
+    "created_at": "2026-07-13T14:26:38+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8cc2a50c-5ef3-4d04-bdf8-2fe030a868f4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 118.94,
+    "commission": 11.89,
+    "created_at": "2026-07-13T15:20:15+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "83816063-6d1f-4215-8783-10240e729d92",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.32,
+    "commission": 10.23,
+    "created_at": "2026-07-13T15:48:25+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4a7053ef-d139-4699-8443-521cf29345a4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.03,
+    "commission": 9.6,
+    "created_at": "2026-07-13T16:27:58+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4f8f1b55-981e-43bc-ad99-50e94cddcbde",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 95.14,
+    "commission": 9.51,
+    "created_at": "2026-07-13T19:16:37+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "50c9c86b-0180-4bbf-83dc-93148a4b37e6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 113.2,
+    "commission": 11.32,
+    "created_at": "2026-07-13T21:29:48+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ef8b93e2-dd6a-4251-a4c8-126b01bc72f2",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 92.21,
+    "commission": 9.22,
+    "created_at": "2026-07-13T23:04:13+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b0dde2c8-a0c8-4ba1-a737-4e691b6c8213",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.89,
+    "commission": 11.29,
+    "created_at": "2026-07-13T23:53:03+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "9545423c-41e6-4d15-bb40-a8d7a29e7e90",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 94.53,
+    "commission": 9.45,
+    "created_at": "2026-07-14T00:31:02+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d86e9f5c-5f6f-4827-89ef-26419ad5d146",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.69,
+    "commission": 10.27,
+    "created_at": "2026-07-13T12:54:17+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a4bae40d-5961-43d9-b938-467f889ab2fb",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 117.34,
+    "commission": 11.73,
+    "created_at": "2026-07-13T13:45:09+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1845fd31-cbbd-4ec9-8519-08655b54cfcd",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.81,
+    "commission": 9.68,
+    "created_at": "2026-07-13T14:28:36+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "36e75b58-a2b7-4160-b1aa-d9eb2805051a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 100.35,
+    "commission": 10.04,
+    "created_at": "2026-07-13T15:19:51+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "96a3e84c-68d5-4156-950d-350eb2784055",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 106.67,
+    "commission": 10.67,
+    "created_at": "2026-07-13T15:38:37+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0474dde8-519b-4748-8afc-3c9beedd0113",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 98.29,
+    "commission": 9.83,
+    "created_at": "2026-07-13T16:36:17+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "9c63bec8-0bc3-4980-9f82-03bfb4c983f4",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.63,
+    "commission": 11.26,
+    "created_at": "2026-07-13T18:21:01+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1035627d-fdee-47a0-8ca8-67d10826d0e1",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 111.53,
+    "commission": 11.15,
+    "created_at": "2026-07-13T18:58:18+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f9fc7d04-d4f9-493e-81b2-ace27598fbb7",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 114.04,
+    "commission": 11.4,
+    "created_at": "2026-07-13T20:05:37+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "21e01d62-c930-43f4-a886-7499fb6b65f5",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 103.17,
+    "commission": 10.32,
+    "created_at": "2026-07-13T20:58:30+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0827af68-bc71-43f8-bd3c-b9d36c6e0bdf",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 111.73,
+    "commission": 11.17,
+    "created_at": "2026-07-13T21:27:39+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "44cd1c76-3767-444c-a178-da6820160204",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.37,
+    "commission": 10.44,
+    "created_at": "2026-07-13T15:50:16+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "055b7ef2-813d-4ab1-a857-19abe6acd44d",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 110.01,
+    "commission": 11.0,
+    "created_at": "2026-07-13T16:30:31+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d48566ec-a5e7-4b8e-bb42-5ee51564822a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.74,
+    "commission": 9.77,
+    "created_at": "2026-07-13T16:59:12+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "689062bf-b4e1-4c41-8fe3-a9b78dbda8cf",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 114.89,
+    "commission": 11.49,
+    "created_at": "2026-07-13T18:12:28+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8ff8d294-23b0-4cee-9174-e578d6fa6c5e",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.6,
+    "commission": 10.46,
+    "created_at": "2026-07-13T19:23:39+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "32021038-b655-4a05-a592-14f291031edb",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 103.41,
+    "commission": 10.34,
+    "created_at": "2026-07-13T19:37:58+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0457af4c-9ee1-4f4f-a13b-8e872ae1d766",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 122.66,
+    "commission": 12.27,
+    "created_at": "2026-07-13T20:42:27+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "34d84fe4-2778-443c-972a-57be03ec7b01",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.39,
+    "commission": 11.24,
+    "created_at": "2026-07-13T21:01:16+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "71f63891-8fb8-4ce2-97a4-9bfb7102d024",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 98.65,
+    "commission": 9.87,
+    "created_at": "2026-07-13T22:06:02+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f1bc49b7-5eab-4be7-8936-5858f397447c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 117.05,
+    "commission": 11.7,
+    "created_at": "2026-07-13T22:58:05+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4c9f03e4-6044-4bcf-a862-ff6eb622d807",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 110.88,
+    "commission": 11.09,
+    "created_at": "2026-07-13T16:06:58+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "bcd15f39-f90b-4068-8fc1-bfd0c1f9e24c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.41,
+    "commission": 10.24,
+    "created_at": "2026-07-13T18:03:21+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b78df442-5684-4cb3-af51-bd1030674546",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 110.27,
+    "commission": 11.03,
+    "created_at": "2026-07-13T19:19:08+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "137aca43-67be-456a-bbca-baacb283a881",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 118.73,
+    "commission": 11.87,
+    "created_at": "2026-07-13T19:59:17+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "046a059e-c8c1-4f96-83e8-5f1b1ce63e42",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 104.2,
+    "commission": 10.42,
+    "created_at": "2026-07-13T21:01:28+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a91f4766-6923-472a-9483-2c163a916a7d",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 107.97,
+    "commission": 10.8,
+    "created_at": "2026-07-13T22:11:23+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b1747fcb-36a9-4d3f-8ab8-dff7aee302ba",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 94.05,
+    "commission": 9.4,
+    "created_at": "2026-07-13T23:38:04+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ad5e1e23-6855-4a50-98c5-c635f5befa8d",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.76,
+    "commission": 9.18,
+    "created_at": "2026-07-13T16:37:25+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "56d7423e-c23c-42fd-a44c-9941e76b133e",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 103.06,
+    "commission": 10.31,
+    "created_at": "2026-07-13T19:47:53+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a73507cb-4dd2-4072-87aa-c94ad5dbcc5a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 111.96,
+    "commission": 11.2,
+    "created_at": "2026-07-13T20:05:16+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ce3fe1f7-ab6c-49ff-9081-784b98565c9a",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 118.31,
+    "commission": 11.83,
+    "created_at": "2026-07-13T21:31:29+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "fee178c1-e65f-4e58-bb06-5af312586234",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.07,
+    "commission": 10.21,
+    "created_at": "2026-07-13T21:55:06+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1e69a8c9-8f65-4122-89eb-9a21f434160d",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 116.78,
+    "commission": 11.68,
+    "created_at": "2026-07-13T19:18:33+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "32156252-fda9-4aa1-be01-d6d1958709a5",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 102.51,
+    "commission": 10.25,
+    "created_at": "2026-07-13T20:03:54+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e7874791-1387-4bcb-809f-b1e068c608e5",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 120.75,
+    "commission": 12.08,
+    "created_at": "2026-07-13T20:46:34+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2ce0296b-6065-47d5-ad23-ea3fcd05f7b1",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 119.63,
+    "commission": 11.96,
+    "created_at": "2026-07-13T21:04:54+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d910bc90-08d8-476f-bd3b-191cdc2f8568",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 122.47,
+    "commission": 12.25,
+    "created_at": "2026-07-13T21:24:15+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "9cf3807e-6579-4d54-8b95-a00b2cb13b17",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.73,
+    "commission": 9.67,
+    "created_at": "2026-07-13T22:37:53+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "cc0f4c84-7198-40c0-a7c5-8c5f073a83d0",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 113.22,
+    "commission": 11.32,
+    "created_at": "2026-07-13T23:23:37+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e6daa6d3-7a3f-459d-812e-8d2d424c1ac0",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 111.52,
+    "commission": 11.15,
+    "created_at": "2026-07-14T00:52:51+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6a721641-844a-4e5c-98f3-c240915ce89d",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 101.02,
+    "commission": 10.1,
+    "created_at": "2026-07-13T20:18:47+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "549e4a8b-1600-4261-a1df-4000807fceb8",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 109.1,
+    "commission": 10.91,
+    "created_at": "2026-07-13T22:14:30+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "cb3fe033-fff3-49d2-b830-aaf5ffafc02c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 112.54,
+    "commission": 11.25,
+    "created_at": "2026-07-13T23:23:25+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b06a8d0b-d500-43aa-8373-885f27e6fee6",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 116.81,
+    "commission": 11.68,
+    "created_at": "2026-07-14T00:15:43+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "82d97c51-487b-4b1e-b18d-4690b6c19c26",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 120.22,
+    "commission": 12.02,
+    "created_at": "2026-07-13T21:07:06+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4c778aa4-e420-4b32-9d81-9fc9ea02c647",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 91.18,
+    "commission": 9.12,
+    "created_at": "2026-07-13T22:42:39+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0e7f5ae3-60c5-4cf3-b32f-54dfc456d4c9",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 93.03,
+    "commission": 9.3,
+    "created_at": "2026-07-13T23:08:21+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "84006f53-e5ea-4fd4-bc39-a1ff1527b6a2",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 107.64,
+    "commission": 10.76,
+    "created_at": "2026-07-13T23:40:15+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4c8dbb56-a9c1-48ef-9ca8-cecb33be4ab8",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 98.5,
+    "commission": 9.85,
+    "created_at": "2026-07-14T00:32:03+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "375fb863-9fdb-40db-8c53-e5492c5bf752",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.72,
+    "commission": 9.77,
+    "created_at": "2026-07-13T21:13:52+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "97cdcde8-08fb-4062-97a5-d286e7d59247",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 116.77,
+    "commission": 11.68,
+    "created_at": "2026-07-13T23:16:51+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ee0b2c3b-e207-47fd-a7e9-3381503dcfac",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 94.62,
+    "commission": 9.46,
+    "created_at": "2026-07-14T00:47:57+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2155c0bc-6f0c-41b4-8d04-122c6bbedbba",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 123.27,
+    "commission": 12.33,
+    "created_at": "2026-07-13T22:33:38+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1082b50c-8a12-402c-ab6d-cbba4973c277",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 97.38,
+    "commission": 9.74,
+    "created_at": "2026-07-13T22:44:42+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "87ce8dde-feb1-4c21-a6ca-93f54feb09ef",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.13,
+    "commission": 11.51,
+    "created_at": "2026-07-14T00:21:29+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4142856a-d92e-4a0f-877f-134ca5160c82",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 96.43,
+    "commission": 9.64,
+    "created_at": "2026-07-14T00:59:22+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "be18e726-e665-41d1-864d-4f80801ccade",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 115.0,
+    "commission": 11.5,
+    "created_at": "2026-07-13T23:27:33+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "09e1208d-8175-4de0-94f1-bfef86a0b19c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 108.24,
+    "commission": 10.82,
+    "created_at": "2026-07-13T23:39:18+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "9dafb552-f007-407c-bf17-16559f236a0c",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 106.4,
+    "commission": 10.64,
+    "created_at": "2026-07-13T23:19:01+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2f41b9d0-9f73-413a-b9b6-9f0813b1b690",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 108.85,
+    "commission": 10.88,
+    "created_at": "2026-07-14T00:15:05+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "15e7fe19-899f-45bd-a293-dc4dd6dc1330",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 120.78,
+    "commission": 12.08,
+    "created_at": "2026-07-13T23:37:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d43e4315-1d3e-4082-a703-3f9903daeef0",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 95.38,
+    "commission": 9.54,
+    "created_at": "2026-07-14T00:12:45+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "7cd4c10c-f22d-408f-a712-c22386df6b84",
+    "product_id": null,
+    "buyer_name": "Venda registrada",
+    "value": 101.99,
+    "commission": 10.2,
+    "created_at": "2026-07-14T00:41:33+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "7a738d3d-364d-4bf7-a666-36807be5cb6c",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 46.03,
+    "commission": 4.6,
+    "created_at": "2026-08-01T11:30:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6f59de41-52ce-490c-b21f-807cb245528a",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 53.91,
+    "commission": 5.39,
+    "created_at": "2026-08-01T12:00:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a61111d4-a1cd-4922-87af-290baa1d819d",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 45.92,
+    "commission": 4.59,
+    "created_at": "2026-08-02T12:13:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "639655c8-ea65-487e-8425-7f5bb6e5d3f4",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 41.41,
+    "commission": 4.14,
+    "created_at": "2026-08-02T15:47:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d22b45a7-fea3-4345-b44d-69a596d4c459",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 44.61,
+    "commission": 4.46,
+    "created_at": "2026-08-03T22:53:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "04999786-63a9-42f1-99c1-3da1e2f8ad12",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 54.51,
+    "commission": 5.45,
+    "created_at": "2026-08-04T17:29:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "b80db245-09fd-449a-8e51-613638df1414",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 51.27,
+    "commission": 5.13,
+    "created_at": "2026-08-04T14:07:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e81e945c-5b66-4f54-87ae-ddd6732b8999",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 44.81,
+    "commission": 4.48,
+    "created_at": "2026-08-05T19:45:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "72a9e88c-ce36-4b7c-80ad-88361a04b3ae",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 57.3,
+    "commission": 5.73,
+    "created_at": "2026-08-06T18:53:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6a137855-bc80-4adf-9813-4ef12a82f3ba",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 53.63,
+    "commission": 5.36,
+    "created_at": "2026-08-06T21:40:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0c93b09c-4138-45de-bd62-7997fab4c49c",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 40.99,
+    "commission": 4.1,
+    "created_at": "2026-08-07T20:14:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "23eb4b18-21db-443a-8634-28a90d20ec26",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 52.09,
+    "commission": 5.21,
+    "created_at": "2026-08-08T11:02:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1ed41543-5763-4d8f-bd07-f7b3f6016ce0",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 52.7,
+    "commission": 5.27,
+    "created_at": "2026-08-08T17:00:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4752d052-9746-4ce0-ba31-9dd058c56a89",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 50.44,
+    "commission": 5.04,
+    "created_at": "2026-08-09T20:55:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "703937a1-c9ad-43a0-ab0e-166c08e2c0d6",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 57.61,
+    "commission": 5.76,
+    "created_at": "2026-08-09T16:37:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5a302203-b35e-4a22-a4a9-ba2d2b322fc3",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 42.25,
+    "commission": 4.22,
+    "created_at": "2026-08-11T00:25:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "077a89b8-75e7-4f4a-9884-23095e40f02b",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 53.55,
+    "commission": 5.35,
+    "created_at": "2026-08-11T16:21:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f759090d-53e0-4f1a-92bd-e89246842669",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 56.36,
+    "commission": 5.64,
+    "created_at": "2026-08-11T12:51:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1b9a7ac5-3830-497f-b9c2-78493d32c4b5",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 45.32,
+    "commission": 4.53,
+    "created_at": "2026-08-12T18:44:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "39a891f7-06ff-4ae2-9cac-72db483b61a6",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 56.32,
+    "commission": 5.63,
+    "created_at": "2026-08-13T14:48:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "362e1fe7-5918-4440-b822-b5735139d412",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 56.18,
+    "commission": 5.62,
+    "created_at": "2026-08-13T18:43:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "7df7f54c-b6ac-465f-9701-1068688e2072",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 44.12,
+    "commission": 4.41,
+    "created_at": "2026-08-14T18:30:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d051c249-1bb0-4351-b5f1-8765713bca19",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 55.74,
+    "commission": 5.57,
+    "created_at": "2026-08-15T20:23:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ff4c0f71-fe0b-4b47-ba2c-684dbe375a49",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 45.41,
+    "commission": 4.54,
+    "created_at": "2026-08-15T17:49:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "dabbddad-4b95-4857-bab1-d4781cc4b589",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 56.15,
+    "commission": 5.61,
+    "created_at": "2026-08-16T21:48:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d2a84cae-cd05-44d4-8acc-2be955ae6e6f",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 42.24,
+    "commission": 4.22,
+    "created_at": "2026-08-17T17:51:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5b8b7745-f370-49ec-901d-4020229f03ef",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 57.21,
+    "commission": 5.72,
+    "created_at": "2026-08-17T23:54:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "082e0ffd-b1d3-42dd-9fd1-7e022bc560d7",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 50.83,
+    "commission": 5.08,
+    "created_at": "2026-08-18T19:57:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1cac7818-7a18-44a1-ac70-615eba96e9b7",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 53.02,
+    "commission": 5.3,
+    "created_at": "2026-08-18T20:47:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5e958985-d37c-4acc-8ce3-3a4d7b905b66",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 59.47,
+    "commission": 5.95,
+    "created_at": "2026-08-20T00:57:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e9377287-61b5-4d9b-85ce-436e9b1d61bd",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 48.24,
+    "commission": 4.82,
+    "created_at": "2026-08-20T21:22:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5fae7881-e08b-4e45-ad08-9319208bbcd4",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 53.3,
+    "commission": 5.33,
+    "created_at": "2026-08-20T17:09:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4d15dac3-2043-4a92-8d23-7d11ee8bdcb0",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 41.81,
+    "commission": 4.18,
+    "created_at": "2026-08-21T23:44:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "043a9622-b4c8-4345-9a43-4fe814120c4f",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 40.54,
+    "commission": 4.05,
+    "created_at": "2026-08-22T17:18:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f953477a-f0b6-4b62-b21b-70e270361930",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 47.17,
+    "commission": 4.72,
+    "created_at": "2026-08-22T14:39:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2666bd13-618f-42cd-b777-998489cbd634",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 57.02,
+    "commission": 5.7,
+    "created_at": "2026-08-23T14:02:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a0098c5f-31bc-41a1-a1be-0d9dab633aa5",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 46.66,
+    "commission": 4.67,
+    "created_at": "2026-08-24T13:32:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "0b6d26d6-b540-458c-8505-8b5f6ba27c5f",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 49.8,
+    "commission": 4.98,
+    "created_at": "2026-08-24T15:22:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6855e07e-069e-47c6-8d95-836854700bfd",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 55.3,
+    "commission": 5.53,
+    "created_at": "2026-08-25T22:50:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8389d778-686f-42a0-a8a2-cc409935c6ba",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 48.05,
+    "commission": 4.81,
+    "created_at": "2026-08-25T19:51:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ebf7234c-b6bd-409f-aca6-cedaf596bb45",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 47.61,
+    "commission": 4.76,
+    "created_at": "2026-08-26T21:39:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "115499c5-eab0-4983-8696-2d3a0e3feabc",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 40.45,
+    "commission": 4.04,
+    "created_at": "2026-08-27T17:27:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e5fcc958-0ed2-40c9-9490-783f1421ab8a",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 46.25,
+    "commission": 4.63,
+    "created_at": "2026-08-27T13:18:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d31f3d5b-a818-4df2-907d-cf86cc16bae2",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 55.34,
+    "commission": 5.53,
+    "created_at": "2026-08-28T16:21:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "47e87b85-71d8-4069-9c39-f6d03d63f95e",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 55.17,
+    "commission": 5.52,
+    "created_at": "2026-08-29T20:27:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "008f0334-2739-45ef-a170-cc5b1f028e3e",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 54.09,
+    "commission": 5.41,
+    "created_at": "2026-08-29T18:50:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ac9d64e4-ff36-4f90-8cbf-402c1b94ad70",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 44.84,
+    "commission": 4.48,
+    "created_at": "2026-08-30T22:35:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "9590e60f-eed4-489e-8f10-fc9044991879",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 54.14,
+    "commission": 5.41,
+    "created_at": "2026-09-01T00:07:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "127885ff-f22c-401d-8f06-0fc57c24190d",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 42.47,
+    "commission": 4.25,
+    "created_at": "2026-08-31T15:06:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "18697ec6-461c-4c24-9267-5083fce3242c",
+    "product_id": "5d3395ac-b04b-40a1-a51d-5225c1beb032",
+    "buyer_name": "Venda em lote",
+    "value": 59.6,
+    "commission": 5.96,
+    "created_at": "2026-09-01T14:44:00+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1da274e2-e6f4-4ddc-8785-92835767f508",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-11T17:49:30.654+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e6b5838c-8249-4fc1-8b25-5affdedccb77",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-11T17:50:03.662+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e741cb31-010e-47d1-aed9-95eaeb2b883e",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-11T17:51:04.353+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "94273658-e7cd-48c5-bb12-df1f1ac2839d",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-11T17:53:00.337+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "00b40cac-6818-4308-94c0-c1f43c3e0b37",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-11T17:50:34.064+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "18c1e9c7-eb40-402b-addc-4f2a9567af56",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-11T17:53:30.488+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "fdc7b1e9-cd94-4848-9ced-953366da904a",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-11T17:51:34.46+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ec6ee646-08a4-4896-a4e2-593fe3d1a58f",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-11T17:52:04.626+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "dd268be7-122d-482b-9407-bc4ac9f699d4",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-11T17:54:00.879+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "a653427b-fc4d-42cf-9353-bd38b2ef2c54",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-11T17:54:34.336+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "2ca3a148-1af8-4ec6-a4b6-bd25b8a6d59c",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-11T17:55:10.336+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e053d895-f4b0-488d-a804-ad1e74170496",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-11T17:55:40.579+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5c880e40-2808-41d3-a99e-10089dd7f621",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-11T17:56:17.436+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8e907e85-50b4-4bfb-afc8-6a05b897e389",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-11T17:57:18.337+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "891f3605-8147-4daa-b855-a37a025c0eb7",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-11T17:57:48.983+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "9b4d8761-151c-4e35-a262-a01d121ab79e",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-11T17:58:19.141+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "6f0b9b99-8d3b-45d4-ae63-1636c075dc3d",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-11T17:58:49.615+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1facc573-ec0c-419d-87e9-a7f58ee2182a",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-11T17:59:19.729+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "3ba17690-42b2-4742-aa3d-729db133cecf",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-11T18:03:22.676+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "801951d4-44d0-4118-96d4-adbb487aa4cd",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-11T17:59:50.34+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e81f59e5-1627-4c40-890a-66087c603845",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-11T18:00:20.467+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c8bc2bc2-6f63-4936-a6ca-f7cc6613f810",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-11T18:00:51.211+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "1fdf2a1f-bf8e-4422-9332-0046ca8e2eb1",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-11T18:01:21.445+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "643dbfa5-aded-4a8f-a02f-b3ca937d41a8",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-11T18:01:51.851+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "60fe62ff-4af7-4de5-b9e3-0a12e709449e",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-11T18:02:21.96+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "d2300170-e383-479e-8d31-4d3ae838a0cc",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-11T18:02:52.478+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "04fc412f-2fdb-4aad-9ee9-998d395f0ebe",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-11T18:03:53.426+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "3767d08d-2069-4f45-a250-ca886dbb814b",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-26T17:36:03.161+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8c7e0335-0aae-42f0-9b23-319d7aeb4f4d",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-26T17:37:35.166+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "8f50eb89-6934-4bd4-a6bb-734761ef5ccb",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-28T16:36:19.367+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "4aad0dcb-972b-4155-b050-fc4b79338e8e",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-28T16:36:50.227+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "535e8f3c-fa5f-4363-bcf5-e787dfa55503",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-28T16:37:20.878+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "e02d0179-07d4-4b91-b2f3-bd78a13d9fb3",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-28T16:37:51.532+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "798848af-99eb-40da-bbe9-f34a8c5b4f2a",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-28T16:38:21.915+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "f3aa1d67-8516-40aa-a486-eb879c3134e9",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-28T16:38:52.255+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "5646cc31-ab19-4599-b1a6-81ace433f5f9",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-28T16:39:22.583+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "10265721-84a4-44b2-b967-d6d68b46a242",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-28T16:39:52.863+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "ae4b5cde-6957-4c17-9e30-2d4b3359a795",
+    "product_id": "adf7ea60-050c-41f8-8e1c-3a26d57c419a",
+    "buyer_name": "Kit Conjunto Colar E Brinco Zirconia Com Caixa E Rosas Presente Dia Das M\u00e3es Namorada",
+    "value": 52.4,
+    "commission": 5.24,
+    "created_at": "2026-08-28T16:40:23.187+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "3124e32f-e027-481e-8fa2-5d7c358c03e8",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin S\u00e9rum Clareador com \u00c1cido Tranex\u00e2mico, \u00c1cido Glic\u00f3lico - Tratamento de Acne - Manchas de Pele e Melasma",
+    "value": 220.0,
+    "commission": 22.0,
+    "created_at": "2026-08-28T16:41:19.734+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  },
+  {
+    "id": "c1a1f7a4-59ba-40e9-9662-0619f14bec36",
+    "product_id": null,
+    "buyer_name": "Zencial Envy Skin GHK-CU - S\u00e9rum com Pept\u00eddeos de Cobre Col\u00e1geno e \u00c1cido Hialur\u00f4nico 30ml",
+    "value": 97.0,
+    "commission": 9.7,
+    "created_at": "2026-08-28T16:41:49.946+00:00",
+    "user_id": "99ff1867-e97b-43d1-9daa-03258c699436"
+  }
+]
